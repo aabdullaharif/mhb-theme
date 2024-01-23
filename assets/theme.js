@@ -2557,6 +2557,7 @@ Line 122:4 Transforming let to the configured target environment ("es5") is not 
   var ProductLoader = class {
     static load(productHandle) {
       if(document.getElementById("productJson")){
+        console.log(JSON.parse(document.getElementById("productJson").innerHTML));
         return this.loadedProducts[productHandle] = JSON.parse(document.getElementById("productJson").innerHTML);
       }
       if (!productHandle) {

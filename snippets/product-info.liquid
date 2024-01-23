@@ -1,25 +1,3 @@
-{% comment %}
-SellersDash collect child product details
-{% endcomment %}
-{% assign shsd_product_details = product.metafields.sellersdash.shsdproducts %}
-{% if shsd_product_details.product_type == "shsd_parent" %}
-  {% assign shsd_product_handles = product.handle %}
-  {% assign shsd_product_handles = shsd_product_handles | concat: shsd_product_details.handles %}
-  {% for shsd_handle in shsd_product_handles %}
-    {% assign shsd_single_product = all_products[shsd_handle] %}
-    {% assign shsd_product_variants = shsd_product_variants | concat: shsd_single_product.variants %}
-    {% assign shsd_product_media = shsd_product_media | concat: shsd_single_product.media %}
-    {% assign shsd_product_images = shsd_product_images | concat: shsd_single_product.images %}
-  {% endfor %}
-  {% assign shsd_product_options_with_values = shsd_product_details.options_with_values %}
-{% else %}
-  {% assign shsd_product_options_with_values = product.options_with_values %}
-  {% assign shsd_product_variants = product.variants %}
-  {% assign shsd_product_media = product.media %}
-  {% assign shsd_product_images = product.images %}
-{% endif %}
-{% assign shsd_product_options = shsd_product_options_with_values | map: "name" %}
-
 {%- capture product_form_id -%}product-form-{{ section.id }}-{{ product.id }}{%- endcapture -%}
 {%- assign is_recast = false -%}
 {%- assign is_presale = false -%}
@@ -89,10 +67,10 @@ SellersDash collect child product details
         {%- if section.settings.show_sku -%}
           <span
             class="product-meta__sku text--subdued text--xxsmall"
-            {% if shsd_product_variants[0].sku == blank %}style="display: none"{% endif %}
+            {% if product.variants[0].sku == blank %}style="display: none"{% endif %}
             data-product-sku-container>
             {{- 'product.general.sku' | t }}
-            <span class="product-meta__sku-number" data-product-sku-number>{{ shsd_product_variants[0].sku }}</span>
+            <span class="product-meta__sku-number" data-product-sku-number>{{ product.variants[0].sku }}</span>
           </span>
         {%- endif -%}
       </div>

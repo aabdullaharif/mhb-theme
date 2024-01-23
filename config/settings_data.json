@@ -1,6 +1,5 @@
 {
   "current": {
-    "icon_stroke_width": 2,
     "button_border_radius": 6,
     "block_border_radius": "none",
     "vertical_spacing": "small",
@@ -78,11 +77,12 @@
           "message-1": {
             "type": "message",
             "settings": {
-              "text": "Ice is finally melting... We're OPEN!",
-              "learn_more_text": "",
-              "title": "",
-              "content": "",
-              "button_text": "",
+              "text": "HUGE HOLIDAY RAFFLE with 33 prizes, including a $1000 gift card!",
+              "learn_more_text": "Learn More.",
+              "image": "shopify:\/\/shop_images\/fiina_interior.jpg",
+              "title": "Unlimited entries. Unlimited joy.",
+              "content": "<p>Now through December 24th, <strong>earn free raffle entries<\/strong> to win one of 33 Gift Cards of up to $1000 by signing up for our email list, following us on Instagram, and more.<\/p><p>Increase your chances by making a purchase online or in our stores, including <strong>our new fine jewelry shop, Fiina.<\/strong><\/p>",
+              "button_text": "Learn More",
               "button_link": "shopify:\/\/pages\/contests-giveaways"
             }
           }
@@ -277,11 +277,11 @@
               "menu": "more-1"
             }
           },
-          "text_ER6dN6": {
+          "text": {
             "type": "text",
             "settings": {
               "title": "Visit Us",
-              "content": "<p><a href=\"https:\/\/betsyandiya.com\/pages\/brick-and-mortar\"><span style=\"text-decoration:underline\">1777 NW 24TH AVENUE, PORTLAND, OR<\/span><\/a><\/p><p><a href=\"https:\/\/betsyandiya.com\/pages\/brick-and-mortar\"><span style=\"text-decoration:underline\">11AM–6PM EVERY DAY<\/span><\/a><\/p>"
+              "content": "<p><a href=\"\/pages\/brick-and-mortar\" title=\"Brick & Mortar\">1777 NW 24TH AVENUE, PORTLAND, OR 97210<\/a><\/p><p><a href=\"tel:503-227-5482\" title=\"tel:503-227-5482\">503-227-5482<\/a><\/p><p><a href=\"https:\/\/betsyandiya.com\/pages\/brick-and-mortar\">11AM–6PM EVERY DAY<\/a> \/ <a href=\"\/pages\/brick-and-mortar\" title=\"Brick & Mortar\">HOLIDAY HOURS<\/a><\/p>"
             }
           },
           "70aeb86c-64a9-44c4-8677-b93c2253dc3e": {
@@ -298,7 +298,7 @@
           "links",
           "355341d7-df55-4b4d-95ab-496cdd2e616f",
           "98dff9f1-2ec1-421c-9f39-3522868a59ba",
-          "text_ER6dN6",
+          "text",
           "70aeb86c-64a9-44c4-8677-b93c2253dc3e"
         ],
         "custom_css": [

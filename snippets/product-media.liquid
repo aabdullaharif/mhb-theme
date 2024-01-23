@@ -18,7 +18,6 @@
   {% assign shsd_product_media = product.media %}
   {% assign shsd_product_images = product.images %}
 {% endif %}
-{% assign shsd_product_options = shsd_product_options_with_values | map: "name" %}
 
 {%- if shsd_product_media.size > 0 -%}
   {%- assign selected_media = product.selected_variant.featured_media | default: product.featured_media -%}

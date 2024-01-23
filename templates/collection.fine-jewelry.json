@@ -18,8 +18,8 @@
       "type": "rich-text",
       "settings": {
         "subheading": "",
-        "title": "It's about more than  metal and stones.",
-        "content": "<p>It's about your unique story. And your story deserves high standards. Our materials are traceable, recycled, and conflict-free. And all our jewelry is designed, tested, and crafted by real humans who care right here in our Portland studio.<\/p>\n<p>From unique solitaire rings to gold earrings, necklaces, &amp; bracelets crafted to exacting standards to wedding bands and handmade engagement rings you won't find everywhere – our products are <strong>Beautiful things made by people who care.<\/strong>®<\/p>\n<p>Each piece begins with this care so that it can become more – a reflection of your deepest feelings, an object that aligns with your values, something that brings you back to what matters most. <strong>Your story.<\/strong> Metal and stones are only a starting place, not the end.<\/p>",
+        "title": "",
+        "content": "<h3>It's about more than  metal and stones.<\/h3><p>It's about your unique story. And your story deserves high standards. Our materials are traceable, recycled, and conflict-free. And all our jewelry is designed, tested, and crafted by real humans who care right here in our Portland studio.<\/p><p>Each piece begins with this care so that it can become more – a reflection of your deepest feelings, an object that aligns with your values, something that brings you back to what matters most. <strong>Your story.<\/strong> Metal and stones are only a starting place, not the end.<\/p>",
         "extra_emphasis": false,
         "button_text": "",
         "button_link": "",
@@ -66,28 +66,6 @@
         "text_color": "rgba(0,0,0,0)",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "17056903762fea8e35": {
-      "type": "apps",
-      "blocks": {
-        "google_reviews_carousel_widget_block_bPAAqk": {
-          "type": "shopify:\/\/apps\/google-reviews\/blocks\/carousel-widget-block\/8b378e9e-c56d-47ce-a754-feca5e0caf59",
-          "settings": {
-            "themeId": "light",
-            "autoscroll": true,
-            "showRating": false,
-            "showReviewPhotos": true,
-            "writeReview": false
-          }
-        }
-      },
-      "block_order": [
-        "google_reviews_carousel_widget_block_bPAAqk"
-      ],
-      "settings": {
-        "include_horizontal_margins": true,
-        "include_vertical_margins": true
       }
     },
     "a0028e43-4a07-44de-8cd9-8562f076706d": {
@@ -212,7 +190,6 @@
     "0df5b835-6c0a-425e-8b2f-5b18e2f92969",
     "main",
     "ecd8cf7f-4bda-4354-8a05-9ece7738d5f0",
-    "17056903762fea8e35",
     "a0028e43-4a07-44de-8cd9-8562f076706d",
     "493da6a4-4da6-4a25-806c-f810d8c51d91",
     "f32f97ef-36a5-4ccc-bc67-9101a3838751",

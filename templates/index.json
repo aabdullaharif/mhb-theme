@@ -6,7 +6,7 @@
         "template--14423479025726__8f8b0b42-dd5c-4875-af1b-d16ed55653ea-16656150689c61f7c3-0": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Web_Banner-Dawn23.jpg",
+            "image": "shopify:\/\/shop_images\/Web_Banner-Dawn23_600x_e5addc76-c01a-4767-8acc-f76b2591c903.webp",
             "title": "<h1 class=\"ginto-nord\" style=\"font-size:35px;\">Beautiful things<br><span class=\"bianco-serif\">made by <\/span>people who care.<\/h1>",
             "content": "<span class=\"bianco-serif\">Jewelry designed &amp; made onsite, plus a whole lot more.<\/span>",
             "button_text": "Browse Now",
@@ -39,29 +39,15 @@
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "fashion-jewelry",
-            "image": "shopify:\/\/shop_images\/Heart_flat_lay.jpg",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/BetsyIya_Jewelry_Category-2023.jpg",
             "subheading": "",
-            "title": "Fashion Jewelry",
+            "title": "Jewelry",
             "link_text": "",
-            "link_url": "shopify:\/\/collections\/fashion-jewelry",
+            "link_url": "shopify:\/\/collections\/jewelry",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 20
-          }
-        },
-        "f9733e2b-d1f1-4b4c-934e-56b094d16879": {
-          "type": "collection",
-          "settings": {
-            "collection": "betsy-iya-fine-jewelry",
-            "image": "shopify:\/\/shop_images\/Betsy_and_Iya_Fine_Jewelry.jpg",
-            "subheading": "",
-            "title": "Fine Jewelry",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
           }
         },
         "collection-2": {
@@ -91,32 +77,16 @@
             "overlay_color": "#000000",
             "overlay_opacity": 20
           }
-        },
-        "9400f840-be32-4629-bf13-3c74ca2eda70": {
-          "type": "collection",
-          "settings": {
-            "collection": "all",
-            "image": "shopify:\/\/shop_images\/betsy_iya_7-25-18_013.jpg",
-            "subheading": "",
-            "title": "Browse All",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
         }
       },
       "block_order": [
         "collection-3",
-        "f9733e2b-d1f1-4b4c-934e-56b094d16879",
         "collection-2",
-        "b1f156ee-c3fb-486f-8387-6d1f04b126bb",
-        "9400f840-be32-4629-bf13-3c74ca2eda70"
+        "b1f156ee-c3fb-486f-8387-6d1f04b126bb"
       ],
       "settings": {
         "reveal_on_scroll": false,
-        "layout": "carousel",
+        "layout": "grid",
         "subheading": "",
         "title": "Shop by category",
         "background": "#ffffff",
@@ -132,7 +102,7 @@
             "collection": "latest",
             "label": "",
             "button_text": "Browse More",
-            "button_url": "shopify:\/\/collections\/betsy-iya"
+            "button_url": "shopify:\/\/collections\/betsy-and-iya-jewelry"
           }
         }
       },
@@ -205,7 +175,7 @@
             "title": "",
             "content": "<h3>We make our jewelry by hand<span class=\"bianco-serif\"> at our shop in Portland.<\/span>\n<\/h3>",
             "extra_emphasis": false,
-            "link_text": "Ethically Sourced & Made",
+            "link_text": "Check Out Our Process",
             "link_url": "shopify:\/\/pages\/ethically-sourced-mindfully-made",
             "link_style": "link",
             "text_alignment": "center",
@@ -222,7 +192,7 @@
             "content": "<h3>\n<span class=\"bianco-serif\">We aim to amplify and celebrate<\/span> beauty, strength and connection <span class=\"bianco-serif\">of all people.<\/span>\n<\/h3>",
             "extra_emphasis": false,
             "link_text": "Read About Our Values",
-            "link_url": "shopify:\/\/pages\/our-values",
+            "link_url": "",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -260,7 +230,7 @@
             "tab_label": "",
             "subheading": "",
             "title": "Visit Us in Portland",
-            "content": "<p>Open 11am - 6pm \/\/ Every day<\/p><p><a href=\"\/pages\/brick-and-mortar\" title=\"Brick & Mortar\">1777 NW 24TH AVE<br\/>PORTLAND, OR 97210<\/a><\/p>",
+            "content": "<p>Open 11am - 6pm \/\/ Every day<\/p><p><span style=\"text-decoration:underline\">Holiday Hours<\/span>: <strong>12\/24: <\/strong>11am - 4pm • <strong>12\/25: <\/strong>CLOSED<strong> <\/strong>• <strong>12\/26 - 12\/30:<\/strong> 11am - 6pm • <strong>12\/31:<\/strong> 11am - 4pm • <strong>1\/1:<\/strong> CLOSED • <strong>1\/2 on:<\/strong> 11am - 6pm<\/p><p><a href=\"\/pages\/brick-and-mortar\" title=\"Brick & Mortar\">1777 NW 24th Ave<br\/>Portland, OR 97210<\/a><\/p>",
             "extra_emphasis": false,
             "button_text": "",
             "button_link": ""
@@ -410,28 +380,6 @@
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
-    },
-    "170568469792fad25c": {
-      "type": "apps",
-      "blocks": {
-        "google_reviews_carousel_widget_block_EX398J": {
-          "type": "shopify:\/\/apps\/google-reviews\/blocks\/carousel-widget-block\/8b378e9e-c56d-47ce-a754-feca5e0caf59",
-          "settings": {
-            "themeId": "light",
-            "autoscroll": true,
-            "showRating": false,
-            "showReviewPhotos": true,
-            "writeReview": false
-          }
-        }
-      },
-      "block_order": [
-        "google_reviews_carousel_widget_block_EX398J"
-      ],
-      "settings": {
-        "include_horizontal_margins": true,
-        "include_vertical_margins": true
-      }
     }
   },
   "order": [
@@ -447,7 +395,6 @@
     "caff9092-549e-4beb-8873-63fdbab25a99",
     "ea15ec75-b0bb-4b1a-979c-115490f2a560",
     "aa49f648-499e-4208-b444-81ffcaa65389",
-    "adb50b33-7028-4960-b269-65beac641c9b",
-    "170568469792fad25c"
+    "adb50b33-7028-4960-b269-65beac641c9b"
   ]
 }

@@ -4,7 +4,7 @@
 {% assign shsd_product_details = product.metafields.sellersdash.shsdproducts %}
 {% if shsd_product_details.product_type == "shsd_parent" %}
   {% assign shsd_product_handles = product.handle %}
-  {% assign shsd_product_handles = shsd_product_handles | concat: shsd_product_details.handles %}
+  {% assign shsd_product_handles = shsd_product_handles | concat: shsd_product_details.handles | slice: 0, 16 %}
   {% for shsd_handle in shsd_product_handles %}
     {% assign shsd_single_product = all_products[shsd_handle] %}
     {% assign shsd_product_variants = shsd_product_variants | concat: shsd_single_product.variants %}
@@ -18,7 +18,7 @@
   {% assign shsd_product_media = product.media %}
   {% assign shsd_product_images = product.images %}
 {% endif %}
-{% assign shsd_product_options = shsd_product_options_with_values | map: "name" %}
+
 <script type="application/json" id="productJson">
 {{ product | json }}
 </script>
@@ -33,6 +33,64 @@ shsd_original_product_js["media"] = {{shsd_product_media | json }};
 var shsd_product_json_container = "productJson";
 document.getElementById(shsd_product_json_container).innerHTML = JSON.stringify(shsd_original_product_js);
 </script>
+
+{% for shsd_i in (0..3) %}
+
+{% if shsd_product_details.product_type == "shsd_child" %}
+{% assign shsd_parent_product = all_products[shsd_product_details.parent_handle] %}
+{% assign shsd_parent_product_details = shsd_parent_product.metafields.sellersdash.shsdproducts %}
+{% assign shsd_start_index = shsd_i | plus: 1 | times: 15 %}
+{% if shsd_parent_product_details.handles.size > shsd_start_index %}
+{% if shsd_parent_product_details.handles[shsd_i] == product.handle %}
+{% assign sec_shsd_product_handles = shsd_parent_product_details.handles | slice : shsd_start_index, 15 %}
+{% for shsd_handle in sec_shsd_product_handles %}
+{% assign shsd_single_product = all_products[shsd_handle] %}
+{% assign sec_shsd_product_variants = sec_shsd_product_variants | concat: shsd_single_product.variants %}
+{% assign sec_shsd_product_media = sec_shsd_product_media | concat: shsd_single_product.media %}
+{% assign sec_shsd_product_images = sec_shsd_product_images | concat: shsd_single_product.images %}
+{% endfor %}
+
+
+<script id="shsdSecondaryProductVariants" type="application/json">{{sec_shsd_product_variants | json }}</script>
+<script id="shsdSecondaryProductMedia" type="application/json">{{ sec_shsd_product_media | json }}</script>
+<script id="shsdSecondaryProductImages" type="application/json">{{ sec_shsd_product_images | json }}</script>
+
+{% endif %}
+{% endif %}
+{% endif %} 
+
+{% endfor %}
+
+
+
+{% if shsd_product_details.handles.size > 15 and shsd_product_details.product_type == "shsd_parent" %}
+
+<script>  
+//for more than 20 products
+var containerId = "productJson";
+var originalJson = JSON.parse(document.getElementById(containerId).innerHTML);
+
+var shsdRequest = new XMLHttpRequest();
+shsdRequest.open("GET", "/products/{{shsd_product_handles[1]}}", false);
+shsdRequest.send(null);
+if(shsdRequest.status == 200){
+    var d = shsdRequest.responseText;
+    var parser = new DOMParser();
+    var doc = parser.parseFromString(d, "text/html");
+    document.getElementById(containerId).setAttribute("data-shsd-secondary-loaded", "true");
+    var sProductData = doc.getElementById("shsdSecondaryProductVariants");
+    console.log(JSON.parse(doc.getElementById("shsdSecondaryProductVariants").innerHTML));
+    var shsdSecondaryVariants = originalJson["variants"].concat(JSON.parse(doc.getElementById("shsdSecondaryProductVariants").innerHTML));
+    var shsdSecondaryMedia = originalJson["media"].concat(JSON.parse(doc.getElementById("shsdSecondaryProductMedia").innerHTML));
+    var shsdSecondaryImages = originalJson["images"].concat(JSON.parse(doc.getElementById("shsdSecondaryProductImages").innerHTML));
+    originalJson["variants"] = shsdSecondaryVariants;
+    originalJson["media"] = shsdSecondaryMedia;
+    originalJson["images"] = shsdSecondaryImages;
+    document.getElementById(containerId).innerHTML = JSON.stringify(originalJson);
+}
+</script>
+{% endif %}
+
 
 
 {%- unless template.suffix contains 'quick-buy' -%}
