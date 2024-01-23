@@ -1,0 +1,48 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-customers-login",
+      "blocks": {
+        "login_form": {
+          "type": "login",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "login_form"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+      }
+    },
+    "1dbde41a-167b-4946-8f84-fd10b0314cba": {
+      "type": "rich-text",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "subheading": "Trying to login for your Rewards?",
+        "title": "",
+        "content": "<p>It's not necessary! Checkout as a guest, and just use the same email address you've used when ordering from us in the past. Your points will automatically be credited to your account within 48 hours. Need more help with the Rewards Program? <a href=\"https:\/\/betsyandiya.com\/pages\/rewards-program\/\">Click here.<\/a><\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1dbde41a-167b-4946-8f84-fd10b0314cba"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "dropdown",
+            "color_mode": "dropdown",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "5dd9858b-2de4-4605-8620-734af63222e6": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "quantity_selector",
+        "variant_picker",
+        "buy_buttons",
+        "5dd9858b-2de4-4605-8620-734af63222e6"
+      ],
+      "custom_css": [
+        "shopify-payment-terms {display:none;}"
+      ],
+      "settings": {
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": true,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "left",
+        "transition_effect": "slide"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "4ea86295-4c6d-40fe-89cd-dfec0946b017": {
+          "type": "content",
+          "settings": {
+            "title": "Jewelry Care",
+            "content": "<p><strong>CARING FOR JEWELRY AT HOME<\/strong><\/p><p>There are several things you can safely do from home to clean, remove tarnish\/patina, detangle, and straighten out bends in your jewelry.<\/p><p><strong>Polishing Cloth<\/strong><br\/>Don’t be afraid to put some oomph in it.<\/p><p><strong>Mild Soap & Warm Water<\/strong><br\/>Like a relaxing bath to your jewelry. Be sure to dry thoroughly.<\/p><p><strong>Detangling & Straightening<br\/><\/strong>We recommend placing necklaces on a flat surface to detangle. Flex those patience muscles!<\/p>",
+            "page": "",
+            "article": ""
+          }
+        },
+        "8fa6852f-9dcd-4b43-b085-7a23ff1f1585": {
+          "type": "content",
+          "settings": {
+            "title": "Tab",
+            "content": "",
+            "page": "",
+            "article": "faqs\/what-s-your-refund-exchange-policy"
+          }
+        },
+        "b279e08d-d8bc-42d2-b3ea-f48d1dad9937": {
+          "type": "featured_products",
+          "disabled": true,
+          "settings": {
+            "title": "Goes Well With",
+            "products": [
+              "sunshine-polishing-cloth",
+              "half-moon-ring-bowl-and-catch-all-dish"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "4ea86295-4c6d-40fe-89cd-dfec0946b017",
+        "8fa6852f-9dcd-4b43-b085-7a23ff1f1585",
+        "b279e08d-d8bc-42d2-b3ea-f48d1dad9937"
+      ],
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "07f241e9-0e0b-4df6-a92b-d2b6be6fb801": {
+      "type": "divider-section",
+      "settings": {
+        "divider_style": "2"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "subheading": "",
+        "title": "You may also like",
+        "recommendations_count": 4,
+        "products": [
+
+        ],
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-content",
+    "07f241e9-0e0b-4df6-a92b-d2b6be6fb801",
+    "product-recommendations"
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_image": false,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "section_height": "medium",
+        "text_width": "medium",
+        "image_text_color": "#ffffff",
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 30,
+        "quick_links": ""
+      }
+    },
+    "e8d7c263-d6f7-44c8-a29a-18aaab2eccbe": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14511630516286__e8d7c263-d6f7-44c8-a29a-18aaab2eccbe-1683059990f48a5878-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BI-Web_Banner_Recast.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Recast-Mobile.png",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--14511630516286__e8d7c263-d6f7-44c8-a29a-18aaab2eccbe-1683059990f48a5878-1"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "5dc8b1c2-d121-45f9-8823-d9db2458cb8c": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "Recast",
+        "title": "Everything old is renewed again.",
+        "content": "<h3>Keep our land filled with more beauty. Shop previously loved jewelry in our Recast collection.<\/h3><h1><\/h1>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_sort_by": true,
+        "products_per_page": 24,
+        "mobile_products_per_row": "2",
+        "desktop_products_per_row": 4,
+        "show_filters": true,
+        "show_filter_group_name": true,
+        "show_color_swatch": false,
+        "open_first_filter_group": false,
+        "filter_position": "drawer",
+        "promotion_position": "top",
+        "promotion_height": "small"
+      }
+    },
+    "eae22ee2-9cf0-4af8-a8da-b0740435ba1c": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14511630516286__eae22ee2-9cf0-4af8-a8da-b0740435ba1c-168306067313225a2c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-recast-send.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>Send your B&amp;I jewelry to us with our free <a href=\"https:\/\/betsyandiya.com\/products\/buy-back-kit\">Buy Back kit<\/a>.<\/p><p>We'll issue you a store credit based on its value and condition. Use your credit for anything in our store, new or bought-back.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14511630516286__eae22ee2-9cf0-4af8-a8da-b0740435ba1c-168306067313225a2c-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-recast-clean.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>We inspect and clean every piece of jewelry we buy back and make it ready for its new owner.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14511630516286__eae22ee2-9cf0-4af8-a8da-b0740435ba1c-168306067313225a2c-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-recast-sale.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>Once it passes our Quality Control checks, it's made available for sale. If it can't pass QC checks, we'll recycle it!<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14511630516286__eae22ee2-9cf0-4af8-a8da-b0740435ba1c-168306067313225a2c-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-recast-happiness.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>Someone else buys it and loves it and wears it all the time and gets tons and tons of compliments... and the cycle repeats itself!<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--14511630516286__eae22ee2-9cf0-4af8-a8da-b0740435ba1c-168306067313225a2c-0",
+        "template--14511630516286__eae22ee2-9cf0-4af8-a8da-b0740435ba1c-168306067313225a2c-1",
+        "template--14511630516286__eae22ee2-9cf0-4af8-a8da-b0740435ba1c-168306067313225a2c-2",
+        "template--14511630516286__eae22ee2-9cf0-4af8-a8da-b0740435ba1c-168306067313225a2c-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "",
+        "title": "<h1>How does Recast™ work?<\/h1>",
+        "content": "<p>Time passes and your style changes, you have too much jewelry, you're refreshing your wardrobe. For whatever reason, you decide it's time to part with your beloved piece of B&I jewelry.<strong>We've got you covered.<\/strong><\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#faf7f1",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "All",
+        "show_bi": true,
+        "show_non_bi": true
+      }
+    },
+    "3f4aae40-69e3-409c-bad7-1b138c98b4dd": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14511630516286__3f4aae40-69e3-409c-bad7-1b138c98b4dd-168306088059e9562c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BI-Recast-Product-2021-Revised-Square-1_1300x_96c36e15-5a92-4345-8581-205be524e381.webp",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Ready to send something in?",
+            "content": "<p><strong>Give your jewelry a second story. <\/strong>Use the Recast Buy Back kit to send us your B&I jewelry for free and get a store credit you can use on anything. After we buy back your B&I jewelry, we'll clean it up, fix it, and resell it at a discount for someone else to love.<\/p>",
+            "extra_emphasis": false,
+            "button_text": "Get Your Free Kit Now",
+            "button_link": "shopify:\/\/products\/recast-buy-back-kit"
+          }
+        }
+      },
+      "block_order": [
+        "template--14511630516286__3f4aae40-69e3-409c-bad7-1b138c98b4dd-168306088059e9562c-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "#ecaa1f",
+        "button_text_color": "#2d2d2d"
+      }
+    },
+    "111d2723-6dd2-4633-b4be-5a0d80637767": {
+      "type": "faq",
+      "blocks": {
+        "template--14511630516286__111d2723-6dd2-4633-b4be-5a0d80637767-168306107678b40cb3-1": {
+          "type": "question",
+          "settings": {
+            "title": "{{ block.settings.article.title }}",
+            "article": "faqs\/what-is-my-jewelry-worth",
+            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+          }
+        },
+        "template--14511630516286__111d2723-6dd2-4633-b4be-5a0d80637767-168306107678b40cb3-2": {
+          "type": "question",
+          "settings": {
+            "title": "{{ block.settings.article.title }}",
+            "article": "faqs\/what-if-my-jewelry-is-in-really-bad-shape",
+            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+          }
+        },
+        "template--14511630516286__111d2723-6dd2-4633-b4be-5a0d80637767-168306107678b40cb3-4": {
+          "type": "question",
+          "settings": {
+            "title": "{{ block.settings.article.title }}",
+            "article": "faqs\/how-long-does-this-usually-take",
+            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+          }
+        },
+        "d144b140-94b0-4967-aba0-fbf1da532889": {
+          "type": "question",
+          "settings": {
+            "title": "{{ block.settings.article.title }}",
+            "article": "faqs\/do-you-buy-back-jewelry-all-the-time-or-only-during-certain-hours",
+            "answer": "<p>Write content to help your customers to better understand your products or policies.<\/p>"
+          }
+        },
+        "656023f9-f6fd-4e50-8668-7cf17f05061b": {
+          "type": "question",
+          "settings": {
+            "title": "{{ block.settings.article.title }}",
+            "article": "faqs\/does-store-credit-expire",
+            "answer": "<p>Write content to help your customers to better understand your products or policies.<\/p>"
+          }
+        },
+        "8adbc81e-1957-48a2-b71d-47472222f025": {
+          "type": "question",
+          "settings": {
+            "title": "{{ block.settings.article.title }}",
+            "article": "faqs\/can-you-pay-me-cash-instead-of-store-credit",
+            "answer": "<p>Write content to help your customers to better understand your products or policies.<\/p>"
+          }
+        },
+        "1c011cde-f5c4-4662-989a-46c3e3148b20": {
+          "type": "question",
+          "settings": {
+            "title": "{{ block.settings.article.title }}",
+            "article": "faqs\/i-cant-remember-is-this-jewelry-betsy-iya",
+            "answer": "<p>Write content to help your customers to better understand your products or policies.<\/p>"
+          }
+        },
+        "32d028f4-c26c-4bdd-ab81-349be57d861c": {
+          "type": "question",
+          "settings": {
+            "title": "{{ block.settings.article.title }}",
+            "article": "faqs\/do-you-buy-back-other-designers-jewelry",
+            "answer": "<p>Write content to help your customers to better understand your products or policies.<\/p>"
+          }
+        },
+        "a8aecdfa-5c4b-490c-8e48-3404cda9f259": {
+          "type": "question",
+          "settings": {
+            "title": "{{ block.settings.article.title }}",
+            "article": "faqs\/what-if-i-send-you-something-thats-not-betsy-iya",
+            "answer": "<p>Write content to help your customers to better understand your products or policies.<\/p>"
+          }
+        },
+        "1040e05f-3abb-4d01-8d1a-5c25432a3844": {
+          "type": "question",
+          "settings": {
+            "title": "{{ block.settings.article.title }}",
+            "article": "faqs\/is-recast-jewelry-melted-down-and-cast-again-in-the-traditional-jewelry-sense-of-the-word",
+            "answer": "<p>Write content to help your customers to better understand your products or policies.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14511630516286__111d2723-6dd2-4633-b4be-5a0d80637767-168306107678b40cb3-1",
+        "template--14511630516286__111d2723-6dd2-4633-b4be-5a0d80637767-168306107678b40cb3-2",
+        "template--14511630516286__111d2723-6dd2-4633-b4be-5a0d80637767-168306107678b40cb3-4",
+        "d144b140-94b0-4967-aba0-fbf1da532889",
+        "656023f9-f6fd-4e50-8668-7cf17f05061b",
+        "8adbc81e-1957-48a2-b71d-47472222f025",
+        "1c011cde-f5c4-4662-989a-46c3e3148b20",
+        "32d028f4-c26c-4bdd-ab81-349be57d861c",
+        "a8aecdfa-5c4b-490c-8e48-3404cda9f259",
+        "1040e05f-3abb-4d01-8d1a-5c25432a3844"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "Recast FAQs",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "e8d7c263-d6f7-44c8-a29a-18aaab2eccbe",
+    "5dc8b1c2-d121-45f9-8823-d9db2458cb8c",
+    "main",
+    "eae22ee2-9cf0-4af8-a8da-b0740435ba1c",
+    "3f4aae40-69e3-409c-bad7-1b138c98b4dd",
+    "111d2723-6dd2-4633-b4be-5a0d80637767"
+  ]
+}

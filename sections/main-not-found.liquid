@@ -1,0 +1,66 @@
+{% comment %}
+--In this style tag i call the button--primary-pre class  which is our button for moving to previous page--
+{% endcomment %}
+
+
+<style>
+ .button--primary-pre{
+   background-color:black;
+   color:white; 
+   padding:0px 2px;
+   
+ } 
+.button--primary-pre:hover{
+  color:white;
+  opacity: 0.8;
+}
+
+  @keyframes wave {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10%);
+  }
+}
+
+/* Apply the animation to the h1 tag */
+.wave-animation {
+  animation: wave 1.5s ease-in-out infinite; /* Change the animation duration and timing as needed */
+}
+</style>
+
+
+<section class="section--flush-bottom">
+  {% assign previous="Previous Page" %} 
+  <div class="section__color-wrapper">
+    
+    <div class="empty-state" style="margin-top:10px;">
+    
+      <!-- <span class="empty-state__background-text">404</span> -->
+
+      <div class="text-container" style="padding-top:40px;textalign:center;">
+          <img src="{{ '404.png' | asset_url }}" width="280px" height="280px" alt="Description of the image" style="display:block;margin :0 auto;">
+
+        <h3  class="wave-animation" style="color:#666666;padding:10px;fontsize:30px;">Page not Found</h3>
+
+        <div class="button-wrapper">
+          <a href="{{ routes.root_url }}" class="button button--primary-pre">{{ '404.general.back_to_home' | t }}</a>
+           <a href="javascript:history.go(-1)"  class="button button--primary-pre">{{ previous }}</a>
+          <div>
+            <div style="margin-top:15px;">
+            <a href="https://betsyandiya.com/pages/contact-us"  class="button button--primary-pre" >Contact Us</a>
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "404",
+  "class": "shopify-section--404"
+}
+{% endschema %}

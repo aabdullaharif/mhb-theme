@@ -1,0 +1,38 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "blocks": {
+        "e470320a-962d-4e6e-b76c-5762d591c2de": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "536bee32-f727-43c5-a577-59a7d430d53c": {
+          "type": "collection",
+          "settings": {
+            "collection": "earrings",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "e470320a-962d-4e6e-b76c-5762d591c2de",
+        "536bee32-f727-43c5-a577-59a7d430d53c"
+      ],
+      "settings": {
+        "collections_to_show": "all",
+        "show_collection_title": true
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

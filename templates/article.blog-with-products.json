@@ -1,0 +1,69 @@
+{
+  "sections": {
+    "blog-post-banner": {
+      "type": "blog-post-banner",
+      "settings": {
+        "show_category": false,
+        "blog_header_background": "#f7eee3",
+        "blog_header_text_color": "#282828"
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "settings": {
+        "show_on_scroll_navigation": false,
+        "show_author": false,
+        "show_date": false,
+        "show_share_buttons": false
+      }
+    },
+    "f925d1b9-fc39-459f-a2b6-450b73e78cec": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--14839421403198__f925d1b9-fc39-459f-a2b6-450b73e78cec-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "in-stock-betsy-iya-earrings",
+            "label": "",
+            "button_text": "Browse All",
+            "button_url": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "template--14839421403198__f925d1b9-fc39-459f-a2b6-450b73e78cec-collection-1"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "products_count": 39,
+        "products_per_row": 4,
+        "stack_products": false,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "blog-post-prev-next": {
+      "type": "blog-post-prev-next",
+      "settings": {
+      }
+    },
+    "blog-post-comments": {
+      "type": "blog-post-comments",
+      "settings": {
+        "show_gravatar": true
+      }
+    }
+  },
+  "order": [
+    "blog-post-banner",
+    "main",
+    "f925d1b9-fc39-459f-a2b6-450b73e78cec",
+    "blog-post-prev-next",
+    "blog-post-comments"
+  ]
+}

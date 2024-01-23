@@ -1,0 +1,453 @@
+{
+  "sections": {
+    "8f8b0b42-dd5c-4875-af1b-d16ed55653ea": {
+      "type": "banner",
+      "blocks": {
+        "template--14423479025726__8f8b0b42-dd5c-4875-af1b-d16ed55653ea-16656150689c61f7c3-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web_Banner-Dawn23.jpg",
+            "title": "<h1 class=\"ginto-nord\" style=\"font-size:35px;\">Beautiful things<br><span class=\"bianco-serif\">made by <\/span>people who care.<\/h1>",
+            "content": "<span class=\"bianco-serif\">Jewelry designed &amp; made onsite, plus a whole lot more.<\/span>",
+            "button_text": "Browse Now",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "template--14423479025726__8f8b0b42-dd5c-4875-af1b-d16ed55653ea-16656150689c61f7c3-0"
+      ],
+      "custom_css": [
+        ".button {color: #000000;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#f7eee3",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "#2d2d2d"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "fashion-jewelry",
+            "image": "shopify:\/\/shop_images\/Heart_flat_lay.jpg",
+            "subheading": "",
+            "title": "Fashion Jewelry",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/fashion-jewelry",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        },
+        "f9733e2b-d1f1-4b4c-934e-56b094d16879": {
+          "type": "collection",
+          "settings": {
+            "collection": "betsy-iya-fine-jewelry",
+            "image": "shopify:\/\/shop_images\/Betsy_and_Iya_Fine_Jewelry.jpg",
+            "subheading": "",
+            "title": "Fine Jewelry",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/BetsyIya_BathBody_Category-2023.jpg",
+            "subheading": "",
+            "title": "Bath & Body",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/bath-body",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        },
+        "b1f156ee-c3fb-486f-8387-6d1f04b126bb": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/BetsyIya_Home_Category-2023-1.jpg",
+            "subheading": "",
+            "title": "Home",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/home",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        },
+        "9400f840-be32-4629-bf13-3c74ca2eda70": {
+          "type": "collection",
+          "settings": {
+            "collection": "all",
+            "image": "shopify:\/\/shop_images\/betsy_iya_7-25-18_013.jpg",
+            "subheading": "",
+            "title": "Browse All",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection-3",
+        "f9733e2b-d1f1-4b4c-934e-56b094d16879",
+        "collection-2",
+        "b1f156ee-c3fb-486f-8387-6d1f04b126bb",
+        "9400f840-be32-4629-bf13-3c74ca2eda70"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "carousel",
+        "subheading": "",
+        "title": "Shop by category",
+        "background": "#ffffff",
+        "text_color": "#2d2d2d"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "latest",
+            "label": "",
+            "button_text": "Browse More",
+            "button_url": "shopify:\/\/collections\/betsy-iya"
+          }
+        }
+      },
+      "block_order": [
+        "collection-1"
+      ],
+      "settings": {
+        "subheading": "Our Jewelry",
+        "title": "",
+        "content": "",
+        "products_count": 15,
+        "products_per_row": 4,
+        "stack_products": false,
+        "show_cta": false,
+        "background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "be857e6e-7578-4507-84e5-a8c7e17d40db": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14423479025726__be857e6e-7578-4507-84e5-a8c7e17d40db-16662206603eedf874-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BI-Web_Banner_Recast.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Recast-Mobile.png",
+            "text_position": "bottom_center",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "Our Buy Back Program",
+            "button_1_link": "shopify:\/\/collections\/recast",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#2d2d2d",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--14423479025726__be857e6e-7578-4507-84e5-a8c7e17d40db-16662206603eedf874-1"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "737c06ec-ffad-4a62-a24e-abda8d51afdb": {
+      "type": "divider-section",
+      "settings": {
+        "divider_style": "2"
+      }
+    },
+    "6cb9e5f1-25ba-4adc-893e-2f822f8a8930": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14423479025726__6cb9e5f1-25ba-4adc-893e-2f822f8a8930-16649994291f1d2e46-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/about-us-1_1024x1024_1_0017e85d-afce-4bf1-a67a-1b45ecab2ec9.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<h3>We make our jewelry by hand<span class=\"bianco-serif\"> at our shop in Portland.<\/span>\n<\/h3>",
+            "extra_emphasis": false,
+            "link_text": "Ethically Sourced & Made",
+            "link_url": "shopify:\/\/pages\/ethically-sourced-mindfully-made",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14423479025726__6cb9e5f1-25ba-4adc-893e-2f822f8a8930-16649994291f1d2e46-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/about-us-2_1024x1024_png.webp",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<h3>\n<span class=\"bianco-serif\">We aim to amplify and celebrate<\/span> beauty, strength and connection <span class=\"bianco-serif\">of all people.<\/span>\n<\/h3>",
+            "extra_emphasis": false,
+            "link_text": "Read About Our Values",
+            "link_url": "shopify:\/\/pages\/our-values",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--14423479025726__6cb9e5f1-25ba-4adc-893e-2f822f8a8930-16649994291f1d2e46-0",
+        "template--14423479025726__6cb9e5f1-25ba-4adc-893e-2f822f8a8930-16649994291f1d2e46-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "<p>A little about us<\/p>",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "loose",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "All",
+        "show_bi": true,
+        "show_non_bi": true
+      }
+    },
+    "23f05e00-f06d-4eb8-825b-ac86f9bbd666": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14423479025726__23f05e00-f06d-4eb8-825b-ac86f9bbd666-1665001219ff7e4f8a-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BI-Retail_Shop_Homepage-2022.jpg",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Visit Us in Portland",
+            "content": "<p>Open 11am - 6pm \/\/ Every day<\/p><p><a href=\"\/pages\/brick-and-mortar\" title=\"Brick & Mortar\">1777 NW 24TH AVE<br\/>PORTLAND, OR 97210<\/a><\/p>",
+            "extra_emphasis": false,
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14423479025726__23f05e00-f06d-4eb8-825b-ac86f9bbd666-1665001219ff7e4f8a-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "09da5f85-dbad-4f6d-a82d-258f8dca27f9": {
+      "type": "divider-section",
+      "settings": {
+        "divider_style": "2"
+      }
+    },
+    "1590b901-f620-4a48-aee8-d23694db585c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14423479025726__1590b901-f620-4a48-aee8-d23694db585c-166500122408872c0e-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BI-Brilliant_Cuts-Morning_Dove-1.png",
+            "tab_label": "Item",
+            "subheading": "BRILLIANT CUTS",
+            "title": "Morning Dove Barranger",
+            "content": "<p>As the owner of Coral Story Beauty, Morning Dove Barranger recalls the journey it took to get there. “The 'story' part of the name is in it because everybody has their own journey, and my whole business started because of an unexpected journey I went on. When I think about a coral reef, it’s an ecosystem that creates a community. That’s the beauty part.”<\/p><p><a href=\"https:\/\/betsyandiya.com\/blogs\/brilliant-cuts\/morning-dove-barranger\">Continue Reading<\/a><\/p>",
+            "extra_emphasis": false,
+            "button_text": "",
+            "button_link": "shopify:\/\/blogs\/brilliant-cuts\/morning-dove-barranger"
+          }
+        }
+      },
+      "block_order": [
+        "template--14423479025726__1590b901-f620-4a48-aee8-d23694db585c-166500122408872c0e-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "caff9092-549e-4beb-8873-63fdbab25a99": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14423479025726__caff9092-549e-4beb-8873-63fdbab25a99-166500122408872c0e-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BI-Brilliant_Cuts-Lindsey_Murphy-1.png",
+            "tab_label": "Item",
+            "subheading": "BRILLIANT CUTS",
+            "title": "Lindsey Murphy",
+            "content": "<p>Lindsey Murphy has been a whirlwind force in the Portland community, known around town for her YouTube presence, hosting TEDx, being named 40 under 40 in Portland Business Journal, and more. “For 10 years, I lived from the outside in and it didn't work. And now I live from the inside out, and it is everything. And people are longing to know how to do it.”<\/p><p><\/p><p><a href=\"https:\/\/betsyandiya.com\/blogs\/brilliant-cuts\/lindsey-murphy\">Continue Reading<\/a><\/p>",
+            "extra_emphasis": false,
+            "button_text": "",
+            "button_link": "shopify:\/\/blogs\/brilliant-cuts\/lindsey-murphy"
+          }
+        }
+      },
+      "block_order": [
+        "template--14423479025726__caff9092-549e-4beb-8873-63fdbab25a99-166500122408872c0e-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ea15ec75-b0bb-4b1a-979c-115490f2a560": {
+      "type": "divider-section",
+      "settings": {
+        "divider_style": "2"
+      }
+    },
+    "aa49f648-499e-4208-b444-81ffcaa65389": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--14566991134782__aa49f648-499e-4208-b444-81ffcaa65389-16849784016ca9e589-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "betsy-and-iya-jewelry",
+            "label": "",
+            "button_text": "Browse More",
+            "button_url": "shopify:\/\/collections\/betsy-and-iya-jewelry"
+          }
+        }
+      },
+      "block_order": [
+        "template--14566991134782__aa49f648-499e-4208-b444-81ffcaa65389-16849784016ca9e589-0"
+      ],
+      "settings": {
+        "subheading": "Shop Betsy & Iya Jewelry",
+        "title": "",
+        "content": "",
+        "products_count": 12,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "adb50b33-7028-4960-b269-65beac641c9b": {
+      "type": "image-with-text-block",
+      "settings": {
+        "reveal_on_scroll": false,
+        "image": "shopify:\/\/shop_images\/BI-Home_Update_Website-2022-1.jpg",
+        "subheading": "",
+        "title": "Custom Designed Jewelry",
+        "content": "<p>We focus on <em>really listening <\/em>to your story & style and allowing that to guide a uniquely personalized design process.<\/p>",
+        "extra_emphasis": false,
+        "button_text": "Explore Custom",
+        "button_link": "shopify:\/\/pages\/custom-wedding-engagement-jewelry-design-portland",
+        "background_type": "full_width",
+        "text_position": "left",
+        "text_alignment": "center",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "170568469792fad25c": {
+      "type": "apps",
+      "blocks": {
+        "google_reviews_carousel_widget_block_EX398J": {
+          "type": "shopify:\/\/apps\/google-reviews\/blocks\/carousel-widget-block\/8b378e9e-c56d-47ce-a754-feca5e0caf59",
+          "settings": {
+            "themeId": "light",
+            "autoscroll": true,
+            "showRating": false,
+            "showReviewPhotos": true,
+            "writeReview": false
+          }
+        }
+      },
+      "block_order": [
+        "google_reviews_carousel_widget_block_EX398J"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
+    }
+  },
+  "order": [
+    "8f8b0b42-dd5c-4875-af1b-d16ed55653ea",
+    "collection-list",
+    "featured-collections",
+    "be857e6e-7578-4507-84e5-a8c7e17d40db",
+    "737c06ec-ffad-4a62-a24e-abda8d51afdb",
+    "6cb9e5f1-25ba-4adc-893e-2f822f8a8930",
+    "23f05e00-f06d-4eb8-825b-ac86f9bbd666",
+    "09da5f85-dbad-4f6d-a82d-258f8dca27f9",
+    "1590b901-f620-4a48-aee8-d23694db585c",
+    "caff9092-549e-4beb-8873-63fdbab25a99",
+    "ea15ec75-b0bb-4b1a-979c-115490f2a560",
+    "aa49f648-499e-4208-b444-81ffcaa65389",
+    "adb50b33-7028-4960-b269-65beac641c9b",
+    "170568469792fad25c"
+  ]
+}

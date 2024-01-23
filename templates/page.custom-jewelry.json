@@ -1,0 +1,644 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "9624bf61-3d59-49b1-a1b7-26fa393e7b26": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<img class=\"hero\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Web_Banner_Custom-Jewelry.jpg\">",
+        "add_vertical_spacing": false,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "092b0e01-2893-45be-b87c-ea0aa92a03da": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Custom Fine Jewelry",
+        "content": "<p><strong>Life’s most precious moments deserve a design just as special.<\/strong><\/p><p>We design and make bespoke fine jewelry in our Portland studio. We focus on <em>really listening <\/em>to your story &amp; style and allowing that to guide a uniquely personalized design process.<\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "59ba3131-0dfd-4a61-96d9-a826f0715eeb": {
+      "type": "divider-section",
+      "settings": {
+        "divider_style": "2"
+      }
+    },
+    "58cfd60c-91fa-42d0-989a-a749a41399d6": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14450128388158__58cfd60c-91fa-42d0-989a-a749a41399d6-166682468230a85c7c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/betsy-cross-custom-jewelry-consultation_30965eec-1855-4615-9c78-a146cfe69db3.webp",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Consultation",
+            "content": "<p>A free one-on-one where Betsy and her design manager listen to your story, ask questions about your style, and guide you through the nuances of materials and budget.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14450128388158__58cfd60c-91fa-42d0-989a-a749a41399d6-166682468230a85c7c-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/betsy_cross_designing_custom_wedding_and_engagement_jewelry.webp",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Design & Refine",
+            "content": "<p>If you'd like to move forward, we collect a $500 design deposit* and Betsy prepares &amp; delivers 1-3 sketches per piece, informed by your story. We listen to your feedback and do a round of revisions if needed. <\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14450128388158__58cfd60c-91fa-42d0-989a-a749a41399d6-166682468230a85c7c-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Designer-Betsy-Cross-at-bench.webp",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Create",
+            "content": "<p>Once you've signed off on the final design, we'll source materials from our ethical vendors &amp; build your piece from the ground up in our Portland, OR production studio.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--14450128388158__58cfd60c-91fa-42d0-989a-a749a41399d6-166682468230a85c7c-0",
+        "template--14450128388158__58cfd60c-91fa-42d0-989a-a749a41399d6-166682468230a85c7c-1",
+        "template--14450128388158__58cfd60c-91fa-42d0-989a-a749a41399d6-166682468230a85c7c-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "<p>Our Process<\/p>",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "All",
+        "show_bi": true,
+        "show_non_bi": true
+      }
+    },
+    "3e03f4f1-47d0-48c3-9000-adc85736f6a7": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p><strong>If you're ready to learn more, <\/strong>let's meet to answer your questions &amp; discuss your ideas.<\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "d0d7be8d-f05d-48f0-af99-22e3de1e885c": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<link href=\"https:\/\/assets.calendly.com\/assets\/external\/widget.css\" rel=\"stylesheet\">\n<script src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" type=\"text\/javascript\" async=\"\"><\/script>\n<a class=\"book\" href=\"\" onclick=\"Calendly.initPopupWidget({url: 'https:\/\/calendly.com\/betsyandiya-fine-jewelry\/first-consultation?hide_gdpr_banner=1'});return false;\">Book a free 1-on-1<\/a>",
+        "add_vertical_spacing": true,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "7c2214ba-9498-46c4-8ce6-d40ae79fc005": {
+      "type": "gallery",
+      "blocks": {
+        "94426f3b-6ce7-4507-b4cf-b2ac87258c11": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_art_deco_inspired_with_multiple_lab_grown_diamonds.png",
+            "caption": ""
+          }
+        },
+        "c64504d6-0387-4d6b-941b-1e5d8570f44f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_pear_cut_diamond_and_v_shaped_eternity_band_in_yellow_gold.png",
+            "caption": ""
+          }
+        },
+        "f0b56263-764a-41ef-9ed0-d6f9736816ad": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/A_trio_of_Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_diamonds_colored_stone_inlay_and_geometric_engravings_361f41a0-d160-4446-bd6a-83c8f96d2145.png",
+            "caption": ""
+          }
+        },
+        "daabfb0c-27ba-4be9-8d5a-0687f45e6f98": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_3.png",
+            "caption": ""
+          }
+        },
+        "6214fdbc-b8a0-4313-8e9f-4255a85fcc7c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_kite_cut_salt_and_pepper_diamond_and_minimalist_angular_design.png",
+            "caption": ""
+          }
+        },
+        "1c94172b-5387-4275-87fe-b70dd1db8d67": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_4_b341fd63-2438-423b-8431-26b92a3c79c7.png",
+            "caption": ""
+          }
+        },
+        "e0c343b5-4696-493d-bb3f-0ca48cf6431b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_matching_set.png",
+            "caption": ""
+          }
+        },
+        "template--14566991233086__7c2214ba-9498-46c4-8ce6-d40ae79fc005-16893902265b0483ac-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_kite_salt_and_pepper_diamond_and_modern_design.jpg",
+            "caption": ""
+          }
+        },
+        "6f52e2ea-16a3-4786-8b0c-c27fb0acb7cf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_ice_salt_and_pepper_diamond_sapphires_and_turquoise_inlay.png",
+            "caption": ""
+          }
+        },
+        "template--14566991233086__7c2214ba-9498-46c4-8ce6-d40ae79fc005-16893902265b0483ac-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_salt_and_pepper_kite_diamond_necklace_9c05d7e3-c35e-42d8-9ef9-2c424eab0cd0.png",
+            "caption": ""
+          }
+        },
+        "2d8edf65-7b06-4a65-a607-f1514cc07543": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_cluster_of_champagne_and_other_diamonds.png",
+            "caption": ""
+          }
+        },
+        "template--14566991233086__7c2214ba-9498-46c4-8ce6-d40ae79fc005-16893902265b0483ac-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_inlay_and_yellow_and_white_gold.jpg",
+            "caption": ""
+          }
+        },
+        "d0e1b551-405e-4c7d-a607-2f45d06fffad": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_black_inay_and_low_profile_modern_design.png",
+            "caption": ""
+          }
+        },
+        "b2d0c90f-d0f6-46e6-a723-6a835a995888": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_Marquise_cut_diamond_and_yellow_gold.png",
+            "caption": ""
+          }
+        },
+        "38dd3ee8-3f28-4c76-8965-08f34eb290b5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_White_Gold_and_Diamond_Wedding_Jewelry_and_Engagement_Rings.png",
+            "caption": ""
+          }
+        },
+        "cd8701b3-de8d-4152-927f-92cc1c9eb063": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_variscite_inlay_and_shield_cut_lab_grown_diamond.png",
+            "caption": ""
+          }
+        },
+        "7bb7a7c1-5b19-4304-884c-3e1fb400cf34": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_turquoise_inlay_gemoetric_modern_design_and_diamonds.png",
+            "caption": ""
+          }
+        },
+        "0fadb001-ecee-400c-b6d0-ca19e4a0a1ed": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Ring_set_with_geometric_engravings_and_platinum.png",
+            "caption": ""
+          }
+        },
+        "b9b5e9e9-c6fb-406d-9922-d7290b761f42": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_turquoise_and_jasper_inlay_and_diamond.png",
+            "caption": ""
+          }
+        },
+        "f6bf1bba-e745-406a-8c47-2a1a8b7ff616": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_rose_gold_inlay_two_tones_and_diamonds.png",
+            "caption": ""
+          }
+        },
+        "48c58226-35ed-4e1b-9c9a-9f3ee76a365b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_organic_shape_and_marquise_diamond_in_yellow_gold.png",
+            "caption": ""
+          }
+        },
+        "96a108ed-b788-44ce-abd7-491c4869755e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_pear_cut_sapphire_custom_opal_inlay_and_two_tone_bands.png",
+            "caption": ""
+          }
+        },
+        "a9497214-aff0-46c3-8dce-4b5476b98c2d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_kite_cute_emerald_and_multiple_diamonds.png",
+            "caption": ""
+          }
+        },
+        "1504fde1-13d7-41cd-a059-c864f2ab4fb6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Emerald_Wedding_Jewelry_and_Necklace.png",
+            "caption": ""
+          }
+        },
+        "efd86bfd-80a1-4e1f-bf72-9724e1d56206": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_mountain_profile_and_simple_modern_design.png",
+            "caption": ""
+          }
+        },
+        "6ff2b340-363d-4e1a-b698-cc0d134421ef": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_black_inlay_and_cut_throughs.png",
+            "caption": ""
+          }
+        },
+        "0b7a2edd-11b8-43a2-8f10-ce5aaa780f59": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings.png",
+            "caption": ""
+          }
+        },
+        "74ec0ade-7d79-424f-98ac-983b1047e4c1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_White_Gold_Wedding_Jewelry_and_Engagement_Rings_with_Pearl_sapphire_and_diamond.png",
+            "caption": ""
+          }
+        },
+        "6b12d031-979c-43b5-ac0e-077428ff622e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_Sapphire_and_Diamond_and_14K_gold.png",
+            "caption": ""
+          }
+        },
+        "bda5bbb2-c0b4-4295-86ee-d3bed67f4b39": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_with_cut_through_design.png",
+            "caption": ""
+          }
+        },
+        "7e7a8d2d-a3e1-40c0-bc9c-293f441ead65": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mobile_Betsy_Iya_Custom_Designed_Wedding_Jewelry_and_Engagement_Rings_modern_geometric_design_with_inlay.png",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "94426f3b-6ce7-4507-b4cf-b2ac87258c11",
+        "c64504d6-0387-4d6b-941b-1e5d8570f44f",
+        "f0b56263-764a-41ef-9ed0-d6f9736816ad",
+        "daabfb0c-27ba-4be9-8d5a-0687f45e6f98",
+        "6214fdbc-b8a0-4313-8e9f-4255a85fcc7c",
+        "1c94172b-5387-4275-87fe-b70dd1db8d67",
+        "e0c343b5-4696-493d-bb3f-0ca48cf6431b",
+        "template--14566991233086__7c2214ba-9498-46c4-8ce6-d40ae79fc005-16893902265b0483ac-2",
+        "6f52e2ea-16a3-4786-8b0c-c27fb0acb7cf",
+        "template--14566991233086__7c2214ba-9498-46c4-8ce6-d40ae79fc005-16893902265b0483ac-1",
+        "2d8edf65-7b06-4a65-a607-f1514cc07543",
+        "template--14566991233086__7c2214ba-9498-46c4-8ce6-d40ae79fc005-16893902265b0483ac-0",
+        "d0e1b551-405e-4c7d-a607-2f45d06fffad",
+        "b2d0c90f-d0f6-46e6-a723-6a835a995888",
+        "38dd3ee8-3f28-4c76-8965-08f34eb290b5",
+        "cd8701b3-de8d-4152-927f-92cc1c9eb063",
+        "7bb7a7c1-5b19-4304-884c-3e1fb400cf34",
+        "0fadb001-ecee-400c-b6d0-ca19e4a0a1ed",
+        "b9b5e9e9-c6fb-406d-9922-d7290b761f42",
+        "f6bf1bba-e745-406a-8c47-2a1a8b7ff616",
+        "48c58226-35ed-4e1b-9c9a-9f3ee76a365b",
+        "96a108ed-b788-44ce-abd7-491c4869755e",
+        "a9497214-aff0-46c3-8dce-4b5476b98c2d",
+        "1504fde1-13d7-41cd-a059-c864f2ab4fb6",
+        "efd86bfd-80a1-4e1f-bf72-9724e1d56206",
+        "6ff2b340-363d-4e1a-b698-cc0d134421ef",
+        "0b7a2edd-11b8-43a2-8f10-ce5aaa780f59",
+        "74ec0ade-7d79-424f-98ac-983b1047e4c1",
+        "6b12d031-979c-43b5-ac0e-077428ff622e",
+        "bda5bbb2-c0b4-4295-86ee-d3bed67f4b39",
+        "7e7a8d2d-a3e1-40c0-bc9c-293f441ead65"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "show_arrows": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "dcf30c27-17a1-4064-b8f7-b90173715cc2": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<div id=\"carouselExampleIndicators\" class=\"carousel slide\" data-ride=\"carousel\">\n  <ol class=\"carousel-indicators\">\n    <li data-target=\"#carouselExampleIndicators\" data-slide-to=\"0\" class=\"active\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"1\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"2\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"3\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"4\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"5\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"6\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"7\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"8\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"9\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"10\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"11\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"12\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"13\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"14\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"15\">\n    <\/li>\n<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"16\">\n  <\/li>\n<\/ol>\n  <div class=\"carousel-inner\">\n    <div class=\"carousel-item active\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/BI-Custom-031022-8.jpg?v=1663791275\" alt=\"Betsy &amp; Iya Custom Art Deco Diamond Engagement Ring and Wedding Band\" style=\"float: none;\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Gallery-F22-18.jpg?v=1663793222\" alt=\"Betsy &amp; Iya Custom Art Deco Ring\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Gallery-F22-6.jpg?v=1663791525\" alt=\"Betsy &amp; Iya Custom Art Deco Diamond Engagement Rings\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Gallery-F22-7_d5e2250c-9f19-452e-bbe7-1546c0d52265.jpg?v=1663792066\" alt=\"Betsy &amp; Iya Custom Jewelry\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Gallery-F22-8.jpg?v=1663791660\" alt=\"Betsy &amp; Iya Custom Wedding and Engagement Set\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Gallery-F22-4.jpg?v=1663791791\" alt=\"Betsy &amp; Iya Custom Eyeglass Chain\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Gallery-F22-2.jpg?v=1663792183\" alt=\"Betsy &amp; Iya Custom Art Deco  Engagement Ring and Wedding Band\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Gallery-F22-5.jpg?v=1663792252\" alt=\"Betsy &amp; Iya Custom Ring Set\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Gallery-F22-10.jpg?v=1663792350\" alt=\"Betsy &amp; Iya Custom Art Deco Diamond Engagement Ring and Wedding Band\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/BI_Custom-051922-11.jpg?v=1663792531\" alt=\"Betsy &amp; Iya Custom Art Deco Diamond Engagement Ring and Wedding Band\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Gallery-F22-19.jpg?v=1663793441\" alt=\"Betsy &amp; Iya Custom Etched Diamond Engagement Ring\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Gallery-F22-16.jpg?v=1663793292\" alt=\"Betsy &amp; Iya Custom Ring\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Gallery-F22-17.jpg?v=1663793510\" alt=\"Betsy &amp; Iya Custom Art Deco Earrings\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Gallery-F22-15.jpg?v=1663793612\" alt=\"Betsy &amp; Iya Custom Art Deco Engagement Ring and Wedding Band\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Gallery-F22-14.jpg?v=1663793686\" alt=\"Betsy &amp; Iya Custom Designed Salt &amp; Pepper Diamond Ring\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Gallery-F22-12.jpg?v=1663793761\" alt=\"Betsy &amp; Iya Custom Art Deco Diamond Engagement Ring and Wedding Band\"><\/div>\n    <div class=\"carousel-item\"><img class=\"d-block w-100\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0060\/6162\/files\/Gallery-F22-13.jpg?v=1663793811\" alt=\"Betsy &amp; Iya Custom Art Deco Diamond Engagement Ring\"><\/div>\n  <\/div>\n  <a class=\"carousel-control-prev\" href=\"#carouselExampleIndicators\" role=\"button\" data-slide=\"prev\">\n    <span class=\"carousel-control-prev-icon\" aria-hidden=\"true\"><\/span>\n    <span class=\"sr-only\">Previous<\/span>\n  <\/a>\n  <a class=\"carousel-control-next\" href=\"#carouselExampleIndicators\" role=\"button\" data-slide=\"next\">\n    <span class=\"carousel-control-next-icon\" aria-hidden=\"true\"><\/span>\n    <span class=\"sr-only\">Next<\/span>\n  <\/a>\n<\/div>",
+        "add_vertical_spacing": true,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "e2356dba-bdcf-4dba-bd82-946f6af95904": {
+      "type": "testimonials",
+      "blocks": {
+        "4ebcef74-d9a8-4b09-9c50-c5fce1c1cb86": {
+          "type": "testimonial",
+          "settings": {
+            "content": "We wanted to make engagement rings for one another that had similar feels while still maintaining a uniqueness - Betsy and team delivered in stunning style. We wanted to propose to each other and the team helped us keep the designs secret from one another, which was such a special surprise for us both. Betsy and Barrie were incredible - from initial consultation, to sketches and refinement. So excited to wear these rings for a long time to come!",
+            "author": "–Ashley & Ali"
+          }
+        },
+        "68f97ead-5596-421e-8c8e-39cb5167d00b": {
+          "type": "testimonial",
+          "settings": {
+            "content": "My fiancé absolutely loves their ring! It's been so much fun telling the story of how I worked with their favorite designer to create a custom engagement ring. I love knowing how special that has made them feel. Working with Betsy & lya was a fantastic experience. I couldn't have pulled off such a beautiful story without Betsy and Barrie, who were always reliable, patient, and truly took the time needed to listen and understand our unique partnership.",
+            "author": "–Asher"
+          }
+        },
+        "88f04a79-5c57-4000-b101-ffec6692b4de": {
+          "type": "testimonial",
+          "settings": {
+            "content": "I feel like I'm wearing a little piece of my heart on my hand and for that I am so grateful. Thank you so very much for creating such a special piece to usher in this next chapter of our lives together. Ryan can't stop gushing about all the compliments l've received on it and I know his enthusiasm for it comes from the wonderful experience he had with you two. The world is still so full of love. Your team is a testament to that.",
+            "author": "–Maggie"
+          }
+        },
+        "e73c4c61-77e6-4118-81c6-d2229320a99e": {
+          "type": "testimonial",
+          "settings": {
+            "content": "My partner and I had our engagement ring set custom designed by Betsy and IT IS THE MOST BEAUTIFUL RING SET I HAVE EVER SEEN. Betsy and her team were prompt, responsive, paid attention to detail, and most importantly, designed the ring of my dreams that is even more beautiful in person than I could have imagined. They worked with an heirloom stone I had and worked within my budget with ease. I couldn't imagine going anywhere else for custom jewelry design.",
+            "author": "–Emma"
+          }
+        },
+        "ef29da58-bde9-4978-a788-9c0a49b6c8ef": {
+          "type": "testimonial",
+          "settings": {
+            "content": "When I made the decision to get engaged I knew there was only one place in Portland that could deliver a custom engagement ring that matched my expectations. My fiancé is so proud showing her engagement ring to friends and family, and we were both so pleased throughout the process that we asked them to create our custom wedding bands as well! Truly a special boutique that is so much more than just another jewelry store. Thanks again!",
+            "author": "–Luke"
+          }
+        },
+        "template--14450128388158__e2356dba-bdcf-4dba-bd82-946f6af95904-16668249980fd8a2ae-0": {
+          "type": "testimonial",
+          "settings": {
+            "content": "My fiancé and I worked with Barrie, Betsy and the team at Betsy & lya to design my engagement ring and our wedding bands. The process was wonderful. The only challenging part was having to make decisions from the beautiful design options Betsy prepared for us! I wouldn't have changed a thing. Betsy & lya will always have a special place in our hearts.",
+            "author": "–Claire"
+          }
+        },
+        "98e3ce5a-6704-4d31-99be-2e741c07a54a": {
+          "type": "testimonial",
+          "settings": {
+            "content": "We love our rings. After almost 30 years of marriage, tastes change but it's hard to articulate what one wants in a new-old wedding set. Working with you was so fun and the result is totally me and totally one of a kind. It is a special representation of a special relationship. Thank you for hearing our little story and blowing it up into a beautiful headline of a pair of rings!",
+            "author": "–Windol & Kira"
+          }
+        },
+        "template--14450128388158__e2356dba-bdcf-4dba-bd82-946f6af95904-16668249980fd8a2ae-1": {
+          "type": "testimonial",
+          "settings": {
+            "content": "I just wanted to thank you both and say I love my ring (and husband) so much. The thought that was put into this beautiful piece of art is tear-inducing and heartwarming. I feel so special and awestruck and grateful that all of you were creating this memory for many months for me. Thank you, thank you.",
+            "author": "–Lindsey"
+          }
+        },
+        "template--14450128388158__e2356dba-bdcf-4dba-bd82-946f6af95904-16668249980fd8a2ae-2": {
+          "type": "testimonial",
+          "settings": {
+            "content": "My fiancé and I could not be happier with the experience we had with Betsy & lya. We got custom engagement rings designed and created, and the rings are stunning and so well coordinated to go with each other. I was nervous about the design process because I felt like I didn't know exactly what I wanted (I'm not a very visually creative person), but Betsy managed to create 3 designs that each spoke to me and I ended up with a combination of 2 of them. Thank you to the whole team SO MUCH for the amazing final product and being such an unbelievable joy to work with!",
+            "author": "–Erika"
+          }
+        },
+        "33a6234a-4a67-4c94-919f-1ffd6a8072e5": {
+          "type": "testimonial",
+          "settings": {
+            "content": "I had a great experience from start to finish having a ring made by Betsy & lya. They know their stuff and are super fun to work with! They were very patient with me as I waffled over which of their beautiful designs to go with, and my fiancé loved the ring they produced!",
+            "author": "–Bryce"
+          }
+        },
+        "3c62901e-3056-49f1-a84c-c44579657d4d": {
+          "type": "testimonial",
+          "settings": {
+            "content": "My experience with Betsy & lya was, no exaggeration, the single best customer experience l've ever had, anywhere. Betsy and Barrie were endlessly helpful, provided kind and welcome guidance as they walked me through the process of custom designing a ring, and Betsy came up with an absolutely *perfect* design, one that my fiancé fell instantly in love with. They were able to capture everything I wanted to say, and turned it into a ring I was deeply proud to give her.",
+            "author": "–David"
+          }
+        }
+      },
+      "block_order": [
+        "4ebcef74-d9a8-4b09-9c50-c5fce1c1cb86",
+        "68f97ead-5596-421e-8c8e-39cb5167d00b",
+        "88f04a79-5c57-4000-b101-ffec6692b4de",
+        "e73c4c61-77e6-4118-81c6-d2229320a99e",
+        "ef29da58-bde9-4978-a788-9c0a49b6c8ef",
+        "template--14450128388158__e2356dba-bdcf-4dba-bd82-946f6af95904-16668249980fd8a2ae-0",
+        "98e3ce5a-6704-4d31-99be-2e741c07a54a",
+        "template--14450128388158__e2356dba-bdcf-4dba-bd82-946f6af95904-16668249980fd8a2ae-1",
+        "template--14450128388158__e2356dba-bdcf-4dba-bd82-946f6af95904-16668249980fd8a2ae-2",
+        "33a6234a-4a67-4c94-919f-1ffd6a8072e5",
+        "3c62901e-3056-49f1-a84c-c44579657d4d"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "What our Customers Say",
+        "background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "b63d0edf-1897-46a3-804c-8dd8c43415f7": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "Next Steps",
+        "html": "<center>Book time with Betsy for a free consultation.<br>\n<br>\n\n<link href=\"https:\/\/assets.calendly.com\/assets\/external\/widget.css\" rel=\"stylesheet\">\n<script src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" type=\"text\/javascript\" async=\"\"><\/script>\n<a class=\"book\" href=\"\" onclick=\"Calendly.initPopupWidget({url: 'https:\/\/calendly.com\/betsyandiya-fine-jewelry\/first-consultation?hide_gdpr_banner=1'});return false;\">Book a free 1-on-1<\/a>\n<\/center>\n<br>\n<br>\n<div style=\"margin-bottom: 100px;\" class=\"klaviyo-form-TfNnqX\"><\/div>",
+        "add_vertical_spacing": true,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "502c7fff-e9b6-49bd-abe0-cbd1c0c42754": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h4 class=\"bianco-serif\">Want more fine jewelry?<br>Browse our <a class=\"bianco-serif\" href=\"\/collections\/betsy-iya-fine-jewelry\" title=\"Betsy &amp; Iya Fine Jewelry\">Ready to Wear collection.<\/a>\n<\/h4>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "8b6d1fe5-d867-4579-8dcc-423fea7d621c": {
+      "type": "divider-section",
+      "settings": {
+        "divider_style": "2"
+      }
+    },
+    "7d527b64-9106-4552-b96d-ca1a3e94652c": {
+      "type": "faq",
+      "blocks": {
+        "template--14450128388158__7d527b64-9106-4552-b96d-ca1a3e94652c-1666824898a33e65b3-1": {
+          "type": "question",
+          "settings": {
+            "title": "Pricing",
+            "article": "",
+            "answer": "<p>Prices for custom fine jewelry can vary widely depending on materials, design, and complexity. Our minimum charge for custom projects that include stones is $2,500 and our minimum for projects without stones is $1,500. Your design deposit is applied to the final price. We can guide the process of selecting materials and design elements and fit within your budget. This is something we do on almost every project, and we strive to make this process transparent and game-free. We only begin production after you've approved a final quote based on the exact piece we will be making for you.<\/p><p>To get a sense for our pricing, you might find it helpful to peruse our <a href=\"https:\/\/betsyandiya.com\/collections\/betsy-iya-fine-jewelry\">production line of fine jewelry<\/a>. Please note that custom work is a time- and labor-intensive process, and the pricing will include a reasonable premium for this hands-on, individualized attention.<\/p>"
+          }
+        },
+        "template--14450128388158__7d527b64-9106-4552-b96d-ca1a3e94652c-1666824898a33e65b3-2": {
+          "type": "question",
+          "settings": {
+            "title": "Stones & Materials",
+            "article": "",
+            "answer": "<p>We can often incorporate stones & metal from jewelry you already own but no longer wear; we only use recycled gold, and we only work with vendors who guarantee their stones & diamonds are conflict free.<\/p><p>We can source any material or stone needed for your project. We work with only reputable and ethical suppliers. All of our fine jewelry metals are recycled and our gold alloys are SCS certified recycled. Our white diamonds are all lab-grown. Upon your request, we can source recycled white earth diamonds. Read more about our <a href=\"\/pages\/ethically-sourced-mindfully-made\" title=\"Ethically Sourced & Mindfully Made\">ethical sourcing practices<\/a>.<\/p><p>We are often able to reuse your materials as long as they pass our quality check. If we aren't able to work with your materials, we will explain why and show you any quality concerns under a microscope.<\/p>"
+          }
+        },
+        "template--14450128388158__7d527b64-9106-4552-b96d-ca1a3e94652c-1666824898a33e65b3-4": {
+          "type": "question",
+          "settings": {
+            "title": "Warranty",
+            "article": "",
+            "answer": "<p>We stand behind our jewelry and expect that with proper care, your Betsy & Iya Fine Jewelry will last for years to come. We offer a non-transferable one-year warranty on workmanship defects in our fine jewelry. We cannot warrant work performed by other jewelers (including resizing), and any such work will void our warranty. Jewelry is not indestructible, and will stay beautiful longer by adhering to our General Care tips.<\/p>"
+          }
+        },
+        "1f29f7a8-20e7-444a-9547-1a7c4b89dc8b": {
+          "type": "question",
+          "settings": {
+            "title": "Deposit & Payment Details*",
+            "article": "",
+            "answer": "<p>During our initial meeting and intake phase, we'll talk with you to understand your project budget, which will inform the rest of the custom process. Your $500 per piece deposit covers the first round of sketches which culminate in our design proposal. In the unlikely event that you are not interested in continuing at any point during the sketching\/design process, the sketches we have prepared up to that point are yours to keep.<br\/><br\/>We then collect a progress payment to refine your design and translate your sketch into a 3D rendering. This payment covers a round of revisions to the design proposal based on your feedback. Additional rounds of revisions may require additional payment. Once a design is finalized, we will produce a physical 3D model of your finished design that you will be able to try on.<br\/><br\/>Once you approve the 3D model, we will prepare a final fixed-price quote for you and collect a partial payment in order to purchase materials and begin production of your finished piece. A final payment of the remaining balance will be due upon project completion.<br\/><br\/><strong>All payments and deposits are non-refundable.<\/strong> Throughout the whole process, we will keep your initial budget top of mind, only proposing designs that fit within it, and staying transparent and communicative with you about how design choices may impact the total project budget.<\/p>"
+          }
+        },
+        "453cda58-644a-4679-8112-6251f0edf7ca": {
+          "type": "question",
+          "settings": {
+            "title": "Timelines",
+            "article": "",
+            "answer": "<p>Depending on our current workload and your decisiveness, we can occasionally accelerate our custom process faster than our typical 16 weeks. If you are interested in working with us, but tight on time, it's still worth reaching out to let us know your timelines and ideas, and we will let you know if we can satisfy them before we begin working together.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14450128388158__7d527b64-9106-4552-b96d-ca1a3e94652c-1666824898a33e65b3-1",
+        "template--14450128388158__7d527b64-9106-4552-b96d-ca1a3e94652c-1666824898a33e65b3-2",
+        "template--14450128388158__7d527b64-9106-4552-b96d-ca1a3e94652c-1666824898a33e65b3-4",
+        "1f29f7a8-20e7-444a-9547-1a7c4b89dc8b",
+        "453cda58-644a-4679-8112-6251f0edf7ca"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "More Details",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "9624bf61-3d59-49b1-a1b7-26fa393e7b26",
+    "092b0e01-2893-45be-b87c-ea0aa92a03da",
+    "59ba3131-0dfd-4a61-96d9-a826f0715eeb",
+    "58cfd60c-91fa-42d0-989a-a749a41399d6",
+    "3e03f4f1-47d0-48c3-9000-adc85736f6a7",
+    "d0d7be8d-f05d-48f0-af99-22e3de1e885c",
+    "7c2214ba-9498-46c4-8ce6-d40ae79fc005",
+    "dcf30c27-17a1-4064-b8f7-b90173715cc2",
+    "e2356dba-bdcf-4dba-bd82-946f6af95904",
+    "b63d0edf-1897-46a3-804c-8dd8c43415f7",
+    "502c7fff-e9b6-49bd-abe0-cbd1c0c42754",
+    "8b6d1fe5-d867-4579-8dcc-423fea7d621c",
+    "7d527b64-9106-4552-b96d-ca1a3e94652c"
+  ]
+}

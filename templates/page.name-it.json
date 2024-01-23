@@ -1,0 +1,387 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "009b78ed-0033-41d0-a6e7-27ec825faa6c": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Name It",
+        "content": "<p>Our business doesn’t begin and end with the swipe of your credit card. Our mission is to amplify and celebrate beauty, strength, and connection of all people, not just people within our four walls and not just those who spend money with us.<\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c9c71aed-feb0-48af-98ec-faad0747cc0e": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "small",
+        "image": "shopify:\/\/shop_images\/Our-Values-Team-BG.jpg",
+        "subheading": "Our Team",
+        "title": "We're pro-human flourishing.",
+        "content": "<p><strong>• Our company-wide wage floor is $20\/hour<\/strong> and we<strong>guarantee annual increases<\/strong>for hourly employees for five years in the same role.<\/p><p><strong>• We value peace of mind, body, and portfolio<\/strong> with benefits that include paid mindfulness breaks, employer sponsored health insurance, and employer matched 401k.<\/p><p><strong>• We love family time, creativity time, linger-over-a-cup-of-coffee-and-a-good-book time.<\/strong> Full time starts at 4 days per week. Employees can choose to work more. <\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#2d2d2d",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "0efa1d71-7b9b-4ad6-858a-db431fc0fb5e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14450452037694__0efa1d71-7b9b-4ad6-858a-db431fc0fb5e-16668188236f932811-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/betsyiya-ourplanet.webp",
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "content": "<p><em>We believe in being good humans by genuinely caring about and contributing to the well-being of ourselves, our co-workers, our customers, and our community.<\/em><\/p>",
+            "extra_emphasis": true,
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450452037694__0efa1d71-7b9b-4ad6-858a-db431fc0fb5e-16668188236f932811-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "5d08babc-41df-4ae2-b5fc-393271187bac": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "OUR PLANET",
+        "title": "We're anti-fast fashion. We love plants, forests, and beaches. We believe our business practices should reflect this.",
+        "content": "<p><strong>• We offer free repairs.<\/strong>We'd rather make you one pair of earrings you'll love and feel great in for years than 10 pairs you'll only kinda like. <em>Some limitations apply<\/em>. <a href=\"#repair-limitations\" title=\"#repair-limitations\">1<\/a><\/p><p><strong>• We keep our land filled with more beauty with <\/strong><a href=\"https:\/\/betsyandiya.com\/pages\/recast\" title=\"Recast - Betsy & Iya's buy back program\"><strong>Recast™<\/strong><\/a>, the Betsy & Iya Buy-back program.<\/p><p><strong>• We've built an ethical & sustainable supply chain.<\/strong>We incorporate recycled metal in our work as much as possible and recycle 100% of our scrap. We are only using <a href=\"https:\/\/betsyandiya.com\/pages\/ethically-sourced-mindfully-made\" target=\"_blank\" title=\"Betsy & Iya - Ethically Sourced and Mindfully Made\">lab-grown white diamonds and ethically sourced salt & pepper and black earth diamonds <\/a>in our fine jewelry.<\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "left",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "feafa80f-19f4-415d-be58-7a588f23bf1d": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14450452037694__feafa80f-19f4-415d-be58-7a588f23bf1d-16668188236f932811-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/betsyiya-ourproducts.webp",
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "content": "<p><em>We love plants, forests, and beaches. We believe our business practices should reflect this.<\/em><\/p>",
+            "extra_emphasis": true,
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450452037694__feafa80f-19f4-415d-be58-7a588f23bf1d-16668188236f932811-0"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "bbc936e3-e5b2-4c02-9704-4802923a5e68": {
+      "type": "rich-text",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Our Products",
+        "content": "<p>We're pro-local goods. We sell <strong>Beautiful things made by people who care<\/strong>®, not products made oceans apart from their designers. They're made here, because here is special wherever it is.<\/p><p><strong>• It starts with us.<\/strong>Every piece of Betsy & Iya jewelry is designed and made in our Portland studio. <a href=\"#sourcing-limitations\" title=\"#sourcing-limitations\">2<\/a><\/p><p><strong>• High standards for our friends.<\/strong>Other products we carry are made by their designers or in close proximity to them. Many of our lines include a charitable component.<\/p><p><strong>• We share our platform<\/strong>and prioritize doing business with BIPOC, women, and LGBTQIA artists and designers.<\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "left",
+        "background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ce118607-b01b-4221-9874-01ed9df31b2d": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p><em>We provide free repairs because we'd rather sell you one pair of earrings you'll love for years than 10 pairs you'll kinda like. <\/em><a href=\"https:\/\/betsyandiya.com\/pages\/our-values#repair-limitations\">1<\/a><\/p>",
+        "extra_emphasis": true,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "small",
+        "text_position": "center",
+        "text_alignment": "left",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "44e425e5-8ba4-42bd-88e4-0c1d6769b63e": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14450452037694__44e425e5-8ba4-42bd-88e4-0c1d6769b63e-166681934304525c6b-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/betsyiya-ourcommunity-1.webp",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14450452037694__44e425e5-8ba4-42bd-88e4-0c1d6769b63e-166681934304525c6b-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/betsyiya-ourcommunity-2.webp",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--14450452037694__44e425e5-8ba4-42bd-88e4-0c1d6769b63e-166681934304525c6b-0",
+        "template--14450452037694__44e425e5-8ba4-42bd-88e4-0c1d6769b63e-166681934304525c6b-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "loose",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "7e257edc-695a-4971-bf78-198824f2bcf0": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "OUR COMMUNITY",
+        "title": "We believe a rising tide lifts all boats. From our earliest days when it was just Betsy in a tiny studio, we’ve given back.",
+        "content": "<p><strong>• Since 2008, we've donated $47,356 cash + over $42k in jewelry and gift certificates<\/strong>to hundreds of organizations, causes, schools, individuals, and nonprofits devoted to social equity. And we're just getting started.<\/p><p><strong>• We write and publish <\/strong><a href=\"https:\/\/betsyandiya.com\/blogs\/brilliant-cuts\" title=\"Brilliant Cuts\"><strong>Brilliant Cuts<\/strong><\/a>™, profiles of community members who inspire us to hang in and ride out the rocky road that leads us to our dreams, or sometimes a dream we never knew we had.<\/p><p><strong>• We buy locally and use Amazon only as a last resort<\/strong>. We refuse to be part of a race to the bottom. We value people above profits and expect the same from our vendors, suppliers, and partners.<\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "left",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "a8e97892-a9f1-4085-aecb-94e044f501f5": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14450452037694__a8e97892-a9f1-4085-aecb-94e044f501f5-1666819239f1c98aca-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/betsyiya-organizations.webp",
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "content": "<p><em>We aim to go beyond not only in our work, but within and outside of our community.<\/em><\/p>",
+            "extra_emphasis": true,
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450452037694__a8e97892-a9f1-4085-aecb-94e044f501f5-1666819239f1c98aca-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6e520237-3320-49ea-8027-5d20291eb6ba": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14450452037694__6e520237-3320-49ea-8027-5d20291eb6ba-1666819569f8d0868d-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p><a href=\"https:\/\/www.aclu.org\/\" target=\"_blank\" title=\"ACLU\">ACLU<br\/><\/a><a href=\"https:\/\/www.cancer.org\/\" target=\"_blank\" title=\"American Cancer Society\">American Cancer Society<br\/><\/a><a href=\"https:\/\/www.heart.org\/\" target=\"_blank\" title=\"American Heart Association\">American Heart Association<\/a><br\/><a href=\"https:\/\/www.advancingjustice-aajc.org\/\" target=\"_blank\" title=\"Asian Americans Advancing Justice\">Asian Americans Advancing Justice<br\/><\/a><a href=\"http:\/\/www.bte.org\/\" target=\"_blank\" title=\"Bloomsburg Theatre Ensemble\">Bloomsburg Theatre Ensemble<\/a><br\/><a href=\"https:\/\/www.brownhope.org\/\" target=\"_blank\" title=\"Brown Hope\">Brown Hope<br\/><\/a><a href=\"https:\/\/www.blackresiliencefund.com\/\" target=\"_blank\" title=\"Black Resilience Fund\">Black Resilience Fund<\/a><br\/><a href=\"https:\/\/www.bbpdx.org\/\" target=\"_blank\" title=\"Business for a Better Portland\">Business for a Better Portland<\/a><a href=\"https:\/\/www.byp100.org\/\" target=\"_blank\" title=\"Black Youth Project 100\"><br\/>BYP100 Education Fund<\/a><br\/><a href=\"https:\/\/www.populardemocracy.org\/\" target=\"_blank\" title=\"The Center for Popular Democracy\">The Center for Popular Democracy<\/a><br\/><a href=\"https:\/\/joyrx.org\/\" target=\"_blank\" title=\"Children's Cancer Association\">Children's Cancer Association<\/a><br\/><a href=\"https:\/\/colorofchange.org\/\" target=\"_blank\" title=\"Color of Change\">Color of Change<\/a><br\/><a href=\"https:\/\/www.theconsciouskid.org\/\" target=\"_blank\" title=\"The Conscious Kid\">The Conscious Kid<\/a><br\/><a href=\"https:\/\/covidactnow.org\/\" target=\"_blank\" title=\"Covid Act Now\">Covid Act Now<br\/><\/a><a href=\"https:\/\/www.gofundme.com\/f\/esperanzas-bipoc-artist-sanctuary-in-portland\" target=\"_blank\" title=\"Esperanza Spaldings BIPOC Artist Sanctuary\">Esperanza Spalding's BIPOC Artist Sanctuary<br\/><\/a><a href=\"https:\/\/www.hcao.org\/\" target=\"_blank\" title=\"Health Care for All Oregon\">Health Care for All Oregon<\/a><br\/><a href=\"https:\/\/hollywoodtheatre.org\/\" target=\"_blank\" title=\"Hollywood Theatre\">Hollywood Theatre<\/a><br\/><a href=\"https:\/\/www.npsk12.com\/ies\" target=\"_blank\" title=\"Ingleside Elementary School\">Ingleside Elementary School<br\/><\/a><a href=\"https:\/\/www.faircount.org\/\" target=\"_blank\" title=\"Fair Count\">Fair Count<\/a><br\/><a href=\"https:\/\/fairfight.com\/\" target=\"_blank\" title=\"Fair Fight\">Fair Fight<br\/><\/a><a href=\"https:\/\/footsoldierspark.org\/\" target=\"_blank\" title=\"Foot Soldiers Park\">Foot Soldiers Park<br\/><\/a><a href=\"https:\/\/www.fracturedatlas.org\/\" target=\"_blank\" title=\"Fractured Atlas\">Fractured Atlas<br\/><\/a><a href=\"https:\/\/www.friendlyhouseinc.org\/\" target=\"_blank\" title=\"Friendly House\">Friendly House<br\/><\/a><a href=\"https:\/\/penrosefriends.org\/\" target=\"_blank\" title=\"Friends of Peninsula Park\">Friends of Peninsula Park<\/a><br\/><a href=\"https:\/\/friendsofthechildren.org\/\" target=\"_blank\" title=\"Friends of the Children\">Friends of the Children<\/a><\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "left",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14450452037694__6e520237-3320-49ea-8027-5d20291eb6ba-1666819569f8d0868d-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p><a href=\"https:\/\/gorgefriends.org\/\" target=\"_blank\" title=\"Friends of the Columbia Gorge\">Friends of the Columbia Gorge<\/a><br\/><a href=\"https:\/\/girlsinc.org\/\" target=\"_blank\" title=\"Girls Inc.\">Girls, Inc.<\/a><br\/><a href=\"https:\/\/interactcenter.org\/\" target=\"_blank\" title=\"Interact Center for the Visual and Performing Arts\">Interact Center for the Visual and Performing Arts<\/a><br\/><a href=\"https:\/\/www.iamjoannebland.com\/\" target=\"_blank\" title=\"Journeys for the Soul\">Journeys for the Soul<\/a><br\/><a href=\"https:\/\/marshap.org\/\" target=\"_blank\" title=\"The Marsha P. Johnson Institute\">The Marsha P. Johnson Institute<\/a><br\/><a href=\"https:\/\/www.mercycorps.org\/\" target=\"_blank\" title=\"Mercy Corps\">Mercy Corps<\/a><br\/><a href=\"https:\/\/mglcselma.com\/\" target=\"_blank\" title=\"McRae Gaines Learning Center\">McRae Gaines Learning Center<\/a><br\/><a href=\"https:\/\/www.mimisfreshteespdx.com\/\" target=\"_blank\" title=\"Mimi's Fresh Tees\">Mimi's Fresh Tees<\/a><br\/><a href=\"https:\/\/newavenues.org\/\" target=\"_blank\" title=\"New Avenues for Youth\">New Avenues for Youth<\/a><br\/><a href=\"https:\/\/www.nwirp.org\/\" target=\"_blank\" title=\"Northwest Immigrant Rights Project\">Northwest Immigrant Rights Project<\/a><br\/><a href=\"https:\/\/otatpdx.org\/\" target=\"_blank\" title=\"One Tail at a Time\">One Tail at a Time<\/a><br\/><a href=\"https:\/\/www.opb.org\/\" target=\"_blank\" title=\"Oregon Public Broadcasting\">OPB<\/a><br\/><a href=\"https:\/\/www.oregonfoodbank.org\/\" target=\"_blank\" title=\"Oregon Food Bank\">Oregon Food Bank<\/a><br\/><a href=\"https:\/\/raphaelhouse.com\/\" target=\"_blank\" title=\"Raphael House of Portland\">Raphael House of Portland<\/a><br\/><a href=\"https:\/\/www.restoringjustice.org\/\" target=\"_blank\" title=\"Restoring Justice\">Restoring Justice<\/a><br\/><a href=\"https:\/\/riverwest.org\/\" target=\"_blank\" title=\"River West Church\">River West Church<\/a><br\/><a href=\"https:\/\/sogoreate-landtrust.org\/\" target=\"_blank\" title=\"Sogorea Te' Land Trust\">Sogorea Te' Land Trust<br\/><\/a><a href=\"https:\/\/www.splcenter.org\/\" target=\"_blank\" title=\"Southern Poverty Law Center\">Southern Poverty Law Center<\/a><br\/><a href=\"https:\/\/www.streetdoghero.org\/\" target=\"_blank\" title=\"Street Dog Hero\">Street Dog Hero<\/a><br\/><a href=\"https:\/\/www.streetroots.org\/\" target=\"_blank\" title=\"Street Roots\">Street Roots<br\/><\/a><a href=\"http:\/\/streetyoga.org\/\" target=\"_blank\" title=\"Street Yoga\">Street Yoga<\/a><br\/><a href=\"https:\/\/www.transempowerment.org\/\" target=\"_blank\" title=\"Trans Empowerment Project\">Trans Empowerment Project<\/a><br\/><a href=\"https:\/\/ugmportland.org\/\" target=\"_blank\" title=\"Union Gospel Mission\">Union Gospel Mission<\/a><br\/><a href=\"https:\/\/www.usvetsinc.org\/circle-of-service\/\" target=\"_blank\" title=\"Veteran's Fund\">Veteran's Fund<br\/><\/a><a href=\"https:\/\/wikimediafoundation.org\/\" target=\"_blank\" title=\"Wikimedia Foundation\">Wikimedia Foundation<\/a><\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "left",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--14450452037694__6e520237-3320-49ea-8027-5d20291eb6ba-1666819569f8d0868d-0",
+        "template--14450452037694__6e520237-3320-49ea-8027-5d20291eb6ba-1666819569f8d0868d-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "Community Love",
+        "title": "<p>Some of the organizations we love and support:<\/p>",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f6d99456-1e24-44de-8e58-fbfc7a6366ad": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<p id=\"repair-limitations\"><\/p>\n\n<p id=\"sourcing-limitations\">\n<\/p>",
+        "add_vertical_spacing": false,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "473a53c2-b52c-4d08-ab76-d861ce7bbdf2": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p>1. Due to the high value and expert skill involved, fine jewelry does not qualify for free repairs beyond complimentary cleanings and inspections. We do not work on jewelry we did not originally manufacture and other jewelry brands we sell may charge for repair service. We reserve the right to limit free repairs on a case by case basis to prevent abuse of this service.<\/p><p>2. We've built a network of US-based, values-aligned contractors who perform certain processes of jewelry manufacturing for certain pieces. The amount we lean on this network fluctuates, especially at times of high demand. We aim to do as much production in-house as possible and no matter what is done offsite, our internal team's hands touch every single piece of our jewelry in some way.<\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "left",
+        "background": "#282828",
+        "text_color": "#999999",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "009b78ed-0033-41d0-a6e7-27ec825faa6c",
+    "c9c71aed-feb0-48af-98ec-faad0747cc0e",
+    "0efa1d71-7b9b-4ad6-858a-db431fc0fb5e",
+    "5d08babc-41df-4ae2-b5fc-393271187bac",
+    "feafa80f-19f4-415d-be58-7a588f23bf1d",
+    "bbc936e3-e5b2-4c02-9704-4802923a5e68",
+    "ce118607-b01b-4221-9874-01ed9df31b2d",
+    "44e425e5-8ba4-42bd-88e4-0c1d6769b63e",
+    "7e257edc-695a-4971-bf78-198824f2bcf0",
+    "a8e97892-a9f1-4085-aecb-94e044f501f5",
+    "6e520237-3320-49ea-8027-5d20291eb6ba",
+    "f6d99456-1e24-44de-8e58-fbfc7a6366ad",
+    "473a53c2-b52c-4d08-ab76-d861ce7bbdf2"
+  ]
+}

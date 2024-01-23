@@ -1,0 +1,205 @@
+{% comment %}
+<div id="col-main" class="content d-none ">
+
+  {% for article in blog.articles %}
+
+  <article class="post clearfix">
+    <h2 class="title"><a href="{{ article.url }}">{{ article.title | escape }}</a></h2>
+    <p>Posted on {{ article.published_at | date: "%B %d, %Y" }}</p>
+    {% if article.image %}
+      <a href="{{ article.url }}"><img src="{{ article.image.src | img_url: 'master' }}" /></a>
+    {% else %}
+    {% if article.content contains "<img" %}
+      {% assign src = article.content | split: 'src="' %}
+      {% assign src = src[1] | split: '"' | first | replace: '//cdn', 'http://cdn';; | replace: 'http:http://';;, 'http://';; | remove: 'https:' %}
+      {% if src %}
+      <a href="{{ article.url }}"><img src="{{ src }}" alt="{{ article.title }}" /></a>
+      {% else %}
+      {% endif %}
+    {% endif %}
+    {% endif %}
+
+    {% if article.excerpt == blank %}
+    {{ article.content | strip_html | truncatewords: 60 }}
+    {% else %}
+    {{ article.excerpt }}
+    {% endif %}
+
+    <a href="{{ article.url }}">Read More</a>
+
+  </article>
+
+  {% endfor %}
+
+  {% include 'pagination' %}
+
+  {% endpaginate %}
+
+</div> <!-- /#col-main -->
+{% endcomment %}
+
+{% paginate blog.articles by 200 %}
+<div class="templateBlog">
+<section id="faq--lead-in">
+  <div class="container py-5">
+    <div class="row align-items-center">
+      <div class="col-md-6">
+        <img class="img-fluid" src="https://cdn.shopify.com/s/files/1/1437/2544/files/homepage-featured_2048x2048.jpg?v=1636428581">
+      </div>
+      <div class="col-md-4 offset-md-1">
+        <h1 class="faq--header mb-5">{{ blog.title }}</h1>
+        <p>{{ page_description | escape }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<aside id="faq--filters" class="sticky-top">
+  <div class="container py-3">
+    <div class="row align-items-center">
+      <div class="col">
+        <p>
+          <b>Filter by Topic:</b>
+          <a href="#" data-filter="faq-fine">Fine Jewelry</a>
+          <a href="#" data-filter="faq-fashion">Fashion Jewelry</a>
+          <a href="#" data-filter="faq-products">Other Products</a>
+          <!-- <a href="#" data-filter="faq-topics d-none">Other Topics</a> -->
+        </p>
+      </div>
+    </div>
+  </div>
+</aside>
+
+<section id="faq--shipping" class="faq--block">
+  <div class="container py-5">
+    <div class="row">
+      <div class="col-md-4">
+        <h2>Shipping &amp; Orders</h2>
+      </div>
+      <div class="col-md-8">
+        {% for article in blog.articles %}
+        {% if article.tags contains 'faq-shipping' %}
+          {% include 'faq-article' %}
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="faq--refunds" class="faq--block alt--bg">
+  <div class="container py-5">
+    <div class="row">
+      <div class="col-md-4">
+        <h2>Refunds &amp; Exchanges</h2>
+      </div>
+      <div class="col-md-8">
+        {% for article in blog.articles %}
+        {% if article.tags contains 'faq-refunds' %}
+          {% include 'faq-article' %}
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="faq--shipping" class="faq--block">
+  <div class="container py-5">
+    <div class="row">
+      <div class="col-md-4">
+        <h2>Care Maintenance &amp; Repairs</h2>
+      </div>
+      <div class="col-md-8">
+        {% for article in blog.articles %}
+        {% if article.tags contains 'faq-care' %}
+          {% include 'faq-article' %}
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="faq--refunds" class="faq--block alt--bg">
+  <div class="container py-5">
+    <div class="row">
+      <div class="col-md-4">
+        <h2>Materials &amp; Ethical Sourcing</h2>
+      </div>
+      <div class="col-md-8">
+        {% for article in blog.articles %}
+        {% if article.tags contains 'faq-materials' %}
+          {% include 'faq-article' %}
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="faq--shipping" class="faq--block">
+  <div class="container py-5">
+    <div class="row">
+      <div class="col-md-4">
+        <h2>General FAQs</h2>
+      </div>
+      <div class="col-md-8">
+        {% for article in blog.articles %}
+        {% if article.tags contains 'faq-general' %}
+          {% include 'faq-article' %}
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+</div>
+{% endpaginate %}
+
+<script>
+
+$(document).ready(function() {
+
+  $('body').addClass('page--2020');
+
+  // faq nav
+  $('#nav--faq a').on('click', function() {
+    $('#nav--faq a').removeClass('active');
+    $(this).addClass('active');
+  });
+
+  // Add minus icon for collapse element which is open by default
+  $(".collapse.show").each(function(){
+  	$(this).prev(".faq").find(".fa").addClass("fa-minus").removeClass("fa-plus");
+  });
+
+  // Toggle plus minus icon on show hide of collapse element
+  $(".collapse").on('show.bs.collapse', function(){
+  	$(this).prev(".collapse--trigger").find(".fa").removeClass("fa-plus").addClass("fa-minus");
+  }).on('hide.bs.collapse', function(){
+  	$(this).prev(".collapse--trigger").find(".fa").removeClass("fa-minus").addClass("fa-plus");
+  });
+
+  // filter the FAQs
+  $('#faq--filters a').on('click', function(e) {
+    // get the filter tag
+    var filterSlug = $(this).data('filter');
+    // check to see if it's already been filtered
+    if ($(this).hasClass('is--active')) {
+      $(this).removeClass('is--active');
+      $('.faq--block .faq').show();
+      $('.faq--block .faq.' + filterSlug + '').show();
+      // do the filter!
+    } else {
+      $('#faq--filters a').removeClass('is--active');
+      $(this).addClass('is--active');
+      $('.faq--block .faq').hide();
+      $('.faq--block .faq.' + filterSlug + '').show();
+    }
+    e.preventDefault();
+  });
+
+});
+
+</script>

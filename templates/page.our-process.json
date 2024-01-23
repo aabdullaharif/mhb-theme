@@ -1,0 +1,547 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "402359ed-b19f-4695-8427-027c160cf2e7": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/bg-ethical.webp",
+        "subheading": "",
+        "title": "",
+        "content": "<h4>Ethically Sourced & Mindfully Made<\/h4><h1>Always Conflict-Free.<\/h1><p>We’ve set our own standards incredibly high - from finding the right materials to the makers that set every stone right here in our Portland studio. It costs more to do business this way. In this case, we believe that more is better.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "b99f5a4e-d1a8-4224-9efd-9ff5118e28ee": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14450457804862__b99f5a4e-d1a8-4224-9efd-9ff5118e28ee-16668214384714e37f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ethical-lab-diamonds_657x_b1d87879-be4c-4cb8-a1ed-df8485fd80cd.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<h4>Lab-Grown Diamonds<\/h4>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14450457804862__b99f5a4e-d1a8-4224-9efd-9ff5118e28ee-16668214384714e37f-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ethical-earth-diamonds_585x_8cfe7811-1b56-49c2-be92-2d639b97961e.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<h4>Black and Salt &amp; Pepper Earth Diamonds<\/h4>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "center"
+          }
+        },
+        "template--14450457804862__b99f5a4e-d1a8-4224-9efd-9ff5118e28ee-16668214384714e37f-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ethical-precious_643x_d9a5b2a5-3624-4f51-8dbf-51a6566eea62.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<h4>Semiprecious &amp; Precious Gemstones<\/h4>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457804862__b99f5a4e-d1a8-4224-9efd-9ff5118e28ee-16668214384714e37f-0",
+        "template--14450457804862__b99f5a4e-d1a8-4224-9efd-9ff5118e28ee-16668214384714e37f-2",
+        "template--14450457804862__b99f5a4e-d1a8-4224-9efd-9ff5118e28ee-16668214384714e37f-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "<h2>Our Diamonds & Stones<\/h2>",
+        "content": "<h4>We always choose  Traceable, Conflict-free stones in our jewelry.<\/h4>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "loose",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "All",
+        "show_bi": true,
+        "show_non_bi": true
+      }
+    },
+    "1e78abb4-8686-4936-94d1-95047b3cd0fd": {
+      "type": "faq",
+      "blocks": {
+        "template--14450457804862__1e78abb4-8686-4936-94d1-95047b3cd0fd-1666821705cf896940-1": {
+          "type": "question",
+          "settings": {
+            "title": "What are salt & pepper diamonds?",
+            "article": "faqs\/what-are-salt-pepper-diamonds",
+            "answer": ""
+          }
+        },
+        "template--14450457804862__1e78abb4-8686-4936-94d1-95047b3cd0fd-1666821705cf896940-4": {
+          "type": "question",
+          "settings": {
+            "title": "What are lab-grown diamonds?",
+            "article": "faqs\/what-are-lab-grown-diamonds",
+            "answer": ""
+          }
+        },
+        "aaeb79fb-6ec9-4f08-81e5-f91adb7c5065": {
+          "type": "question",
+          "settings": {
+            "title": "Are your diamonds and other stones conflict-free?",
+            "article": "faqs\/are-your-diamonds-and-other-stones-conflict-free",
+            "answer": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457804862__1e78abb4-8686-4936-94d1-95047b3cd0fd-1666821705cf896940-1",
+        "template--14450457804862__1e78abb4-8686-4936-94d1-95047b3cd0fd-1666821705cf896940-4",
+        "aaeb79fb-6ec9-4f08-81e5-f91adb7c5065"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "e356b303-a360-482d-90eb-b490b94095ca": {
+      "type": "image-with-text",
+      "blocks": {
+        "cb26f75e-95eb-48db-8824-f74b33145f46": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ethical-metals.webp",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "",
+            "content": "<h3>Our Metals<\/h3><p>All of our fine jewelry metals are recycled and our gold alloys are SCS certified recycled. Our fashion jewelry metals all come from US-based suppliers.<\/p>",
+            "extra_emphasis": false,
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "cb26f75e-95eb-48db-8824-f74b33145f46"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "d74f53cb-ae87-4472-b0f4-5cf89779d714": {
+      "type": "faq",
+      "blocks": {
+        "template--14450457804862__d74f53cb-ae87-4472-b0f4-5cf89779d714-166682187262621e4b-1": {
+          "type": "question",
+          "settings": {
+            "title": "Where do your metals come from?",
+            "article": "faqs\/where-do-your-metals-come-from",
+            "answer": ""
+          }
+        },
+        "template--14450457804862__d74f53cb-ae87-4472-b0f4-5cf89779d714-166682187262621e4b-2": {
+          "type": "question",
+          "settings": {
+            "title": "Do you work in metals besides 14k white and yellow gold for your fine jewelry?",
+            "article": "faqs\/do-you-work-in-metals-besides-14k-white-and-yellow-gold-for-your-fine-jewelry",
+            "answer": ""
+          }
+        },
+        "template--14450457804862__d74f53cb-ae87-4472-b0f4-5cf89779d714-166682187262621e4b-4": {
+          "type": "question",
+          "settings": {
+            "title": "What is palladium white gold and why don’t you offer rhodium plated white gold?",
+            "article": "faqs\/what-is-palladium-white-gold-and-why-don-t-you-offer-rhodium-plated-white-gold",
+            "answer": ""
+          }
+        },
+        "79a473fb-2a22-4c7b-bbc2-f5a1b3459360": {
+          "type": "question",
+          "settings": {
+            "title": "What does 14k mean?",
+            "article": "faqs\/what-does-14k-mean",
+            "answer": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457804862__d74f53cb-ae87-4472-b0f4-5cf89779d714-166682187262621e4b-1",
+        "template--14450457804862__d74f53cb-ae87-4472-b0f4-5cf89779d714-166682187262621e4b-2",
+        "template--14450457804862__d74f53cb-ae87-4472-b0f4-5cf89779d714-166682187262621e4b-4",
+        "79a473fb-2a22-4c7b-bbc2-f5a1b3459360"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "",
+        "content": "",
+        "background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6509c46b-1dcb-453e-a84d-829f7f0f64c8": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h3>Our Production Studio<\/h3><p>We make our line of jewelry right here in Portland, just next to our brick &amp; mortar.<\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1fbe6f57-cd59-48da-9ba8-ee449a0f247d": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14450457804862__1fbe6f57-cd59-48da-9ba8-ee449a0f247d-1666822435c9a84266-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ethical-production.webp",
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "content": "<p><em>Designed, tested, and crafted by humans who care right here in our Portland studio.<\/em><\/p>",
+            "extra_emphasis": true,
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457804862__1fbe6f57-cd59-48da-9ba8-ee449a0f247d-1666822435c9a84266-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "2b509bc4-ddfe-4a95-b71e-e9e818726430": {
+      "type": "faq",
+      "blocks": {
+        "template--14450457804862__2b509bc4-ddfe-4a95-b71e-e9e818726430-16668226905f268f9f-1": {
+          "type": "question",
+          "settings": {
+            "title": "Where is your jewelry made?",
+            "article": "faqs\/where-is-your-jewelry-made",
+            "answer": ""
+          }
+        },
+        "template--14450457804862__2b509bc4-ddfe-4a95-b71e-e9e818726430-16668226905f268f9f-2": {
+          "type": "question",
+          "settings": {
+            "title": "Do you reuse and recycle?",
+            "article": "faqs\/do-you-reuse-and-recycle",
+            "answer": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457804862__2b509bc4-ddfe-4a95-b71e-e9e818726430-16668226905f268f9f-1",
+        "template--14450457804862__2b509bc4-ddfe-4a95-b71e-e9e818726430-16668226905f268f9f-2"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "",
+        "content": "<h3>FAQ<\/h3>",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6010bfbc-d2aa-485f-ac97-0ff6d6f76b5c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14511631106110__6010bfbc-d2aa-485f-ac97-0ff6d6f76b5c-1682443567f2937bf6-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ethical-supply-chain.webp",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "",
+            "content": "<h3>An Ethical Supply Chain<\/h3><p>We really kick the tires when we vet our suppliers, looking for companies – both big and small – who think and operate like we do.<\/p>",
+            "extra_emphasis": false,
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14511631106110__6010bfbc-d2aa-485f-ac97-0ff6d6f76b5c-1682443567f2937bf6-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6a606973-d322-4b97-874a-8478e219714f": {
+      "type": "faq",
+      "blocks": {
+        "template--14450457804862__6a606973-d322-4b97-874a-8478e219714f-1666822943fecc680e-1": {
+          "type": "question",
+          "settings": {
+            "title": "You say you’ve built an ethical supply chain. What does that mean in practice?",
+            "article": "faqs\/you-say-you-ve-built-an-ethical-supply-chain-what-does-that-mean-in-practice",
+            "answer": ""
+          }
+        },
+        "template--14450457804862__6a606973-d322-4b97-874a-8478e219714f-1666822943fecc680e-2": {
+          "type": "question",
+          "settings": {
+            "title": "For your custom work, can you source diamonds and other gemstones, or do I need to provide these?",
+            "article": "faqs\/for-your-custom-work-can-you-source-diamonds-and-other-gemstones-or-do-i-need-to-provide-these",
+            "answer": "<p>Yes, we can source any material or stone needed for your custom project. We can also work with stones you provide, as long as they pass our quality check. If we aren't able to work with your materials, we will explain why and show you any quality concerns under a microscope.<\/p>"
+          }
+        },
+        "template--14450457804862__6a606973-d322-4b97-874a-8478e219714f-1666822943fecc680e-4": {
+          "type": "question",
+          "settings": {
+            "title": "Can I pick the stone you use?",
+            "article": "faqs\/can-i-pick-the-stone-you-use",
+            "answer": ""
+          }
+        },
+        "04908652-093c-4fc4-9187-77157f8e91ef": {
+          "type": "question",
+          "settings": {
+            "title": "Why are you OK with your black and salt & pepper diamonds and semi-precious gemstones coming from the earth, but not your white diamonds?",
+            "article": "faqs\/why-are-you-ok-with-your-black-and-salt-pepper-diamonds-and-semi-precious-gemstones-coming-from-the-earth-but-not-your-white-diamonds",
+            "answer": ""
+          }
+        },
+        "be410b7a-e268-4e4c-86b0-def55de94e64": {
+          "type": "question",
+          "settings": {
+            "title": "Are your diamonds Kimberley Process Certified?",
+            "article": "faqs\/are-your-diamonds-kimberley-process-certified",
+            "answer": ""
+          }
+        },
+        "07c70263-173b-454d-987a-2b2ab3ba3adb": {
+          "type": "question",
+          "settings": {
+            "title": "What are salt & pepper diamonds?",
+            "article": "faqs\/what-are-salt-pepper-diamonds",
+            "answer": ""
+          }
+        },
+        "e38061d6-d30d-44e8-abd3-f31870f086ef": {
+          "type": "question",
+          "settings": {
+            "title": "What are lab-grown diamonds?",
+            "article": "faqs\/what-are-lab-grown-diamonds",
+            "answer": ""
+          }
+        },
+        "1bda34fb-52f7-4977-89be-1c87810f0dd0": {
+          "type": "question",
+          "settings": {
+            "title": "Are your diamonds and other stones conflict-free?",
+            "article": "faqs\/are-your-diamonds-and-other-stones-conflict-free",
+            "answer": ""
+          }
+        },
+        "8ca99941-f897-42c4-ba7f-33f709ee5c7e": {
+          "type": "question",
+          "settings": {
+            "title": "Where do your metals come from?",
+            "article": "faqs\/where-do-your-metals-come-from",
+            "answer": ""
+          }
+        },
+        "7db090e0-0d73-4d28-ba39-7cbd6d753426": {
+          "type": "question",
+          "settings": {
+            "title": "Help! My skin turned green – what’s going on?",
+            "article": "faqs\/help-my-skin-turned-green-what-s-going-on",
+            "answer": ""
+          }
+        },
+        "a9ca3eaf-5aa3-4473-b9ab-6585a76e2176": {
+          "type": "question",
+          "settings": {
+            "title": "What about your manufacturing partners?",
+            "article": "faqs\/what-about-your-manufacturing-partners",
+            "answer": "<p>We've built a network of US-based, values-aligned contractors who perform certain processes of jewelry manufacturing for certain pieces. The amount we lean on this network fluctuates, especially at times of high demand. We aim to do as much production in-house as possible and no matter what is done offsite, our internal team's hands touch every single piece of our jewelry in some way.<\/p>"
+          }
+        },
+        "50b50791-9304-45c8-a386-4315fb241543": {
+          "type": "question",
+          "settings": {
+            "title": "Where is your jewelry made?",
+            "article": "faqs\/where-is-your-jewelry-made",
+            "answer": ""
+          }
+        },
+        "f76f6afe-388d-47eb-9511-439ee3fc8fc1": {
+          "type": "question",
+          "settings": {
+            "title": "What are SCS Global Services, Responsible Jewellery Council, and Fair Trade Gems?",
+            "article": "faqs\/what-are-scs-global-services-responsible-jewellery-council-and-fair-trade-gems",
+            "answer": ""
+          }
+        },
+        "84dfebd5-a9d7-44af-9ec5-28823224f989": {
+          "type": "question",
+          "settings": {
+            "title": "Do you reuse and recycle?",
+            "article": "faqs\/do-you-reuse-and-recycle",
+            "answer": ""
+          }
+        },
+        "45189b4e-bbcf-4fe5-b36a-b7d7e66e3dc6": {
+          "type": "question",
+          "settings": {
+            "title": "Can I change the type of metal you use?",
+            "article": "faqs\/can-i-change-the-type-of-metal-you-use",
+            "answer": ""
+          }
+        },
+        "e1c8b91c-876a-4958-ac26-dd9a35792387": {
+          "type": "question",
+          "settings": {
+            "title": "Do you work in metals besides 14k white and yellow gold for your fine jewelry?",
+            "article": "faqs\/do-you-work-in-metals-besides-14k-white-and-yellow-gold-for-your-fine-jewelry",
+            "answer": ""
+          }
+        },
+        "21c51dd3-d96b-45cf-bebd-b054780a8543": {
+          "type": "question",
+          "settings": {
+            "title": "What is palladium white gold and why don’t you offer rhodium plated white gold?",
+            "article": "faqs\/what-is-palladium-white-gold-and-why-don-t-you-offer-rhodium-plated-white-gold",
+            "answer": ""
+          }
+        },
+        "95b0e0a5-19db-4e9a-8f44-4da5c253f79f": {
+          "type": "question",
+          "settings": {
+            "title": "What does 14k mean?",
+            "article": "faqs\/what-does-14k-mean",
+            "answer": ""
+          }
+        },
+        "26d5bac6-8ffc-409f-8042-1ed04b0bca78": {
+          "type": "question",
+          "settings": {
+            "title": "What about the materials, ethical sourcing, and business practices of companies that make non-jewelry products or non-Betsy & Iya jewelry lines that you carry in your shop?",
+            "article": "faqs\/what-about-the-materials-ethical-sourcing-and-business-practices-of-companies-that-make-non-jewelry-products-or-non-betsy-iya-jewelry-lines-that-you-carry-in-your-shop",
+            "answer": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457804862__6a606973-d322-4b97-874a-8478e219714f-1666822943fecc680e-1",
+        "template--14450457804862__6a606973-d322-4b97-874a-8478e219714f-1666822943fecc680e-2",
+        "template--14450457804862__6a606973-d322-4b97-874a-8478e219714f-1666822943fecc680e-4",
+        "04908652-093c-4fc4-9187-77157f8e91ef",
+        "be410b7a-e268-4e4c-86b0-def55de94e64",
+        "07c70263-173b-454d-987a-2b2ab3ba3adb",
+        "e38061d6-d30d-44e8-abd3-f31870f086ef",
+        "1bda34fb-52f7-4977-89be-1c87810f0dd0",
+        "8ca99941-f897-42c4-ba7f-33f709ee5c7e",
+        "7db090e0-0d73-4d28-ba39-7cbd6d753426",
+        "a9ca3eaf-5aa3-4473-b9ab-6585a76e2176",
+        "50b50791-9304-45c8-a386-4315fb241543",
+        "f76f6afe-388d-47eb-9511-439ee3fc8fc1",
+        "84dfebd5-a9d7-44af-9ec5-28823224f989",
+        "45189b4e-bbcf-4fe5-b36a-b7d7e66e3dc6",
+        "e1c8b91c-876a-4958-ac26-dd9a35792387",
+        "21c51dd3-d96b-45cf-bebd-b054780a8543",
+        "95b0e0a5-19db-4e9a-8f44-4da5c253f79f",
+        "26d5bac6-8ffc-409f-8042-1ed04b0bca78"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "",
+        "content": "<h3>Sourcing & Materials FAQ<\/h3>",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "402359ed-b19f-4695-8427-027c160cf2e7",
+    "b99f5a4e-d1a8-4224-9efd-9ff5118e28ee",
+    "1e78abb4-8686-4936-94d1-95047b3cd0fd",
+    "e356b303-a360-482d-90eb-b490b94095ca",
+    "d74f53cb-ae87-4472-b0f4-5cf89779d714",
+    "6509c46b-1dcb-453e-a84d-829f7f0f64c8",
+    "1fbe6f57-cd59-48da-9ba8-ee449a0f247d",
+    "2b509bc4-ddfe-4a95-b71e-e9e818726430",
+    "6010bfbc-d2aa-485f-ac97-0ff6d6f76b5c",
+    "6a606973-d322-4b97-874a-8478e219714f"
+  ]
+}

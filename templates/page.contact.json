@@ -1,0 +1,65 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "contact-form": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "title": "Contact Us",
+        "content": "",
+        "text_1_heading": "",
+        "text_1_text": "",
+        "text_2_heading": "",
+        "text_2_text": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "55996798-4118-4f94-97e1-89e5cb0be7d0": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p>Open 11am – 6pm \/\/ Every day \/\/ <a href=\"https:\/\/betsyandiya.com\/pages\/brick-and-mortar\">Details &amp; Holiday Hours<\/a>.<\/p><p><strong>Shop Address:<\/strong> 1777 NW 24th Avenue, Portland, OR 97210 <a href=\"http:\/\/goo.gl\/maps\/ap2Dt\">[map]<\/a><\/p><p><strong>Mailing Address:<\/strong><em> 2408 NW Thurman Street, Portland, OR 9721<\/em><\/p><p><strong>Telephone:<\/strong> 503.227.5482<\/p><p> <\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "left",
+        "text_alignment": "left",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "59090720-daa0-4203-8e1f-82c56850bf5f": {
+      "type": "custom-liquid",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "liquid": "<div id=\"wufoo-zxrtrdt0pk1byv\">Fill out my <a href=\"https:\/\/betsyandiya.wufoo.com\/forms\/zxrtrdt0pk1byv\">online form<\/a>.<\/div>\n<script src=\"https:\/\/www.wufoo.com\/scripts\/embed\/form.js\"><\/script>\n<script src=\"https:\/\/www.wufoo.com\/scripts\/embed\/form.js\"><\/script>\n<script src=\"https:\/\/www.wufoo.com\/scripts\/embed\/form.js\"><\/script>\n<script type=\"text\/javascript\">\/\/ <![CDATA[\nvar zxrtrdt0pk1byv;(function(d, t) { var s = d.createElement(t), options = { 'userName':'betsyandiya', 'formHash':'zxrtrdt0pk1byv', 'autoResize':true, 'height':'3940', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true}; s.src = ('https:' == d.location.protocol ? 'https:\/\/' : 'http:\/\/') + 'www.wufoo.com\/scripts\/embed\/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { zxrtrdt0pk1byv = new WufooForm();zxrtrdt0pk1byv.initialize(options);zxrtrdt0pk1byv.display(); } catch (e) {}}; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script');\n\/\/ ]]><\/script>",
+        "add_vertical_spacing": true,
+        "background_type": "boxed",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact-form",
+    "55996798-4118-4f94-97e1-89e5cb0be7d0",
+    "59090720-daa0-4203-8e1f-82c56850bf5f"
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "219e1e2c-f0e7-4ad6-9090-dfa649e73022": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14613947318334__219e1e2c-f0e7-4ad6-9090-dfa649e73022-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9_to_5.jpg",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--14613947318334__219e1e2c-f0e7-4ad6-9090-dfa649e73022-image-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "fade",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "ad2eb51a-79c0-4796-8694-b6435bd88256": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p><em>Celebrate Portland, women, and doing business the right way. Join us on September 24th as we screen <strong>9 to 5<\/strong> at the Hollywood Theatre.<\/em><\/p>",
+        "extra_emphasis": false,
+        "button_text": "Reserve Your Free Seat",
+        "button_link": "shopify:\/\/products\/betsy-iya-movie-date-9-to-5",
+        "background_type": "full_width",
+        "text_width": "small",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "433c5331-1290-4236-91ab-f0c575b274cd": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "An Open Letter from Betsy & Iya",
+        "title": "We Need You. Portland Needs You.",
+        "content": "",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "3f7f4214-c564-4a13-a829-a4adc4903711": {
+      "type": "divider-section",
+      "settings": {
+        "divider_style": "2"
+      }
+    },
+    "feab4b15-8456-4ace-b9d9-396264230d04": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">We’ve all heard the mantra. We’ve encountered it so many times the phrase has become both habituated and vague. Like the Pledge of Allegiance or “Rock-a-bye baby.” <\/span><b data-mce-fragment=\"1\">Keep Portland weird.<\/b><\/p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">Some interpret it as weirdness for weirdness’s sake. But that’s not what Keep Portland Weird means to me.<\/span><\/p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">For me, Portland weird means embracing the abrupt peace of Forest Park. It means biking to work even when driving is quicker. It’s arcades for grown-ups, the best meals of your life from tiny carts gathered in parking lots, movie theaters you can walk to. It means spending a few extra minutes and cents on that truly exquisite cup of coffee, pint of beer, or glass of Willamette pinot you won’t find anywhere but here. It’s live music in ballrooms and basements, 9 pm sunsets over forested hills, and double decker bikes cruising riverside lanes. It’s zoobombing, cat cafés, soapbox derbies, street fairs, brightly painted houses, and tiny parks and green spaces hidden around corners and tucked between buildings.<\/span><\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "left",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "0ffc056f-c7f2-4ebd-899b-ece0dbfde768": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<em>Keep Portland weird means willfully doing things differently, because it honors something more important than expedience: joy, community, freedom, discovery, creativity, expression, beauty.<\/em>",
+        "extra_emphasis": true,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c4482fee-ab94-45aa-bef4-df5d7d984c62": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">Keeping Portland Weird means willfully doing things differently, with a little more consideration, not because it’s the easiest way, but because it honors something more important than expedience: joy, community, freedom, discovery, creativity, expression, beauty. Because it creates an environment that nurtures and celebrates life –<\/span><b data-mce-fragment=\"1\"> weirdness because it’s pro-human<\/b><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">.<\/span><\/p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">We’ve all been to those un-weird places where people live in one part of town and drive to other parts of town to buy things and do things. And it’s ugly and boxy and the same as the city down the road and the next city after that. Portland’s main streets are plentiful and woven between and through her blocks of colorful houses and parks and bike racks and apartments and libraries. So much of Portland’s strength as a city is tied to those streets, made up of her many thousands of small businesses.<\/span><\/p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\"><strong>And these small businesses—ours included—are struggling right now.<\/strong> Keeping pace with rising costs, unpredictable demand, an increasingly online world, and Portland’s most recent challenges are things even companies much larger than ours are grappling with. I’ve heard of fellow small retailers down 20, 30, even 50 percent this summer in comparison with years past. For most of us, there’s a timeline – a number of months we can continue to make little or no profit without being beaten, spiritually, financially, or both. The larger the company, the longer this timeline: fatter cats can wait longer between meals. Indeed, the biggest national and multinational companies can wait us all out many times over. And the clock is ticking. But if time runs out for Portland’s small businesses, then our city will be changed forever, empty of so much of what made it different and special and, yes, weird. <\/span><\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "left",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "821be069-361c-4553-bc0e-48d0eff9ad29": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<em>If time runs out for Portland’s small businesses, then our city will be changed forever, empty of so much of what made it different and special and, yes, weird.<\/em>",
+        "extra_emphasis": true,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "a5d9d303-8875-4710-8430-9b96c79a7d12": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">Because here’s another thing about small businesses. They–we–invest in our city. We donate to PTAs and local nonprofits. We sweep the sidewalks in front of our shops. We know our customers’ first names and where their kids go to school. We employ and provide benefits to your friends and neighbors and care about their fulfillment and development as employees and people. And we offer something you won’t get anywhere but Portland. There’s only one place on the planet to get a Lovely’s FiftyFifty pizza, one Wurlitzer-filled Oaks Park skating rink, <strong>and only one place where Betsy &amp; Iya jewelry is designed, made, and sold.<\/strong> That’s the advantage we small businesses have: We don’t have to worry about appealing to everyone. Our small size is on purpose: it allows us to hone more focused talents and nurture more authentic passions to share them with you, our customers, our fellow Portlanders. And we measure success not just by the size of the profit margin. Success is the health of our business, yes, but also the health of our employees, our vendors, our customers, our street, our neighborhood, our city, <\/span><a data-mce-fragment=\"1\" href=\"https:\/\/betsyandiya.com\/pages\/our-values\" data-mce-href=\"https:\/\/betsyandiya.com\/pages\/our-values\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">our community<\/span><\/a><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">.<\/span><\/p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">So a few years back, when we heard that Portland’s Movie Madness could be closing for good, we lamented the void its closure would leave in this weird city we love. But there was a chance that we could join together as a community and prevent the insouciant creep of modernity from burying this gem.<\/span><\/p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">So Betsy &amp; Iya donated $5,400 to the <a href=\"https:\/\/www.kickstarter.com\/projects\/hollywoodtheatre\/save-movie-madness\" target=\"_blank\">Save Movie Madness campaign<\/a> and became a part of its survival, part of keeping Portland one weird place with a 32-year-old video rental store where you can find 90,000+ new releases, childhood classics, foreign films from more than 65 countries, an extensive LGBTQ section, and VHS and cult rarities.<\/span><\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "left",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f0e4e90c-5de4-4132-b0ca-fcbf02fe8ece": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<em>We don’t have to let things change in ways we don’t agree with, that aren’t aligned with our own humanity. We can change and still stay connected, stay beautiful, strong, and weird.<\/em>",
+        "extra_emphasis": true,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "995f0614-a867-4bb7-b8f8-c096834b190d": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">In many contexts 90,000 DVDs would just be an inconvenience or a sad statistic about consumerism and loneliness. But 90,000 Movie Madness DVDs are special because they exist together, unified by intention, vision, purpose. <\/span><b data-mce-fragment=\"1\">You could say the same about Portland.<\/b><\/p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">Betsy &amp; Iya got more from our Movie Madness donation than city-pride. We got the opportunity to screen any film at the Hollywood Theatre for you, our customers. <\/span><b data-mce-fragment=\"1\">We’ll host that screening on September 24, 2023. And you’re all invited.<\/b><\/p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">Our mission at Betsy &amp; Iya is to amplify and celebrate beauty, strength, and connection. Most of the time, we do it through the jewelry we design and make in our Portland studio. But on September 24th, we’ll do it with the lights off, surrounded by some of Portland’s finest weirdos in one of Portland’s finest movie theaters, nestled among her tree-lined streets, colorfully-painted homes, and kaleidoscope of small businesses.<\/span><\/p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">As a business and as people, we’ve chosen Portland. Our roots are deep here. Our families and closest friends live here. Our kiddo just entered 1st grade at Portland Public Schools. We’ve often said there’s no other city in the US where we could have started and grown a business like ours. This city invested in us, and we’re investing right back–currently just weeks away from opening a <\/span><a data-mce-fragment=\"1\" href=\"https:\/\/betsyandiya.com\/pages\/brick-and-mortar\/\" data-mce-href=\"https:\/\/betsyandiya.com\/pages\/brick-and-mortar\/\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">second storefront<\/span><\/a><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\"> in NW Portland. We’ve doubled down; we’re here, and like so many other small brick and mortar retailers, we’re going to stay here as long as Portlanders want weird places like ours where you can buy jewelry made feet from where it’s designed.<\/span><\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "left",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "2e13ee50-39bd-458b-8b9e-4d8935d58b56": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<em>Success is the health of our business, but also the health of our employees, our vendors, our customers, our street, our neighborhood, our city, our community.<\/em>",
+        "extra_emphasis": true,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "fed14261-5700-4f84-9ed0-b729011f78eb": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">Our world and our city have changed quickly these past few years. And they will continue to change. But we don’t have to let things change in ways we don’t agree with, that aren’t aligned with our own humanity. We can change and still stay connected, stay beautiful, strong, and weird.<\/span><\/p>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">So let’s stay weird together. Will you come to the movies with us <a href=\"\/products\/betsy-iya-movie-date-9-to-5\">on September 24th<\/a>? We’ll buy the tickets; you buy the popcorn. And between now and then, we invite you into <a href=\"\/pages\/brick-and-mortar\">our shop<\/a> and into all the small Portland businesses we love. Bring a friend or two. Show us off to your out-of-town relatives. Buy something for yourself or a gift for someone you love. You’re a part of this city just like we are, and we need you. Portland needs you. Help us keep it weird.<\/span><\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "left",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "e9f65064-c4d1-4826-b12d-a1019debcd82": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "extra_emphasis": false,
+        "button_text": "Reserve Your Free Seat",
+        "button_link": "shopify:\/\/products\/betsy-iya-movie-date-9-to-5",
+        "background_type": "full_width",
+        "text_width": "small",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6248e899-000a-4f8e-aaeb-f809cf4959cb": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p><em>Written by <a href=\"\/pages\/meet-the-team\">Will Cervarich, co-owner<\/a><br>\n September 5, 2023<\/em><\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "#333333",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "d4440e04-e02e-4aef-b234-135aa651b527": {
+      "type": "divider-section",
+      "settings": {
+        "divider_style": "1"
+      }
+    },
+    "96a98229-6983-47ce-a0eb-63ecaec69bd2": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--14613947318334__96a98229-6983-47ce-a0eb-63ecaec69bd2-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "in-stock-betsy-iya-earrings",
+            "label": "",
+            "button_text": "Browse All",
+            "button_url": "shopify:\/\/collections\/jewelry"
+          }
+        }
+      },
+      "block_order": [
+        "template--14613947318334__96a98229-6983-47ce-a0eb-63ecaec69bd2-collection-1"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "products_count": 50,
+        "products_per_row": 4,
+        "stack_products": false,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "219e1e2c-f0e7-4ad6-9090-dfa649e73022",
+    "ad2eb51a-79c0-4796-8694-b6435bd88256",
+    "433c5331-1290-4236-91ab-f0c575b274cd",
+    "3f7f4214-c564-4a13-a829-a4adc4903711",
+    "feab4b15-8456-4ace-b9d9-396264230d04",
+    "0ffc056f-c7f2-4ebd-899b-ece0dbfde768",
+    "c4482fee-ab94-45aa-bef4-df5d7d984c62",
+    "821be069-361c-4553-bc0e-48d0eff9ad29",
+    "a5d9d303-8875-4710-8430-9b96c79a7d12",
+    "f0e4e90c-5de4-4132-b0ca-fcbf02fe8ece",
+    "995f0614-a867-4bb7-b8f8-c096834b190d",
+    "2e13ee50-39bd-458b-8b9e-4d8935d58b56",
+    "fed14261-5700-4f84-9ed0-b729011f78eb",
+    "e9f65064-c4d1-4826-b12d-a1019debcd82",
+    "6248e899-000a-4f8e-aaeb-f809cf4959cb",
+    "d4440e04-e02e-4aef-b234-135aa651b527",
+    "96a98229-6983-47ce-a0eb-63ecaec69bd2"
+  ]
+}

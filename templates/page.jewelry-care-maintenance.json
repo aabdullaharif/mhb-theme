@@ -1,0 +1,722 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "145d10a6-3509-4a49-b81b-ab906ee5b1fa": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Jewelr-Care-Maintenance-Banner.jpg",
+        "subheading": "",
+        "title": "Jewelry Care, Maintenance & Repairs",
+        "content": "<p>Your lifestyle and day-to-day activities will affect your jewelry. But simple actions can extend the life and luster of your fashion and fine jewelry. Here are ways you can care for your pieces at home, and steps for when B&I should take the lead!<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_center",
+        "text_color": "#2d2d2d",
+        "button_background": "#e88a4d",
+        "button_text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "5234a65e-6f9d-429b-867f-0a338ff458db": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14450086608958__5234a65e-6f9d-429b-867f-0a338ff458db-1664912661132795a0-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/care-fashion-jewelry.webp",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Fashion Jewelry",
+            "content": "<p>Our fashion jewelry is made of brass, bronze, sterling &amp; plated silver and semi-precious gemstones, like turquoise.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14450086608958__5234a65e-6f9d-429b-867f-0a338ff458db-1664912661132795a0-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/care-fine-jewelry.webp",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Fine Jewelry",
+            "content": "<p>Our fine jewelry is made of 14K gold, platinum, palladium, or includes diamonds and other precious gemstones.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--14450086608958__5234a65e-6f9d-429b-867f-0a338ff458db-1664912661132795a0-0",
+        "template--14450086608958__5234a65e-6f9d-429b-867f-0a338ff458db-1664912661132795a0-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "What's The Difference?",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "tight",
+        "background": "#f6eadb",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "All",
+        "show_bi": true,
+        "show_non_bi": true
+      }
+    },
+    "381cf21b-87bf-49ef-8748-6a9d502baa05": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14450086608958__381cf21b-87bf-49ef-8748-6a9d502baa05-1664912661132795a0-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-care-enemy-sun.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>Exposure to <strong>natural elements<\/strong> (like air, water, and humidity) can cause your jewelry to tarnish. Only 24K pure gold is safe from Mother Nature’s elements.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14450086608958__381cf21b-87bf-49ef-8748-6a9d502baa05-1664912661132795a0-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-care-enemy-chemicals.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p><strong>Chemicals from bath + body products, perfumes, <\/strong>and <strong>chemically-treated water<\/strong> (like hot tubs) can permanently damage your jewelry.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14450086608958__381cf21b-87bf-49ef-8748-6a9d502baa05-1664912661132795a0-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-care-enemy-activities.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p><strong>Strenous activities <\/strong>(exercising, gardening, pot scrubbing, etc.) can cause metals to bend or wear. Our natural chemistry can cause different reactions with metals.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--14450086608958__381cf21b-87bf-49ef-8748-6a9d502baa05-1664912661132795a0-0",
+        "template--14450086608958__381cf21b-87bf-49ef-8748-6a9d502baa05-1664912661132795a0-2",
+        "template--14450086608958__381cf21b-87bf-49ef-8748-6a9d502baa05-1664912661132795a0-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "<h2>Your Jewelry's Enemies<\/h2>",
+        "content": "<h4>No matter how careful you are, all jewelry will age over time. Here's some of the most common sources of tarnish and other wear on jewelry.<\/h4>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "loose",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "All",
+        "show_bi": true,
+        "show_non_bi": true
+      }
+    },
+    "8a326e0b-3e6e-479e-9540-ac7131e9a621": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14450086608958__8a326e0b-3e6e-479e-9540-ac7131e9a621-166491264944b632d6-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/care-tarnish.webp",
+            "tab_label": "",
+            "subheading": "Wait, What's Tarnish?",
+            "title": "",
+            "content": "<p><strong>Tarnish occurs naturally<\/strong>. When certain metals are exposed to air and moisture, the natural chemical reaction creates a layer of tarnish.<\/p>",
+            "extra_emphasis": false,
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450086608958__8a326e0b-3e6e-479e-9540-ac7131e9a621-166491264944b632d6-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c57711d7-d0e6-44e2-bd5c-cc94ea5c1d4e": {
+      "type": "faq",
+      "blocks": {
+        "template--14450086608958__c57711d7-d0e6-44e2-bd5c-cc94ea5c1d4e-1664912649b0816be7-1": {
+          "type": "question",
+          "settings": {
+            "title": "What will happen as I wear my jewelry and it ages naturally?",
+            "article": "faqs\/what-will-happen-as-i-wear-my-jewelry-and-it-ages-naturally",
+            "answer": ""
+          }
+        },
+        "template--14450086608958__c57711d7-d0e6-44e2-bd5c-cc94ea5c1d4e-1664912649b0816be7-2": {
+          "type": "question",
+          "settings": {
+            "title": "What’s the difference between damage and normal wear and tear?",
+            "article": "faqs\/what-s-the-difference-between-damage-and-normal-wear-and-tear",
+            "answer": ""
+          }
+        },
+        "template--14450086608958__c57711d7-d0e6-44e2-bd5c-cc94ea5c1d4e-1664912649b0816be7-4": {
+          "type": "question",
+          "settings": {
+            "title": "What can I do to slow down normal wear and tear on my jewelry?",
+            "article": "faqs\/what-can-i-do-to-slow-down-normal-wear-and-tear-on-my-jewelry",
+            "answer": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450086608958__c57711d7-d0e6-44e2-bd5c-cc94ea5c1d4e-1664912649b0816be7-1",
+        "template--14450086608958__c57711d7-d0e6-44e2-bd5c-cc94ea5c1d4e-1664912649b0816be7-2",
+        "template--14450086608958__c57711d7-d0e6-44e2-bd5c-cc94ea5c1d4e-1664912649b0816be7-4"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6e64a75d-77f7-47d4-8a83-df7ac64f09bc": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Caring For Jewelry At Home",
+        "content": "<h4>There are several things you can safely do from home to clean, remove tarnish\/patina, detangle, and straighten out bends in your jewelry.<\/h4>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "dc8c888c-42bf-41ed-ab0e-a77e42bfe4da": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14450086608958__dc8c888c-42bf-41ed-ab0e-a77e42bfe4da-1666740219c57609e2-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/care-polishing-cloth.webp",
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "content": "<h4>Polishing Cloth<\/h4><h5>Don’t be afraid to put some oomph in it.<\/h5>",
+            "extra_emphasis": false,
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450086608958__dc8c888c-42bf-41ed-ab0e-a77e42bfe4da-1666740219c57609e2-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "20c4c765-d6d0-4bba-ae0d-78bb03f24917": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14450086608958__20c4c765-d6d0-4bba-ae0d-78bb03f24917-1666740219c57609e2-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/care-mild-soap.webp",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "",
+            "content": "<h4>Mild Soap & Warm Water<\/h4><h5>Like a relaxing bath to your jewelry. Be sure to dry thoroughly.<\/h5>",
+            "extra_emphasis": false,
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450086608958__20c4c765-d6d0-4bba-ae0d-78bb03f24917-1666740219c57609e2-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "418bb3ca-f1c3-4d40-9c4e-6e88a3cb4efc": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14450086608958__418bb3ca-f1c3-4d40-9c4e-6e88a3cb4efc-1666740418cc38c434-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/care-detangling.webp",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "",
+            "content": "<h4>Detangling & Straightening<\/h4><h5>We recommend placing necklaces on a flat surface to detangle. Flex those patience muscles!<\/h5>",
+            "extra_emphasis": false,
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450086608958__418bb3ca-f1c3-4d40-9c4e-6e88a3cb4efc-1666740418cc38c434-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "803245bc-40d0-4e74-91e5-d096962ed57c": {
+      "type": "faq",
+      "blocks": {
+        "template--14450086608958__803245bc-40d0-4e74-91e5-d096962ed57c-1666740461cc7dbdaf-1": {
+          "type": "question",
+          "settings": {
+            "title": "How can I clean my jewelry at home?",
+            "article": "faqs\/how-can-i-clean-my-jewelry-at-home",
+            "answer": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450086608958__803245bc-40d0-4e74-91e5-d096962ed57c-1666740461cc7dbdaf-1"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "",
+        "content": "",
+        "background": "#fbf7f1",
+        "text_color": "#2d2d2d"
+      }
+    },
+    "d636d5ec-4aea-445b-af04-9aace2927d10": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14450086608958__d636d5ec-4aea-445b-af04-9aace2927d10-16668167469184e4c5-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-repair-broken.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>Snag a chain or bend a bridge cuff? We repair broken Betsy &amp; Iya fashion jewelry for free with only a few limitations.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14450086608958__d636d5ec-4aea-445b-af04-9aace2927d10-16668167469184e4c5-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-repair-earring.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>If you lost a single B&amp;I earring, we would be happy to sell you a half-pair from our current collection! Fill out a half-pair form <a href=\"https:\/\/betsyandiya.com\/pages\/jewelry-repair\">here<\/a>.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14450086608958__d636d5ec-4aea-445b-af04-9aace2927d10-16668167469184e4c5-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-repair-inspect.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>We offer complimentary cleanings and inspections on B&amp;I fine jewelry. After inspection, we can quote you for any repairs or maintenance needed.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14450086608958__d636d5ec-4aea-445b-af04-9aace2927d10-16668167469184e4c5-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-repair-calendar.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>We recommend bringing in your fine jewelry for cleaning and inspection every 6 months. This helps keep your piece in shape by catching small issues before they turn into big ones.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--14450086608958__d636d5ec-4aea-445b-af04-9aace2927d10-16668167469184e4c5-0",
+        "template--14450086608958__d636d5ec-4aea-445b-af04-9aace2927d10-16668167469184e4c5-1",
+        "template--14450086608958__d636d5ec-4aea-445b-af04-9aace2927d10-16668167469184e4c5-2",
+        "template--14450086608958__d636d5ec-4aea-445b-af04-9aace2927d10-16668167469184e4c5-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "<h2>Repairs In Our Studio<\/h2>",
+        "content": "<h4>When home remedies aren’t enough, we offer free repairs on our fashion jewelry and free cleanings on our fine jewelry in our Portland studio.<\/h4>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "loose",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "All",
+        "show_bi": true,
+        "show_non_bi": true
+      }
+    },
+    "dcb07b58-5d14-461f-a55d-745cedb54b3a": {
+      "type": "faq",
+      "blocks": {
+        "template--14450086608958__dcb07b58-5d14-461f-a55d-745cedb54b3a-166681674972ecbb1c-1": {
+          "type": "question",
+          "settings": {
+            "title": "How does your Free Repairs program work? What are the limitations?",
+            "article": "faqs\/how-does-your-free-repairs-program-work-what-are-the-limitations",
+            "answer": "<p>Our free repairs service applies only to Betsy & Iya fashion jewelry. Within this category, we also distinguish between<em>repairs<\/em>and<em>maintenance<\/em>. Our free repair service is not meant to take the place of<a href=\"https:\/\/betsyandiya.com\/blogs\/faqs\/how-can-i-clean-my-jewelry-at-home\" target=\"_blank\" title=\"How can I clean my jewelry at home?\">regular maintenance<\/a>(including removing tarnish and other things you can do at home). These free repairs will not restore your jewelry to<em>like new<\/em>condition, but rather restore it to its condition just before it broke. We’re happy to help you keep your jewelry in<em>like new<\/em>condition (refinishing and polishing, or addressing other normal wear and tear issues, like straightening out bends), but we will charge a modest fee for these services. We reserve the right to limit free repairs on a case by case basis to prevent abuse of this service.<br\/><br\/>If your broken B&I jewelry has served you valiantly and it’s just time to say goodbye, be sure to check out<a href=\"https:\/\/betsyandiya.com\/pages\/recast\" target=\"_blank\">Recast<\/a>, our buy-back program, where we buy back your Betsy & Iya jewelry (even if it’s broken), clean it up, fix it, and resell it at a discount.<br\/><br\/>We don’t repair other designers’ jewelry or non-jewelry products we sell. If you bought it from us initially, we are happy to help connect you with the designer to facilitate the repair. Most of our other designers charge for repairs. Of course, if your product has broken due to a defect, we will work with you to make this right without charge. For jewelry you didn’t buy from us initially, we can refer you to a few places around town that might be able to help you with a repair.<br\/><br\/>Due to the high value and expert skill involved, fine jewelry does not qualify for free repairs beyond<a href=\"https:\/\/betsyandiya.com\/blogs\/faqs\/how-often-should-i-bring-my-fine-jewelry-in-for-cleanings-and-inspections\" target=\"_blank\" title=\"How often should I bring my fine jewelry in for complimentary cleanings and inspections?\">complimentary cleanings and inspections<\/a>.<\/p><p><\/p><p><a href=\"https:\/\/betsyandiya.com\/pages\/jewelry-repair\" target=\"_blank\">Begin a Repair<\/a><br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14450086608958__dcb07b58-5d14-461f-a55d-745cedb54b3a-166681674972ecbb1c-1"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "55fedc20-752f-4de3-8d3b-2d6081648570": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "extra_emphasis": false,
+        "button_text": "Begin a Repair in Our Studio",
+        "button_link": "shopify:\/\/pages\/jewelry-repair",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "#ffffff",
+        "button_background": "#e88a4d",
+        "button_text_color": "#ffffff"
+      }
+    },
+    "d4eb7c9b-6526-4310-a6ba-06ab47ac2121": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14450086608958__d4eb7c9b-6526-4310-a6ba-06ab47ac2121-1666817103dafc104c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/care-warranty.webp",
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "content": "<p><em>We stand behind our jewelry and expect that with proper care, your Betsy & Iya jewelry will last for years to come.<\/em><\/p>",
+            "extra_emphasis": true,
+            "button_text": "Read Our Full Warranty",
+            "button_link": "\/blogs\/faqs\/do-your-products-have-a-warranty"
+          }
+        }
+      },
+      "block_order": [
+        "template--14450086608958__d4eb7c9b-6526-4310-a6ba-06ab47ac2121-1666817103dafc104c-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "fe5898a3-fb87-48bf-870b-40f7bc900603": {
+      "type": "faq",
+      "blocks": {
+        "template--14450086608958__fe5898a3-fb87-48bf-870b-40f7bc900603-166681703225468c0f-1": {
+          "type": "question",
+          "settings": {
+            "title": "I lost one earring. Do you sell half-pairs?",
+            "article": "faqs\/i-lost-one-earring-do-you-sell-half-pairs",
+            "answer": ""
+          }
+        },
+        "template--14450086608958__fe5898a3-fb87-48bf-870b-40f7bc900603-166681703225468c0f-2": {
+          "type": "question",
+          "settings": {
+            "title": "I broke my favorite piece of your jewelry! Can you repair it?",
+            "article": "faqs\/i-broke-my-favorite-piece-of-your-jewelry-can-you-repair-it",
+            "answer": ""
+          }
+        },
+        "template--14450086608958__fe5898a3-fb87-48bf-870b-40f7bc900603-166681703225468c0f-4": {
+          "type": "question",
+          "settings": {
+            "title": "How often should I bring my fine jewelry in for cleanings and inspections?",
+            "article": "faqs\/how-often-should-i-bring-my-fine-jewelry-in-for-cleanings-and-inspections",
+            "answer": ""
+          }
+        },
+        "9edf1a02-557f-45c8-a653-1daba9d46d00": {
+          "type": "question",
+          "settings": {
+            "title": "What do you charge for fine jewelry repairs and maintenance?",
+            "article": "faqs\/what-do-you-charge-for-fine-jewelry-repairs-and-maintenance",
+            "answer": ""
+          }
+        },
+        "862c84f6-39b8-4251-b93e-1a6506aa2ddd": {
+          "type": "question",
+          "settings": {
+            "title": "How does your Free Repairs program work? What are the limitations?",
+            "article": "faqs\/how-does-your-free-repairs-program-work-what-are-the-limitations",
+            "answer": ""
+          }
+        },
+        "b624fe8f-3154-478c-8273-5ceb7800e2fa": {
+          "type": "question",
+          "settings": {
+            "title": "Why does metal tarnish?",
+            "article": "faqs\/why-does-metal-tarnish",
+            "answer": ""
+          }
+        },
+        "851be645-0939-4dd8-80a9-431a1621fe5e": {
+          "type": "question",
+          "settings": {
+            "title": "What will happen as I wear my jewelry and it ages naturally?",
+            "article": "faqs\/what-will-happen-as-i-wear-my-jewelry-and-it-ages-naturally",
+            "answer": ""
+          }
+        },
+        "f9c1c108-1de7-408e-ae56-7c666a557c3a": {
+          "type": "question",
+          "settings": {
+            "title": "Do your products have a warranty?",
+            "article": "faqs\/do-your-products-have-a-warranty",
+            "answer": ""
+          }
+        },
+        "6ddb5ded-e302-4a5b-bc69-41c70a5e976d": {
+          "type": "question",
+          "settings": {
+            "title": "How long does it take for cleaning, inspection, repair, and maintenance services to be performed?",
+            "article": "faqs\/how-long-does-it-take-for-cleaning-inspection-repair-and-maintenance-services-to-be-performed",
+            "answer": ""
+          }
+        },
+        "7c7a31ea-d37d-4822-9026-20a105938eda": {
+          "type": "question",
+          "settings": {
+            "title": "How can I clean my jewelry at home?",
+            "article": "faqs\/how-can-i-clean-my-jewelry-at-home",
+            "answer": ""
+          }
+        },
+        "2930dc5d-d2fc-4e32-8c60-3c455c439c0b": {
+          "type": "question",
+          "settings": {
+            "title": "When I notice damage or wear and tear, what can I do at home to fix it?",
+            "article": "faqs\/when-i-notice-damage-or-wear-and-tear-what-can-i-do-at-home-to-fix-it",
+            "answer": ""
+          }
+        },
+        "7076a4f9-1ee1-4ffa-b88f-83dd42d52761": {
+          "type": "question",
+          "settings": {
+            "title": "What’s the difference between damage and normal wear and tear?",
+            "article": "faqs\/what-s-the-difference-between-damage-and-normal-wear-and-tear",
+            "answer": ""
+          }
+        },
+        "c5b88a42-b8d8-41e2-b1b0-4d2313865431": {
+          "type": "question",
+          "settings": {
+            "title": "Does silver plating wear off?",
+            "article": "faqs\/does-silver-plating-wear-off",
+            "answer": ""
+          }
+        },
+        "67e6a3e7-4698-48d9-83c3-aba362f012b3": {
+          "type": "question",
+          "settings": {
+            "title": "What is oxidized metal?",
+            "article": "faqs\/what-is-oxidized-metal",
+            "answer": ""
+          }
+        },
+        "4df0e002-a739-44c9-8618-92b780254b47": {
+          "type": "question",
+          "settings": {
+            "title": "What can I do to slow down normal wear and tear on my jewelry?",
+            "article": "faqs\/what-can-i-do-to-slow-down-normal-wear-and-tear-on-my-jewelry",
+            "answer": ""
+          }
+        },
+        "6ab775a2-cc29-4d8f-83e6-0f356d8ff1fb": {
+          "type": "question",
+          "settings": {
+            "title": "Wait, gold tarnishes? Why?",
+            "article": "faqs\/wait-gold-tarnishes-why",
+            "answer": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450086608958__fe5898a3-fb87-48bf-870b-40f7bc900603-166681703225468c0f-1",
+        "template--14450086608958__fe5898a3-fb87-48bf-870b-40f7bc900603-166681703225468c0f-2",
+        "template--14450086608958__fe5898a3-fb87-48bf-870b-40f7bc900603-166681703225468c0f-4",
+        "9edf1a02-557f-45c8-a653-1daba9d46d00",
+        "862c84f6-39b8-4251-b93e-1a6506aa2ddd",
+        "b624fe8f-3154-478c-8273-5ceb7800e2fa",
+        "851be645-0939-4dd8-80a9-431a1621fe5e",
+        "f9c1c108-1de7-408e-ae56-7c666a557c3a",
+        "6ddb5ded-e302-4a5b-bc69-41c70a5e976d",
+        "7c7a31ea-d37d-4822-9026-20a105938eda",
+        "2930dc5d-d2fc-4e32-8c60-3c455c439c0b",
+        "7076a4f9-1ee1-4ffa-b88f-83dd42d52761",
+        "c5b88a42-b8d8-41e2-b1b0-4d2313865431",
+        "67e6a3e7-4698-48d9-83c3-aba362f012b3",
+        "4df0e002-a739-44c9-8618-92b780254b47",
+        "6ab775a2-cc29-4d8f-83e6-0f356d8ff1fb"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "Care FAQ",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "145d10a6-3509-4a49-b81b-ab906ee5b1fa",
+    "5234a65e-6f9d-429b-867f-0a338ff458db",
+    "381cf21b-87bf-49ef-8748-6a9d502baa05",
+    "8a326e0b-3e6e-479e-9540-ac7131e9a621",
+    "c57711d7-d0e6-44e2-bd5c-cc94ea5c1d4e",
+    "6e64a75d-77f7-47d4-8a83-df7ac64f09bc",
+    "dc8c888c-42bf-41ed-ab0e-a77e42bfe4da",
+    "20c4c765-d6d0-4bba-ae0d-78bb03f24917",
+    "418bb3ca-f1c3-4d40-9c4e-6e88a3cb4efc",
+    "803245bc-40d0-4e74-91e5-d096962ed57c",
+    "d636d5ec-4aea-445b-af04-9aace2927d10",
+    "dcb07b58-5d14-461f-a55d-745cedb54b3a",
+    "55fedc20-752f-4de3-8d3b-2d6081648570",
+    "d4eb7c9b-6526-4310-a6ba-06ab47ac2121",
+    "fe5898a3-fb87-48bf-870b-40f7bc900603"
+  ]
+}

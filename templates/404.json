@@ -1,0 +1,65 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-not-found",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "ef9507ae-e123-435d-a095-3714d91f5da1": {
+      "type": "image-with-text-block",
+      "settings": {
+        "reveal_on_scroll": true,
+        "image": "shopify:\/\/shop_images\/404-BG.jpg",
+        "subheading": "Whoops!",
+        "title": "404 Page Not Found",
+        "content": "<p>While we untangle the chains of the digital universe, feel free to <a href=\"https:\/\/betsyandiya.com\/search\" target=\"_blank\" title=\"https:\/\/betsyandiya.com\/search\"><em>Search<\/em><\/a> the other dazzling corners of <a href=\"https:\/\/betsyandiya.com\/\" target=\"_blank\" title=\"https:\/\/betsyandiya.com\/\"><em>Betsy & Iya<\/em><\/a>. <br\/>Take a tour of our <a href=\"\/pages\/custom-wedding-engagement-jewelry-design-portland\" target=\"_blank\" title=\"Custom Jewelry Design\"><em>handmade<\/em><\/a> creations, scattered across the site like treasures waiting to be discovered.<\/p>",
+        "extra_emphasis": true,
+        "button_text": "return home",
+        "button_link": "https:\/\/betsyandiya.com\/",
+        "background_type": "full_width",
+        "text_position": "center",
+        "text_alignment": "center",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "b61a71f5-1716-41d9-a509-15d0c28f1b10": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--14860390924350__b61a71f5-1716-41d9-a509-15d0c28f1b10-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "jewelry",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14860390924350__b61a71f5-1716-41d9-a509-15d0c28f1b10-collection-1"
+      ],
+      "settings": {
+        "subheading": "Shop Betsy & Iya Jewelry",
+        "title": "",
+        "content": "",
+        "products_count": 4,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ef9507ae-e123-435d-a095-3714d91f5da1",
+    "b61a71f5-1716-41d9-a509-15d0c28f1b10"
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "settings": {
+        "show_collection_image": true,
+        "show_collection_title": false,
+        "show_collection_description": false,
+        "section_height": "small",
+        "text_width": "medium",
+        "image_text_color": "#ffffff",
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 30,
+        "quick_links": ""
+      }
+    },
+    "0df5b835-6c0a-425e-8b2f-5b18e2f92969": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "It's about more than metal and stones.",
+        "content": "<p>It's about your unique story. And your story deserves high standards. Our materials are traceable, recycled, and conflict-free. And all our jewelry is designed, tested, and crafted by real humans who care right here in our Portland studio.<\/p>\n<p>From unique solitaire rings to gold earrings, necklaces, &amp; bracelets crafted to exacting standards to wedding bands and handmade engagement rings you won't find everywhere – our products are <strong>Beautiful things made by people who care.<\/strong>®<\/p>\n<p>Each piece begins with this care so that it can become more – a reflection of your deepest feelings, an object that aligns with your values, something that brings you back to what matters most. <strong>Your story.<\/strong> Metal and stones are only a starting place, not the end.<\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_sort_by": true,
+        "products_per_page": 16,
+        "mobile_products_per_row": "2",
+        "desktop_products_per_row": 4,
+        "show_filters": true,
+        "show_filter_group_name": true,
+        "show_color_swatch": false,
+        "open_first_filter_group": false,
+        "filter_position": "drawer",
+        "promotion_position": "top",
+        "promotion_height": "small"
+      }
+    },
+    "ecd8cf7f-4bda-4354-8a05-9ece7738d5f0": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h4 class=\"bianco-serif\">Looking for more choices?<br><a class=\"bianco-serif\" href=\"\/collections\/betsy-iya-fine-jewelry\" title=\"Betsy &amp; Iya Fine Jewelry\">Browse all Fine Jewelry.<\/a>\n<\/h4>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "170569041056f85f94": {
+      "type": "apps",
+      "blocks": {
+        "google_reviews_carousel_widget_block_DzkQ97": {
+          "type": "shopify:\/\/apps\/google-reviews\/blocks\/carousel-widget-block\/8b378e9e-c56d-47ce-a754-feca5e0caf59",
+          "settings": {
+            "themeId": "light",
+            "autoscroll": true,
+            "showRating": false,
+            "showReviewPhotos": true,
+            "writeReview": false
+          }
+        }
+      },
+      "block_order": [
+        "google_reviews_carousel_widget_block_DzkQ97"
+      ],
+      "settings": {
+        "include_horizontal_margins": false,
+        "include_vertical_margins": true
+      }
+    },
+    "a0028e43-4a07-44de-8cd9-8562f076706d": {
+      "type": "divider-section",
+      "disabled": true,
+      "settings": {
+        "divider_style": "1"
+      }
+    },
+    "493da6a4-4da6-4a25-806c-f810d8c51d91": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h3>Need help?<\/h3><p><em><strong>We get it. <\/strong><\/em>These decisions can feel overwhelming. But we've done this once or twice and can help make it easier on you. We're here to answer questions about sizing, materials, budget, and more.<\/p><p><a href=\"\/pages\/contact-us\" title=\"Contact Us\">SEND A MESSAGE<\/a> or<\/p>",
+        "extra_emphasis": false,
+        "button_text": "Visit Us In Person",
+        "button_link": "https:\/\/betsyandiya.com\/pages\/brick-and-mortar#fiina",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f32f97ef-36a5-4ccc-bc67-9101a3838751": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14576968761406__f32f97ef-36a5-4ccc-bc67-9101a3838751-16861652549d9f1ab7-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-ethical.png",
+            "image_width": 50,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Ethical Materials",
+            "content": "<p>Traceable, Recycled, and Conflict-free. And that's just the beginning.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "Learn More",
+            "link_url": "shopify:\/\/pages\/ethically-sourced-mindfully-made",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "template--14576968761406__f32f97ef-36a5-4ccc-bc67-9101a3838751-16861652549d9f1ab7-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-faqs.png",
+            "image_width": 50,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Upkeep",
+            "content": "<p>How to care for your jewelry at home. And when to let us help.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "Learn More",
+            "link_url": "shopify:\/\/pages\/jewelry-care-maintenance-repairs",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "template--14576968761406__f32f97ef-36a5-4ccc-bc67-9101a3838751-16861652549d9f1ab7-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-made.png",
+            "image_width": 50,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Care Plans",
+            "content": "<p>This is why we <strong><em>can have<\/em><\/strong> nice things. Protect your purchase on auto-pilot.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "Learn More",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        }
+      },
+      "block_order": [
+        "template--14576968761406__f32f97ef-36a5-4ccc-bc67-9101a3838751-16861652549d9f1ab7-0",
+        "template--14576968761406__f32f97ef-36a5-4ccc-bc67-9101a3838751-16861652549d9f1ab7-1",
+        "template--14576968761406__f32f97ef-36a5-4ccc-bc67-9101a3838751-16861652549d9f1ab7-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "loose",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "All",
+        "show_bi": true,
+        "show_non_bi": true
+      }
+    },
+    "593493e9-274a-432a-880d-130fb500cc0c": {
+      "type": "divider-section",
+      "settings": {
+        "divider_style": "1"
+      }
+    },
+    "1664316227160b36e7": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "subheading": "",
+        "title": "Recently viewed",
+        "products_count": 4,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "0df5b835-6c0a-425e-8b2f-5b18e2f92969",
+    "main",
+    "ecd8cf7f-4bda-4354-8a05-9ece7738d5f0",
+    "170569041056f85f94",
+    "a0028e43-4a07-44de-8cd9-8562f076706d",
+    "493da6a4-4da6-4a25-806c-f810d8c51d91",
+    "f32f97ef-36a5-4ccc-bc67-9101a3838751",
+    "593493e9-274a-432a-880d-130fb500cc0c",
+    "1664316227160b36e7"
+  ]
+}

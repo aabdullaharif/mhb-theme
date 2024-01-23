@@ -1,0 +1,120 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "large"
+      }
+    },
+    "055a4bf0-19e1-4c07-a744-39e4c2fd435a": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "Woohoo...it's Party Time",
+        "title": "Can't wait to see you!",
+        "content": "<p>You have RSVP'd <strong>Yes<\/strong> to our <em>Fiina Shopwarming Party<\/em> where you'll get a first look at 30 new designs that aren't yet online!<\/p>\n<p><strong>Thursday, 11\/2<br>\nDrop in anytime from 4pm - 8pm<\/strong><br>\n<em>Regular shopping starts at 11am<\/em>\n<\/p>\n<p>\nAll welcomed \/ Hosted bar<br>\nBetsy &amp; Iya open til 6pm \/ Fiina til 8pm<\/p>",
+        "extra_emphasis": false,
+        "button_text": "DIRECTIONS",
+        "button_link": "https:\/\/maps.app.goo.gl\/2CbjSr68XttLRxjD7",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c705004a-e1fa-4477-84c2-6c72b8cc9ad4": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<div id=\"fiina\"><\/div>",
+        "add_vertical_spacing": false,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "8a126df0-67f8-4082-a479-18eb38577d8f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14600295678014__8a126df0-67f8-4082-a479-18eb38577d8f-item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fiina_interior_f78a9f53-daf1-43a3-9aa5-2dcdb76e2655.jpg",
+            "tab_label": "Item",
+            "subheading": "2416 NW Thurman Street",
+            "title": "Fiina",
+            "content": "<p><strong>NOW OPEN!<\/strong> A brand new fine jewelry experience located in the same building as our corner store featuring a dedicated showroom for our line of <a href=\"\/collections\/betsy-iya-fine-jewelry\" title=\"Betsy & Iya Fine Jewelry\">Fine Jewelry<\/a> and <a href=\"\/pages\/custom-wedding-engagement-jewelry-design-portland\" title=\"Custom Jewelry Design\">Custom Fine jewelry<\/a>. Browse engagement rings, wedding jewelry, gold earrings, necklaces, and bracelets, every piece designed and made in the <a href=\"https:\/\/betsyandiya.com\/pages\/tours\" title=\"betsy & iya jewelry studio\">jewelry studio<\/a> behind our shop.<\/p><p><strong>Hours: <\/strong>11am – 6pm, Thursday through Sunday<br\/><strong>Phone:<\/strong> (503) 227-5482<\/p>",
+            "extra_emphasis": false,
+            "button_text": "Directions",
+            "button_link": "https:\/\/maps.app.goo.gl\/2CbjSr68XttLRxjD7"
+          }
+        }
+      },
+      "block_order": [
+        "template--14600295678014__8a126df0-67f8-4082-a479-18eb38577d8f-item-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "0618afe1-fb2f-4e34-887f-d5912f82898e": {
+      "type": "divider-section",
+      "settings": {
+        "divider_style": "1"
+      }
+    },
+    "d9bc4f1e-32fb-4efd-9e95-bb20b2f3bdf8": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--14715819851838__d9bc4f1e-32fb-4efd-9e95-bb20b2f3bdf8-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "betsy-iya-fine-jewelry",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14715819851838__d9bc4f1e-32fb-4efd-9e95-bb20b2f3bdf8-collection-1"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "products_count": 50,
+        "products_per_row": 4,
+        "stack_products": false,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "055a4bf0-19e1-4c07-a744-39e4c2fd435a",
+    "c705004a-e1fa-4477-84c2-6c72b8cc9ad4",
+    "8a126df0-67f8-4082-a479-18eb38577d8f",
+    "0618afe1-fb2f-4e34-887f-d5912f82898e",
+    "d9bc4f1e-32fb-4efd-9e95-bb20b2f3bdf8"
+  ]
+}

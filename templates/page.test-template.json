@@ -1,0 +1,44 @@
+{
+  "sections": {
+    "40ed64f6-3bdf-4a82-a810-58724d362b39": {
+      "type": "banner",
+      "blocks": {
+        "template--14577629888574__40ed64f6-3bdf-4a82-a810-58724d362b39-1685732950549eaf8f-0": {
+          "type": "item",
+          "settings": {
+            "title": "<p>Image with text<\/p>",
+            "content": "Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14577629888574__40ed64f6-3bdf-4a82-a810-58724d362b39-1685732950549eaf8f-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "page_width": "large"
+      }
+    }
+  },
+  "order": [
+    "40ed64f6-3bdf-4a82-a810-58724d362b39",
+    "main"
+  ]
+}

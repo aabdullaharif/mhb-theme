@@ -1,0 +1,28 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "blocks": {
+        "c89c74bf-fbeb-4e92-b346-ef250f292d7a": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "c89c74bf-fbeb-4e92-b346-ef250f292d7a"
+      ],
+      "settings": {
+        "collections_to_show": "selected",
+        "show_collection_title": true
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

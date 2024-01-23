@@ -1,0 +1,116 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "large"
+      }
+    },
+    "055a4bf0-19e1-4c07-a744-39e4c2fd435a": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "Our Locations",
+        "title": "Shop With Us In Person",
+        "content": "<p>Our Portland jewelry boutiques are the pot of gold at the end of the NW 23rd Portland shopping district. From 23rd, just head west on Thurman and you'll find us one block down. We're proud to have won <em><strong>Best Jewelry Shop in Portland<\/strong><\/em> in the Willamette Week's Readers' Poll in <a href=\"https:\/\/www.instagram.com\/p\/CvIk02-S0_c\/\" target=\"_blank\" title=\"Willamette Week's Best of Portland Readers’ Poll 2022\" rel=\"noopener noreferrer\">2023<\/a>, <a href=\"https:\/\/www.wweek.com\/promotions\/2022\/07\/13\/goods-services-winners\/\" target=\"_blank\" title=\"Willamette Week's Best of Portland Readers’ Poll 2022\" rel=\"noopener noreferrer\">2022<\/a>, (no poll in 2021 due to COVID), <a href=\"https:\/\/www.wweek.com\/promotions\/2020\/07\/21\/shops-services\/\" target=\"_blank\" title=\"best jewelry shop in Portland 2020 - Betsy &amp; Iya\" rel=\"noopener noreferrer\">2020<\/a>, <a href=\"https:\/\/www.instagram.com\/p\/Bz1BmSZHh9Z\/\" target=\"_blank\" title=\"best jewelry store in Portland 2019\" rel=\"noopener noreferrer\">2019<\/a>, <a href=\"https:\/\/www.instagram.com\/p\/Bl6Xirkheyo\/\" target=\"_blank\" title=\"betsy &amp; iya wins Best Jewelry Shop in Portland in Willamette Week's 2018 Readers' Poll\" rel=\"noopener noreferrer\">2018<\/a>, <a href=\"https:\/\/www.wweek.com\/promotions\/2017\/02\/16\/best-of-portland-readers-poll-2017\/#localbusiness\" target=\"_blank\" title=\"betsy &amp; iya wins best Portland Jewelry Shop in 2017 Willamette Week Readers' Poll\" rel=\"noopener noreferrer\">2017<\/a>, and runner up in <a href=\"https:\/\/www.wweek.com\/promotions\/2016\/07\/18\/bop2016\/\" target=\"_blank\" title=\"betsy &amp; iya wins runner up for best jewelry shop\" rel=\"noopener noreferrer\">2016<\/a> and <a href=\"https:\/\/www.wweek.com\/portland\/article-25089-best-of-portland-readers-poll.html\" title=\"betsy &amp; iya runner up for best jewelry shop in Portland\">2015<\/a>.<\/p>\n<p>\n<strong>Hours for both stores:<\/strong> 11am - 6pm every day.<br>\n<strong>Phone:<\/strong> (503) 227-5482<\/p>",
+        "extra_emphasis": false,
+        "button_text": "Get Directions",
+        "button_link": "http:\/\/goo.gl\/maps\/ap2Dt",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "54710cea-dbd4-4f48-b7c4-f8a083d05ca4": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14600295678014__54710cea-dbd4-4f48-b7c4-f8a083d05ca4-item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BetsyIya-Retail_Shop062022-WEB2_0e1a3264-122f-4b28-a179-30a6d2101a31.jpg",
+            "tab_label": "Item",
+            "subheading": "1777 NW 24th Avenue",
+            "title": "Betsy & Iya - Corner Store",
+            "content": "<p>In our shop, you'll find every style you see on our website and a lot more–our minimalist jewelry, our bold, modern jewelry, independent designer jewelry, every piece designed and made in the <a href=\"https:\/\/betsyandiya.com\/pages\/tours\" title=\"betsy & iya jewelry studio\">jewelry studio<\/a> behind our shop. We also carry the work of independent artists and designers from around the United States and beyond–all <strong>Beautiful things made by people who care.<\/strong>®<\/p>",
+            "extra_emphasis": false,
+            "button_text": "Directions",
+            "button_link": "http:\/\/goo.gl\/maps\/ap2Dt"
+          }
+        }
+      },
+      "block_order": [
+        "template--14600295678014__54710cea-dbd4-4f48-b7c4-f8a083d05ca4-item-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c705004a-e1fa-4477-84c2-6c72b8cc9ad4": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<div id=\"fiina\"><\/div>",
+        "add_vertical_spacing": false,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "8a126df0-67f8-4082-a479-18eb38577d8f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14600295678014__8a126df0-67f8-4082-a479-18eb38577d8f-item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fiina_interior_f78a9f53-daf1-43a3-9aa5-2dcdb76e2655.jpg",
+            "tab_label": "Item",
+            "subheading": "2416 NW Thurman Street",
+            "title": "Fiina",
+            "content": "<p><strong>NOW OPEN!<\/strong> A brand new fine jewelry experience located in the same building as our corner store featuring a dedicated showroom for our line of <a href=\"\/collections\/betsy-iya-fine-jewelry\" title=\"Betsy & Iya Fine Jewelry\">Fine Jewelry<\/a> and <a href=\"\/pages\/custom-wedding-engagement-jewelry-design-portland\" title=\"Custom Jewelry Design\">Custom Fine jewelry<\/a>. Browse engagement rings, wedding jewelry, gold earrings, necklaces, and bracelets, every piece designed and made in the <a href=\"https:\/\/betsyandiya.com\/pages\/tours\" title=\"betsy & iya jewelry studio\">jewelry studio<\/a> behind our shop.<\/p>",
+            "extra_emphasis": false,
+            "button_text": "Directions",
+            "button_link": "https:\/\/maps.app.goo.gl\/2CbjSr68XttLRxjD7"
+          }
+        }
+      },
+      "block_order": [
+        "template--14600295678014__8a126df0-67f8-4082-a479-18eb38577d8f-item-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "055a4bf0-19e1-4c07-a744-39e4c2fd435a",
+    "54710cea-dbd4-4f48-b7c4-f8a083d05ca4",
+    "c705004a-e1fa-4477-84c2-6c72b8cc9ad4",
+    "8a126df0-67f8-4082-a479-18eb38577d8f"
+  ]
+}

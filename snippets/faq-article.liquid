@@ -1,0 +1,6 @@
+<article class="faq{% for tag in article.tags %} {{ tag | handle }}{% endfor %}">
+  <a class="collapse--trigger collapsed" data-toggle="collapse" href="#faq-{{ article.title | handleize }}" role="button" aria-expanded="false" aria-controls="faq-{{ article.title | handleize }}"><i class="fa fa-plus"></i> {{ article.title }}</a>
+  <div id="faq-{{ article.title | handleize }}" class="collapse mt-3 faq--copy" style="">
+    {{ article.content }}
+  </div>
+</article>

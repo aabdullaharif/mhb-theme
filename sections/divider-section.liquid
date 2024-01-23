@@ -1,0 +1,53 @@
+{%- assign divider_style = section.settings.divider_style -%}
+
+
+
+
+<section class="section">
+ <div class="divider">
+  {%- if divider_style == '1' -%}
+    <img class="divider--style-1" src="https://cdn.shopify.com/s/files/1/0060/6162/files/Divider-Style-1_2.png?v=1703071692">
+  {%- elsif divider_style == '2' -%}
+    <img class="divider--style-2" src="https://cdn.shopify.com/s/files/1/0060/6162/files/Divider-Style-1_2.png?v=1703071692">
+  {%- elsif divider_style == '3' -%}
+    <img class="divider--style-3" src="https://cdn.shopify.com/s/files/1/0060/6162/files/home-line-3.png">
+  {%- elsif divider_style == '4' -%}
+    <img class="divider--style-4" src="https://cdn.shopify.com/s/files/1/0060/6162/files/home-line-4.png">
+  {%- endif -%}
+ </div>
+</section>
+
+
+
+{% schema %}
+{
+  "name": "Divider",
+  "class": "shopify-section--divider",
+  "max_blocks": 2,
+  "settings": [
+    {
+     "type":      "radio",
+     "id":        "divider_style",
+     "label":     "Divider Style",
+     "options": [
+       { "value": "1", "label": "Style One" },
+       { "value": "2", "label": "Style Two" },
+       { "value": "3", "label": "Style One Recast" },
+       { "value": "4", "label": "Style Two Recast" }
+     ],
+     "default":   "1"
+  }
+  ],
+  "blocks": [
+  ],
+  "presets": [
+    {
+      "name": "Divider",
+      "settings": {},
+      "blocks": [
+
+      ]
+    }
+  ]
+}
+{% endschema %}

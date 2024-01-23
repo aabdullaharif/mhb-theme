@@ -1,0 +1,380 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "f77742de-dbc0-4180-86a5-4cab387d383c": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "{% assign current_variant = product.selected_or_first_available_variant %}\n        {% assign current_sku = current_variant.sku %}\n        <script>\n      \tjQuery(function($) {\n      \t\t'use_strict';\n          \/\/ show new prod too\n          var searchSku = '{{ current_sku }}';\n          searchSku = searchSku.substring(0, searchSku.indexOf('-RC'));\n          $('.recast--default').append(' Buy the new version <a href=\"\/search?x=10&y=13&q='+ searchSku +'\">here<\/a>.');\n      \t});\n       <\/script>\n        <p id=\"prod-{{ product.id }}\" class=\"mt-3 recast--default\"><b>Note: Please note that this is the Recast version of our jewelry.<\/b> The product images show the new version of the product and do not reflect the preloved version.<\/p>\n        {% if product.metafields.my_fields.lead_in != blank %}\n        <p class=\"mt-3\">{{ product.metafields.my_fields.lead_in }}<\/p>\n        {% endif %}"
+          }
+        },
+        "5dd9858b-2de4-4605-8620-734af63222e6": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "dropdown",
+            "color_mode": "dropdown",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "#2d2d2d",
+            "atc_button_text_color": "#ffffff",
+            "buy_now_button_background": "#ecaa1f",
+            "buy_now_button_text_color": "#2d2d2d"
+          }
+        }
+      },
+      "block_order": [
+        "f77742de-dbc0-4180-86a5-4cab387d383c",
+        "5dd9858b-2de4-4605-8620-734af63222e6",
+        "quantity_selector",
+        "variant_picker",
+        "buy_buttons"
+      ],
+      "custom_css": [
+        "shopify-payment-terms {display: none !important;}"
+      ],
+      "settings": {
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": true,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "left",
+        "transition_effect": "slide"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "4ea86295-4c6d-40fe-89cd-dfec0946b017": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "title": "Tab 1",
+            "content": "<p><\/p>",
+            "page": "",
+            "article": "faqs\/do-you-ship-fine-jewelry-fully-insured"
+          }
+        },
+        "9479008a-4646-41bd-9993-c4128e067b3d": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+            "page": "",
+            "article": ""
+          }
+        },
+        "b279e08d-d8bc-42d2-b3ea-f48d1dad9937": {
+          "type": "featured_products",
+          "disabled": true,
+          "settings": {
+            "title": "Goes Well With",
+            "products": [
+              "sunshine-polishing-cloth",
+              "half-moon-ring-bowl-and-catch-all-dish"
+            ]
+          }
+        },
+        "814bbed3-a4fd-492c-ad82-b967431a454f": {
+          "type": "reviews",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "4ea86295-4c6d-40fe-89cd-dfec0946b017",
+        "9479008a-4646-41bd-9993-c4128e067b3d",
+        "b279e08d-d8bc-42d2-b3ea-f48d1dad9937",
+        "814bbed3-a4fd-492c-ad82-b967431a454f"
+      ],
+      "settings": {
+      }
+    },
+    "465e1e5f-b3d1-4a61-901e-164f2011d85f": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14486561849406__465e1e5f-b3d1-4a61-901e-164f2011d85f-16705389612b1bdb89-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/great-condition.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Great Condition",
+            "content": "<p>Jewelry may show minimal signs of wear, but will be free of tarnish and dents. Recast pieces in great condition will have their original shape, oxidization or paint.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "left",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14486561849406__465e1e5f-b3d1-4a61-901e-164f2011d85f-16705389612b1bdb89-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Good-Condition.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Good Condition",
+            "content": "<p>Jewelry shows more noticeable signs of wear. Recast pieces in good condition may not be fully oxidized or painted. Pieces may show signs of tarnish, dents, or may be slightly misshapen.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "left",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--14486561849406__465e1e5f-b3d1-4a61-901e-164f2011d85f-16705389612b1bdb89-0",
+        "template--14486561849406__465e1e5f-b3d1-4a61-901e-164f2011d85f-16705389612b1bdb89-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "<p><\/p>",
+        "content": "<p><\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "tight",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "All",
+        "show_bi": true,
+        "show_non_bi": true
+      }
+    },
+    "df8fc7ef-02d8-4da6-82ec-36e472448a2f": {
+      "type": "divider-section",
+      "disabled": true,
+      "settings": {
+        "divider_style": "3"
+      }
+    },
+    "16648391092c7fd969": {
+      "type": "multi-column",
+      "blocks": {
+        "166483910874c46cd1-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/recast-icon-faqs_900x_f23e2485-9925-48f5-b529-507528caed4a.png",
+            "image_width": 50,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "FAQ's",
+            "content": "<p>All the facts you'll need to know about our jewelry.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "Learn More",
+            "link_url": "shopify:\/\/pages\/care-and-faq",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "166483910874c46cd1-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/recast-icon-ethical_900x_686addf6-8b69-4afe-99da-abafc17503b8.png",
+            "image_width": 50,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Ethical Sourcing",
+            "content": "<p>We strive to find ethical sources for our materials.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "Learn More",
+            "link_url": "shopify:\/\/pages\/ethically-sourced-mindfully-made",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "166483910874c46cd1-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/recast-icon-made_900x_5d63db12-b679-4fc9-ac14-5bb667761009.png",
+            "image_width": 50,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Made to Last",
+            "content": "<p>How to take the best possible care of your Betsy &amp; Iya jewelry<\/p>",
+            "extra_emphasis": false,
+            "link_text": "Learn More",
+            "link_url": "shopify:\/\/pages\/jewelry-care-maintenance-repairs",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "166483910874c46cd1-1",
+        "166483910874c46cd1-2",
+        "166483910874c46cd1-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "loose",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "All",
+        "show_bi": true,
+        "show_non_bi": true
+      }
+    },
+    "07f241e9-0e0b-4df6-a92b-d2b6be6fb801": {
+      "type": "divider-section",
+      "settings": {
+        "divider_style": "3"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "subheading": "",
+        "title": "You may also like",
+        "recommendations_count": 4,
+        "products": [
+
+        ],
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1f47871c-812c-4847-951e-75972c93fae0": {
+      "type": "divider-section",
+      "settings": {
+        "divider_style": "3"
+      }
+    },
+    "4586eae6-bc5d-4d3a-b0bd-7ba5a3fe152d": {
+      "type": "faq",
+      "blocks": {
+        "template--14486561849406__4586eae6-bc5d-4d3a-b0bd-7ba5a3fe152d-16700054013a1a3937-1": {
+          "type": "question",
+          "settings": {
+            "title": "What is my jewelry worth?",
+            "article": "faqs\/what-is-my-jewelry-worth",
+            "answer": ""
+          }
+        },
+        "template--14486561849406__4586eae6-bc5d-4d3a-b0bd-7ba5a3fe152d-16700054013a1a3937-2": {
+          "type": "question",
+          "settings": {
+            "title": "What if my jewelry is in really bad shape?",
+            "article": "faqs\/what-if-my-jewelry-is-in-really-bad-shape",
+            "answer": ""
+          }
+        },
+        "template--14486561849406__4586eae6-bc5d-4d3a-b0bd-7ba5a3fe152d-16700054013a1a3937-4": {
+          "type": "question",
+          "settings": {
+            "title": " How long does this usually take?",
+            "article": "faqs\/how-long-does-this-usually-take",
+            "answer": ""
+          }
+        },
+        "e23e0655-c4ac-4405-8be7-e70234829e0b": {
+          "type": "question",
+          "settings": {
+            "title": "Do you buy back jewelry all the time or only during certain hours?",
+            "article": "faqs\/do-you-buy-back-jewelry-all-the-time-or-only-during-certain-hours",
+            "answer": ""
+          }
+        },
+        "b7eab838-0c85-4249-aba8-3b68d1de4096": {
+          "type": "question",
+          "settings": {
+            "title": "Does store credit expire?",
+            "article": "faqs\/does-store-credit-expire",
+            "answer": ""
+          }
+        },
+        "2311a940-1102-46c2-b1f5-7a56d8abcc8b": {
+          "type": "question",
+          "settings": {
+            "title": "Can you pay me cash instead of store credit?",
+            "article": "faqs\/can-you-pay-me-cash-instead-of-store-credit",
+            "answer": ""
+          }
+        },
+        "d5073b5d-5d26-4106-b86a-846a42901e71": {
+          "type": "question",
+          "settings": {
+            "title": "I can't remember–is this jewelry Betsy & Iya?",
+            "article": "faqs\/i-cant-remember-is-this-jewelry-betsy-iya",
+            "answer": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14486561849406__4586eae6-bc5d-4d3a-b0bd-7ba5a3fe152d-16700054013a1a3937-1",
+        "template--14486561849406__4586eae6-bc5d-4d3a-b0bd-7ba5a3fe152d-16700054013a1a3937-2",
+        "template--14486561849406__4586eae6-bc5d-4d3a-b0bd-7ba5a3fe152d-16700054013a1a3937-4",
+        "e23e0655-c4ac-4405-8be7-e70234829e0b",
+        "b7eab838-0c85-4249-aba8-3b68d1de4096",
+        "2311a940-1102-46c2-b1f5-7a56d8abcc8b",
+        "d5073b5d-5d26-4106-b86a-846a42901e71"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "Recast FAQs",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-content",
+    "465e1e5f-b3d1-4a61-901e-164f2011d85f",
+    "df8fc7ef-02d8-4da6-82ec-36e472448a2f",
+    "16648391092c7fd969",
+    "07f241e9-0e0b-4df6-a92b-d2b6be6fb801",
+    "product-recommendations",
+    "1f47871c-812c-4847-951e-75972c93fae0",
+    "4586eae6-bc5d-4d3a-b0bd-7ba5a3fe152d"
+  ]
+}

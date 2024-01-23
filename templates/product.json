@@ -1,0 +1,312 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "6d484c82-5b24-4e78-8177-bfe577490b8a": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "lead-in-check": true
+          }
+        },
+        "6fcb09ff-c30a-44cb-9a16-9a79c91a58ae": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "dropdown",
+            "color_mode": "dropdown",
+            "size_chart_page": ""
+          }
+        },
+        "589558fb-0194-4b26-94da-d36baa0d6156": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "#f6a772",
+            "atc_button_text_color": "#ffffff",
+            "buy_now_button_background": "#2d2d2d",
+            "buy_now_button_text_color": "#ffffff"
+          }
+        },
+        "5dd9858b-2de4-4605-8620-734af63222e6": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "6d484c82-5b24-4e78-8177-bfe577490b8a",
+        "6fcb09ff-c30a-44cb-9a16-9a79c91a58ae",
+        "quantity_selector",
+        "variant_picker",
+        "589558fb-0194-4b26-94da-d36baa0d6156",
+        "buy_buttons",
+        "5dd9858b-2de4-4605-8620-734af63222e6"
+      ],
+      "settings": {
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": true,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "left",
+        "transition_effect": "slide"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "description"
+      ],
+      "settings": {
+      }
+    },
+    "55964043-d1bc-4ef9-8c03-10fd3281afe5": {
+      "type": "multi-column",
+      "blocks": {
+        "a329f818-056b-4d31-be48-662aa4d76aa8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-ethical.png",
+            "image_width": 50,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Ethical Materials",
+            "content": "<p>Traceable, Recycled, and Conflict-free. And that's just the beginning.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "Learn More",
+            "link_url": "shopify:\/\/pages\/ethically-sourced-mindfully-made",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "54437b4a-5835-475f-b90e-a7bdf25177c6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-faqs.png",
+            "image_width": 50,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Care & Maintenance",
+            "content": "<p>How to care for your jewelry at home. And when to let us help.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "Learn More",
+            "link_url": "shopify:\/\/pages\/jewelry-care-maintenance-repairs",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "6f8459a4-fecb-49da-8240-60a233a52597": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-made.png",
+            "image_width": 50,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Free Repairs",
+            "content": "<p>Make it last longer with our free repairs program for fashion jewelry.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "Learn More",
+            "link_url": "https:\/\/betsyandiya.com\/pages\/our-values#free-repairs",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        }
+      },
+      "block_order": [
+        "a329f818-056b-4d31-be48-662aa4d76aa8",
+        "54437b4a-5835-475f-b90e-a7bdf25177c6",
+        "6f8459a4-fecb-49da-8240-60a233a52597"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "Fashion Jewelry",
+        "show_bi": true,
+        "show_non_bi": false
+      }
+    },
+    "2d4e0b17-e887-4f84-baa3-1c6e2f768164": {
+      "type": "multi-column",
+      "blocks": {
+        "9149e781-900d-4aff-9763-73aef5bb3647": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-ethical.png",
+            "image_width": 50,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Ethical Materials",
+            "content": "<p>Traceable, Recycled, and Conflict-free. And that's just the beginning.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "Learn More",
+            "link_url": "shopify:\/\/pages\/ethically-sourced-mindfully-made",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "023e562e-4c09-4ccc-8441-cacce398e49f": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-faqs.png",
+            "image_width": 50,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Care & Maintenance",
+            "content": "<p>How to care for your jewelry at home. And when to let us help.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "Learn More",
+            "link_url": "shopify:\/\/pages\/jewelry-care-maintenance-repairs",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "1e43ac16-d16a-4bfd-8da3-861be09d2b29": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-made.png",
+            "image_width": 50,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Care Plans",
+            "content": "<p>This is why we <strong><em>can have<\/em><\/strong> nice things. Protect your purchase on auto-pilot.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "Learn More",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        }
+      },
+      "block_order": [
+        "9149e781-900d-4aff-9763-73aef5bb3647",
+        "023e562e-4c09-4ccc-8441-cacce398e49f",
+        "1e43ac16-d16a-4bfd-8da3-861be09d2b29"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "Fine Jewelry",
+        "show_bi": true,
+        "show_non_bi": false
+      }
+    },
+    "ca95daae-b2f6-4ae6-a9ea-907b166f1e6a": {
+      "type": "multi-column",
+      "blocks": {
+        "a94263b7-0e42-4373-a6db-4a557a20d21e": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-faqs.png",
+            "image_width": 50,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Care & Maintenance",
+            "content": "<p>How to care for your jewelry at home. And when to let us help.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "Learn More",
+            "link_url": "shopify:\/\/pages\/jewelry-care-maintenance-repairs",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "a94263b7-0e42-4373-a6db-4a557a20d21e"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "Jewelry",
+        "show_bi": false,
+        "show_non_bi": true
+      }
+    },
+    "df8fc7ef-02d8-4da6-82ec-36e472448a2f": {
+      "type": "divider-section",
+      "settings": {
+        "divider_style": "1"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "subheading": "",
+        "title": "You may also like",
+        "recommendations_count": 4,
+        "products": [
+
+        ],
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-content",
+    "55964043-d1bc-4ef9-8c03-10fd3281afe5",
+    "2d4e0b17-e887-4f84-baa3-1c6e2f768164",
+    "ca95daae-b2f6-4ae6-a9ea-907b166f1e6a",
+    "df8fc7ef-02d8-4da6-82ec-36e472448a2f",
+    "product-recommendations"
+  ]
+}

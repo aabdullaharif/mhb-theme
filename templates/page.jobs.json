@@ -1,0 +1,147 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "large"
+      }
+    },
+    "0f3fd518-381b-4446-a0ad-e6cc2fcf49ca": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Jobs & Careers",
+        "content": "<p>Betsy &amp; Iya® is a vibrant and growing company. We place a strong emphasis on company culture, the value of individual skill sets, and the amazing results possible from amazing teamwork. We’re nimble, eager, positive, and hardworking.<\/p>\n\n<p>Founded in 2008, we’ve built a diverse and bustling business. Our jewelry production studio sits right behind our brick &amp; mortar retail space, where we also stock clothes, fragrances, bath &amp; body products, and other gifts. Before applying, please click to learn more about our company <a href=\"\/pages\/origin\">origins<\/a> and <a href=\"\/pages\/our-values\">values<\/a>.<\/p>\n\n<p><strong>Don’t see your dream job?<\/strong> We’re growing and always looking for great talent. Click below to sign up and be the first to hear about new postings.<\/p>",
+        "extra_emphasis": false,
+        "button_text": "Get Job Posting Emails",
+        "button_link": "shopify:\/\/pages\/job-notifications",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "7875952b-e23a-4e87-aaa2-418dd266ded3": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p><strong>We have no current job openings.<\/strong> Please click the button above to hear about future postings.<\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "fea72a41-2180-40be-8733-db1ef1fce50d": {
+      "type": "faq",
+      "blocks": {
+        "template--14597537497150__fea72a41-2180-40be-8733-db1ef1fce50d-question-1": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Full-Time Maker (32-40 hours\/week)",
+            "article": "",
+            "answer": "<p>You’ll work in our light-filled, fully equipped <a href=\"https:\/\/betsyandiya.com\/pages\/tours\">Production Studio<\/a> in NW Portland as part of our <a href=\"https:\/\/betsyandiya.com\/pages\/meet-the-team\">team of Makers<\/a> who produce our line of jewelry that <strong>celebrates and amplifies beauty, strength, and connection.<\/strong><\/p><p>Though prior jewelry making experience is certainly a plus, all people with steady hands, relevant applicable experience (detailed, small-scale work), hustle, a desire to learn, and a commitment to <a href=\"https:\/\/betsyandiya.com\/pages\/our-values\">our Values<\/a> are encouraged to apply. We <strong>Love Learning<\/strong> at Betsy & Iya; training and continuing education opportunities are available for all with regularity.<\/p><p><strong>Responsibilities of this position may include:<\/strong><\/p><ul><li>prep work on a production scale (repetitive cutting, drilling, stamping, measuring, sawing, hammering, etc.)<\/li><li>jewelry assembly<\/li><li>oxidizing\/painting<\/li><li>soldering\/annealing<\/li><li>metal forming<\/li><li>lost-wax casting (spruing\/investment\/steam & burnout\/casting\/clean up\/etc)<\/li><li>stone setting<\/li><li>wire and sheet metal forming<\/li><li>hand engraving<\/li><li>use of rotary finishing tools<\/li><li>order fulfillment (pulling, packing, and shipping)<\/li><\/ul><p><strong>About Us:<\/strong><br\/>Established in 2008, Betsy & Iya designs and makes a line of fine and fashion jewelry, which is sold online and in our NW Portland brick & mortar flagship store. We are a small team of hardworking women, men, and non-binary people.<\/p><p><strong>You:<\/strong><\/p><ul><li>are organized, motivated, and self-starting<\/li><li>have a meticulous attention to detail<\/li><li>are able to focus in a busy environment<\/li><li>have nimble fingers and strong wrists<\/li><li>thrive with a variety of work and tasks, disparate in difficulty, scope, and priority-level<\/li><li>work confidently with high standards of shop safety and efficiency<\/li><li>have a solid understanding of and value good customer service<\/li><li>communicate efficiently with teammates about processes and final objectives<\/li><li>find critique valuable and are always looking to refine your skill set<\/li><li>like to learn<\/li><li>like to share knowledge<\/li><li>like to collaborate<\/li><\/ul><p><strong>You will be asked to:<\/strong><br\/><\/p><ul><li>be exposed to the noise of jewelry production on a daily basis<\/li><li>frequently use torches, hammers, light machinery and computers<\/li><li>intermittently lift and carry up to 35 pounds, sometimes carrying boxes and placing them in overhead storage<\/li><\/ul><p><strong>Pay and Benefits:<\/strong><br\/><\/p><ul><li>This position offers a starting wage of $20.00\/hour<\/li><li>Great employee discount<\/li><li>Paid time off & 401k with company matching<\/li><li>Employer-sponsored health insurance<\/li><li>Paid mindfulness breaks<\/li><li>Optional 4-day work week (32-40 hours\/week with overtime available seasonally)<\/li><li>Read more about our <a href=\"https:\/\/betsyandiya.com\/pages\/our-values\">Company Values<\/a><\/li><\/ul><p>If you share our passion for making inside a growing small business and are organized, committed to learning and sharing your knowledge, excel in collaborative work, and boast an impressive attention to detail that is unswayed while working in a busy environment, we look forward to reviewing your application.<\/p><p><strong>To Apply:<\/strong><br\/>Please email a cover letter and resume to <strong>jobs.production &lcub;at&rcub; betsyandiya.com<\/strong>. Address Lilly, the Production Manager. Make sure your cover letter explains how your skills, personality, and experience qualify you to positively contribute to the Betsy & Iya team. <em>We look forward to hearing from you!<\/em><\/p>"
+          }
+        },
+        "a3dcd078-b129-4c2b-8ed8-ad457fdef823": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Part-time Customer Advocate (16-24 hours\/week)",
+            "article": "",
+            "answer": "<p>You'll work in one or both of our Portland retail shops (located right next door to one another), delivering exceptional service to customers who love our brand and products as much as you do.<\/p><p>You will work a <strong>two- or three-day schedule<\/strong> (usually the same days every week) with the potential for fill-in shifts based on your availability and our needs. <strong>Weekend availability is required.<\/strong> This position is solely on the sales floor - jewelry production is not a part of this position.<\/p><p>Previous relevant retail experience is a requirement of this position: providing consistently awesome customer service, preferably in a fashion\/accessories environment. Experience selling\/working with jewelry – especially fine jewelry – is a major plus.<\/p><p><strong>You will be expected to:<\/strong><\/p><ul><li>Be the positive, inviting, helpful face for the Betsy & Iya shop and brand<\/li><li>Help customers find what they’re looking for by listening to their needs<\/li><li>Put jewelry, accessories, and clothing together to fit customers’ style preferences<\/li><li>Confidently provide honest feedback regarding style and fit of jewelry and clothing<\/li><li>Be open to on-going learning about our products, policies, and services<\/li><li>Make decisions based on knowledge of policies and know when to seek help<\/li><li>Work with a team<\/li><li>Maintain a clean, organized, well-stocked, accessible, and attractive shop environment<\/li><li>Comfortably use or learn to use a computerized point of sale system<\/li><li>Have a valid driver's license and be willing to drive to, set up, work, and break down off-site sales events<\/li><li>Be able to carry boxes that weigh up to 35 lbs., and use step stools\/ladders to retrieve backstock<\/li><\/ul><p><strong>The right candidate will be able to:<\/strong><\/p><ul><li>Work a consistent schedule that generally does not vary from week to week<\/li><li>Occasionally pick up additional shifts (sometimes after typical shop hours) in order to work special events or cover for coworkers<\/li><li>Work consistent shifts during the holiday season from mid-November to December 24 as well as the week following Christmas. Time off during these time periods is not impossible, but is considered only if sufficient shift coverage can be arranged.<\/li><li>Have availability to pick up additional shifts during the two weeks prior to December 25<\/li><li>Master multiple systems with many layers related to our point of sale system, inventory tracking, pulling goods for online orders, customer communication, etc.<\/li><\/ul><p><strong>You are:<\/strong><\/p><ul><li>Mature, professional, and trustworthy<\/li><li>Easy to talk to and outgoing<\/li><li>Proven to provide excellent customer service in previous work environments<\/li><li>A proactive conversationalist on the sales floor - ready to approach customers before they approach you<\/li><li>Able to multi-task and be adaptable to change<\/li><li>Attentive to detail<\/li><li>On-time and present when you are at work<\/li><li>Motivated to make yourself and your environment better through reflection and action<\/li><li>Familiar or can become familiar with Betsy & Iya brand<\/li><li>Excited by and good at merchandising, styling, and window displays<\/li><\/ul><p><strong>Pay and Benefits:<\/strong><\/p><ul><li>This position offers a starting wage of $20.00\/hour<\/li><li>Great employee discount<\/li><li>Paid time off & 401k with company matching<\/li><li>Paid mindfulness breaks<\/li><li>Read more about our <a href=\"https:\/\/betsyandiya.com\/pages\/our-values\"><span style=\"text-decoration:underline\">Company Values<\/span><\/a><\/li><\/ul><p>If you're a good fit, please email a cover letter and resume to <strong>jobs.retail &lcub;at&rcub; betsyandiya.com.<\/strong> Address Suzy, the Director of Retail & Buying. Include what days of the week you are currently available to work. Make sure your cover letter explains how your skills, personality, and experience qualify you to positively contribute to the Betsy & Iya team. <em>We look forward to hearing from you!<\/em><\/p>"
+          }
+        },
+        "c816fcc4-8afa-4a13-acf0-f19b2d4ff8f6": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Full-time Customer Advocate (32-40 hours\/week)",
+            "article": "",
+            "answer": "<p>You'll work in one or both of our Portland retail shops (located right next door to one another), delivering exceptional service to customers who love our brand and products as much as you do.<\/p><p>You will work a <strong>four- or five-day schedule<\/strong> (usually the same days every week) with the potential for fill-in shifts based on your availability and our needs. <strong>Weekend availability is required.<\/strong> This position is solely on the sales floor - jewelry production is not a part of this position.<\/p><p>Previous relevant retail experience is a requirement of this position: providing consistently awesome customer service, preferably in a fashion\/accessories environment. Experience selling\/working with jewelry – especially fine jewelry – is a major plus.<\/p><p><strong>You will be expected to:<\/strong><\/p><ul><li>Be the positive, inviting, helpful face for the Betsy & Iya shop and brand<\/li><li>Help customers find what they’re looking for by listening to their needs<\/li><li>Put jewelry, accessories, and clothing together to fit customers’ style preferences<\/li><li>Confidently provide honest feedback regarding style and fit of jewelry and clothing<\/li><li>Be open to on-going learning about our products, policies, and services<\/li><li>Make decisions based on knowledge of policies and know when to seek help<\/li><li>Work with a team<\/li><li>Maintain a clean, organized, well-stocked, accessible, and attractive shop environment<\/li><li>Comfortably use or learn to use a computerized point of sale system<\/li><li>Have a valid driver's license and be willing to drive to, set up, work, and break down off-site sales events<\/li><li>Be able to carry boxes that weigh up to 35 lbs., and use step stools\/ladders to retrieve backstock<\/li><\/ul><p><strong>The right candidate will be able to:<\/strong><\/p><ul><li>Work a consistent schedule that generally does not vary from week to week<\/li><li>Occasionally pick up additional shifts (sometimes after typical shop hours) in order to work special events or cover for coworkers<\/li><li>Work consistent shifts during the holiday season from mid-November to December 24 as well as the week following Christmas. Time off during these time periods is not impossible, but is considered only if sufficient shift coverage can be arranged.<\/li><li>Have availability to pick up additional shifts during the two weeks prior to December 25<\/li><li>Master multiple systems with many layers related to our point of sale system, inventory tracking, pulling goods for online orders, customer communication, etc.<\/li><\/ul><p><strong>You are:<\/strong><\/p><ul><li>Mature, professional, and trustworthy<\/li><li>Easy to talk to and outgoing<\/li><li>Proven to provide excellent customer service in previous work environments<\/li><li>A proactive conversationalist on the sales floor - ready to approach customers before they approach you<\/li><li>Able to multi-task and be adaptable to change<\/li><li>Attentive to detail<\/li><li>On-time and present when you are at work<\/li><li>Motivated to make yourself and your environment better through reflection and action<\/li><li>Familiar or can become familiar with Betsy & Iya brand<\/li><li>Excited by and good at merchandising, styling, and window displays<\/li><\/ul><p><strong>Pay and Benefits:<\/strong><\/p><ul><li>This position offers a starting wage of $20.00\/hour<\/li><li>Great employee discount<\/li><li>Paid time off & 401k with company matching<\/li><li>Paid mindfulness breaks<\/li><li>Read more about our <a href=\"https:\/\/betsyandiya.com\/pages\/our-values\"><span style=\"text-decoration:underline\">Company Values<\/span><\/a><\/li><\/ul><p>If you're a good fit, please email a cover letter and resume to <strong>jobs.retail &lcub;at&rcub; betsyandiya.com.<\/strong> Address Suzy, the Director of Retail & Buying. Include what days of the week you are currently available to work. Make sure your cover letter explains how your skills, personality, and experience qualify you to positively contribute to the Betsy & Iya team. <em>We look forward to hearing from you!<\/em><\/p>"
+          }
+        },
+        "3f24f7a2-ea59-43ac-9999-ae4761d64e62": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Seasonal Maker 1 (Temporary Position • 16-40 hours\/week)",
+            "article": "",
+            "answer": "<p>You’ll work in our light-filled, fully equipped <a href=\"https:\/\/betsyandiya.com\/pages\/tours\">Production Studio<\/a> in NW Portland as part of our <a href=\"https:\/\/betsyandiya.com\/pages\/meet-the-team\">team of Makers<\/a> who produce our line of jewelry that <strong>celebrates and amplifies beauty, strength, and connection.<\/strong><\/p><p>Position will last at least 2 months, and likely through the end of the holidays. It is possible that this could convert into a full- or part-time permanent position based on demand and our capacity.<\/p><p><strong>Responsibilities of this position may include:<\/strong><\/p><ul><li>prep work on a production scale (repetitive cutting, drilling, stamping, measuring, sawing, hammering, etc.)<\/li><li>jewelry assembly<\/li><li>oxidizing\/painting<\/li><li>soldering\/annealing<\/li><li>metal forming<\/li><li>wire and sheet metal forming<\/li><li>use of rotary finishing tools<\/li><\/ul><p><strong>About Us:<\/strong><br\/>Established in 2008, Betsy & Iya designs and makes a line of fine and fashion jewelry, which is sold online and in our NW Portland brick & mortar flagship store. We are a small team of hardworking women, men, and non-binary people.<\/p><p><strong>You:<\/strong><\/p><ul><li>are organized, motivated, and self-starting<\/li><li>have a meticulous attention to detail<\/li><li>are able to focus in a busy environment<\/li><li>have nimble fingers and strong wrists<\/li><li>thrive with a variety of work and tasks, disparate in difficulty, scope, and priority-level<\/li><li>work confidently with high standards of shop safety and efficiency<\/li><li>have a solid understanding of and value good customer service<\/li><li>communicate efficiently with teammates about processes and final objectives<\/li><li>find critique valuable and are always looking to refine your skill set<\/li><li>like to learn<\/li><li>like to share knowledge<\/li><li>like to collaborate<\/li><\/ul><p><strong>You will be asked to:<\/strong><br\/><\/p><ul><li>be exposed to the noise of jewelry production on a daily basis<\/li><li>frequently use torches, hammers, light machinery and computers<\/li><li>intermittently lift and carry up to 35 pounds, sometimes carrying boxes and placing them in overhead storage<\/li><\/ul><p><strong>Pay and Benefits:<\/strong><br\/><\/p><ul><li>This position offers a starting wage of $20.00\/hour<\/li><li>Great employee discount<\/li><li>Paid time off<\/li><li>Paid mindfulness breaks<\/li><li>Read more about our <a href=\"https:\/\/betsyandiya.com\/pages\/our-values\">Company Values<\/a><\/li><\/ul><p>If you share our passion for making inside a growing small business and are organized, committed to learning and sharing your knowledge, excel in collaborative work, and boast an impressive attention to detail that is unswayed while working in a busy environment, we look forward to reviewing your application.<\/p><p><strong>To Apply:<\/strong><br\/>Please email a cover letter and resume to <strong>jobs.production &lcub;at&rcub; betsyandiya.com<\/strong>. Address Ella, the Production Manager. Make sure your cover letter explains how your skills, personality, and experience qualify you to positively contribute to the Betsy & Iya team. <em>We look forward to hearing from you!<\/em><\/p>"
+          }
+        },
+        "6c326cff-bc20-4a33-922f-b24ebac78033": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Seasonal Maker 2 (Temporary Position • 16-40 hours\/week)",
+            "article": "",
+            "answer": "<p>You’ll work in our light-filled, fully equipped <a href=\"https:\/\/betsyandiya.com\/pages\/tours\">Production Studio<\/a> in NW Portland as part of our <a href=\"https:\/\/betsyandiya.com\/pages\/meet-the-team\">team of Makers<\/a> who produce our line of jewelry that <strong>celebrates and amplifies beauty, strength, and connection.<\/strong><\/p><p>Position will last at least 2 months, and likely through the end of the holidays. It is possible that this could convert into a full- or part-time permanent position based on demand and our capacity.<\/p><p><strong>Responsibilities of this position may include:<\/strong><\/p><ul><li>lost-wax casting (spruing\/investment\/steam & burnout\/casting\/clean up\/etc)<\/li><li>stone setting in some or all of the following styles: channel, flush (round and fancy), bezel, prong, whole cut inlay, bead, simple pavé, tension<\/li><li>soldering\/laser welding\/arc welding<\/li><li>ring resizing<\/li><li>stone extraction<\/li><li>prep work on a production scale (repetitive cutting, drilling, stamping, measuring, sawing, hammering, etc.)<\/li><li>jewelry assembly and finishing<\/li><li>oxidizing\/painting<\/li><li>wire and sheet metal annealing and forming<\/li><li>hand engraving<\/li><li>use of rotary finishing tools<\/li><\/ul><p><strong>About Us:<\/strong><br\/>Established in 2008, Betsy & Iya designs and makes a line of fine and fashion jewelry, which is sold online and in our NW Portland brick & mortar flagship store. We are a small team of hardworking women, men, and non-binary people.<\/p><p><strong>You:<\/strong><\/p><ul><li>are organized, motivated, and self-starting<\/li><li>have a meticulous attention to detail<\/li><li>are able to focus in a busy environment<\/li><li>have nimble fingers and strong wrists<\/li><li>thrive with a variety of work and tasks, disparate in difficulty, scope, and priority-level<\/li><li>work confidently with high standards of shop safety and efficiency<\/li><li>have a solid understanding of and value good customer service<\/li><li>communicate efficiently with teammates about processes and final objectives<\/li><li>find critique valuable and are always looking to refine your skill set<\/li><li>like to learn<\/li><li>like to share knowledge<\/li><li>like to collaborate<\/li><\/ul><p><strong>You will be asked to:<\/strong><br\/><\/p><ul><li>be exposed to the noise of jewelry production on a daily basis<\/li><li>frequently use torches, hammers, light machinery and computers<\/li><li>intermittently lift and carry up to 35 pounds, sometimes carrying boxes and placing them in overhead storage<\/li><\/ul><p><strong>Pay and Benefits:<\/strong><br\/><\/p><ul><li>This position offers a starting wage of $24.00\/hour<\/li><li>Great employee discount<\/li><li>Paid time off<\/li><li>Paid mindfulness breaks<\/li><li>Read more about our <a href=\"https:\/\/betsyandiya.com\/pages\/our-values\">Company Values<\/a><\/li><\/ul><p>If you share our passion for making inside a growing small business and are organized, committed to learning and sharing your knowledge, excel in collaborative work, and boast an impressive attention to detail that is unswayed while working in a busy environment, we look forward to reviewing your application.<\/p><p><strong>To Apply:<\/strong><br\/>Please email a cover letter and resume to <strong>jobs.production &lcub;at&rcub; betsyandiya.com<\/strong>. Address Ella, the Production Manager. Make sure your cover letter explains how your skills, personality, and experience qualify you to positively contribute to the Betsy & Iya team. <em>We look forward to hearing from you!<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14597537497150__fea72a41-2180-40be-8733-db1ef1fce50d-question-1",
+        "a3dcd078-b129-4c2b-8ed8-ad457fdef823",
+        "c816fcc4-8afa-4a13-acf0-f19b2d4ff8f6",
+        "3f24f7a2-ea59-43ac-9999-ae4761d64e62",
+        "6c326cff-bc20-4a33-922f-b24ebac78033"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f4daa0be-822e-442c-9215-ad63c912f981": {
+      "type": "divider-section",
+      "settings": {
+        "divider_style": "2"
+      }
+    },
+    "cba1de89-b549-4745-b2a0-5ffb9e309026": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<div style=\"font-size:90%;\"><em><p>Betsy &amp; Iya is committed to the ongoing work of building an equitable and inclusive company. We actively seek diversity of beliefs, backgrounds, skills, and ways of thinking. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, sex, gender, sexual orientation, gender identity\/expression, pregnancy, age, national origin, ancestry, physical or mental disability, severe\/morbid obesity, medical condition, military or veteran status, genetic information, marital status, ethnicity, alienage or any other protected classification, in accordance with applicable federal, state, and local laws.<\/p>\n<p>\nBy submitting an application with us, you are seeking to join a team of hardworking professionals dedicated to consistently delivering outstanding service to our customers and contributing to the financial success of the company, its clients, and its employees. Equal access to programs, services, and employment is available to all qualified persons. Those applicants requiring accommodation to complete the application and\/or interview process should contact a management representative.<\/p>\n<p>\nIf you are offered a job with us, you will be required to sign a <strong>Proprietary Information, Invention Assignment, and Non-Solicitation Agreement, a photo release, and a COVID vaccination Certification<\/strong> as conditions of employment. Exceptions to COVID vaccination requirement may be made at employer's discretion or as required by applicable law. Please reach out to us to discuss.<\/p><\/em><\/div>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "#939393",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0f3fd518-381b-4446-a0ad-e6cc2fcf49ca",
+    "7875952b-e23a-4e87-aaa2-418dd266ded3",
+    "fea72a41-2180-40be-8733-db1ef1fce50d",
+    "f4daa0be-822e-442c-9215-ad63c912f981",
+    "cba1de89-b549-4745-b2a0-5ffb9e309026"
+  ]
+}

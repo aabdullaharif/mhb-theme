@@ -1,0 +1,126 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "6190dfc9-4f0c-4c02-b89f-1739f5c22e25": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Origin",
+        "content": "<p>Betsy &amp; Iya® started in 2008 in a coffeeshop with a notebook, a bright red pencil, and nothing to lose.  Among scribbles and coffee stains, the words “jewelry making” appeared in that notebook.<\/p><p>Betsy wrote it down, thought about it for a while, and then she made some jewelry.  And it worked, so she did it some more.<\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "b2620d2e-63e0-47ff-be72-788c05380351": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/vimeo.com\/277221143",
+        "image": "shopify:\/\/shop_images\/Origin-Video-Overlay.png",
+        "background_type": "boxed",
+        "video_size": "medium",
+        "autoplay": false,
+        "background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "0a916bb3-7420-4798-9591-1e7ef75f3732": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p>Today, we’re more than just jewelry.  We’re more than this website.  We’re a brick and mortar shop snuggled down in our home of Portland, OR.  It is here that we design and make it all.  And it is here that we carry the work of other independent artists and designers from around the country–work we’ve encountered in our travels, work that speaks to us, that we love.<\/p><p>We're for the ones who drink way too much coffee, and laugh a little too loud in fancy restaurants. Who know how to say \"You ain't seen nothing yet\" in seven languages, and would rather be skinny dipping at midnight. We're for her and for him and for them, and for all who love themselves, and each other, exactly how they are. And for learning and growing and failing and celebrating at every step of the way. Because real life happens in the outtakes, not when it's staged. You may have even heard (it's true): We really, really care.<\/p><p>When you shop Betsy &amp; Iya, we hope you see the care in every bend of the wire, in every hammer stroke, in every blast of the torch.  We hope you see deliberation and perpendicularity. We hope you love the other artists’ and designers’ products we carry just as much as we do.  We hope you feel amazing and gush confidence.  And then we hope someone does something silly and that we all crack up for a while. Thanks for stopping by, for saying hello. <strong>We're so glad you're here.<\/strong><\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "left",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f1f24814-d783-4e0e-8a6a-15f1a8e5f27e": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14566991429694__f1f24814-d783-4e0e-8a6a-15f1a8e5f27e-16875455481ab2669f-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Our Values",
+            "content": "<p>Our business doesn’t begin &amp; end with the swipe of your credit card.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "Read More",
+            "link_url": "shopify:\/\/pages\/our-values",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14566991429694__f1f24814-d783-4e0e-8a6a-15f1a8e5f27e-16875455481ab2669f-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Ethical Materials",
+            "content": "<p>Traceable, Recycled, and Conflict-free. And that's just the beginning.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "Read More",
+            "link_url": "shopify:\/\/pages\/ethically-sourced-mindfully-made",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--14566991429694__f1f24814-d783-4e0e-8a6a-15f1a8e5f27e-16875455481ab2669f-0",
+        "template--14566991429694__f1f24814-d783-4e0e-8a6a-15f1a8e5f27e-16875455481ab2669f-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "stack_items": true,
+        "subheading": "",
+        "title": "<h3>More about us<\/h3>",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "All",
+        "show_bi": true,
+        "show_non_bi": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6190dfc9-4f0c-4c02-b89f-1739f5c22e25",
+    "b2620d2e-63e0-47ff-be72-788c05380351",
+    "0a916bb3-7420-4798-9591-1e7ef75f3732",
+    "f1f24814-d783-4e0e-8a6a-15f1a8e5f27e"
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "page_width": "large"
+      }
+    },
+    "7c7426eb-7610-44e1-aaf2-f97981e04aec": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14578332991550__7c7426eb-7610-44e1-aaf2-f97981e04aec-1686083857facf99c1-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/summer_series_background.png",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "Summer Series 2023",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#12264b",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "template--14578332991550__7c7426eb-7610-44e1-aaf2-f97981e04aec-1686083857facf99c1-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "text_position": "middle_center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--14578332991550__7c7426eb-7610-44e1-aaf2-f97981e04aec-1686083857facf99c1-0",
+        "template--14578332991550__7c7426eb-7610-44e1-aaf2-f97981e04aec-1686083857facf99c1-1"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "7cb85aa8-1c0e-4a52-81d8-de4f453ff1c4": {
+      "type": "rich-text",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Trunk Shows, Pop-Ups, & Sales",
+        "content": "",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "fill",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "#de582b",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "bb3efbd8-b152-485e-8eee-e644ad9799f7": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p>Join us all summer long for events featuring some of the most popular artists &amp; designers in our shop. It's your chance to browse an expanded selection, seconds, limited editions, and one-of-a-kind pieces from some of our favorite lines.<\/p><p>All events are at <a href=\"\/pages\/brick-and-mortar\" title=\"Brick &amp; Mortar\">Betsy &amp; Iya<\/a> unless otherwise noted.<\/p>",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "cd080a8e-ed35-4531-b511-8bd5629a62c1": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14578332991550__cd080a8e-ed35-4531-b511-8bd5629a62c1-1686082921cf904a54-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Amy_Olsen.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Amy Olson Trunk Show",
+            "content": "<em>June 10<\/em>\n<p>10 AM - 6 PM<\/p><p>Inspired by nature, architecture, and travel, Amy Olson says she \"designs jewelry to make women feel strong, powerful, feminine, and refined.\" Unique gemstones, delicate wire-wraps, and hand-hammered curves add an understated refinement.<\/p>",
+            "extra_emphasis": true,
+            "link_text": "Browse the line",
+            "link_url": "shopify:\/\/collections\/amy-olson",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "9e5df2f5-8e2f-4f8c-a8c4-1776e3c1246c": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wolf_B_I.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "B&I at Wolf Ceramics",
+            "content": "<em>June 17<\/em><p>12 PM - 5 PM \/\/ Wolf Ceramics \/\/ <a target=\"_blank\" href=\"https:\/\/goo.gl\/maps\/jM6uzcN24zpy6ayd7\">616 Industrial St in Hood River, OR<\/a><\/p>\n<p>Join us at Wolf's annual Summer Studio Sale, where they'll have new work, one of a kind styles, live demonstrations, seconds for sale, and <strong>Betsy &amp; Iya!<\/strong> We're bringing oodles of our jewelry to this not-to-be-missed event hosted by one of our favorite ceramicists.<\/p>",
+            "extra_emphasis": true,
+            "link_text": "Browse the line",
+            "link_url": "shopify:\/\/collections\/wolf-ceramics",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "97200cbf-fd19-4e12-ac1e-5498fd851692": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/B_I_As_Is.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "B&I As-Is Sale",
+            "content": "<em>June 30<\/em><p>10 AM - 6 PM (or until sold out)<\/p>\n<p>One of our most popular sales of the year, where you'll find incredible prices on seconds, prototypes, and one-of-a-kind Betsy &amp; Iya jewelry, fresh out of our on-site production studio. <strong>In-store only.<\/strong><\/p>",
+            "extra_emphasis": true,
+            "link_text": "2023 As-is Stock",
+            "link_url": "shopify:\/\/blogs\/betsy-iya\/big-ol-week-of-sales-at-betsy-iya",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14578332991550__cd080a8e-ed35-4531-b511-8bd5629a62c1-1686082921cf904a54-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--14578332991550__cd080a8e-ed35-4531-b511-8bd5629a62c1-1686082921cf904a54-0",
+        "9e5df2f5-8e2f-4f8c-a8c4-1776e3c1246c",
+        "97200cbf-fd19-4e12-ac1e-5498fd851692",
+        "template--14578332991550__cd080a8e-ed35-4531-b511-8bd5629a62c1-1686082921cf904a54-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": false,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "tight",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "All",
+        "show_bi": true,
+        "show_non_bi": true
+      }
+    },
+    "39765e39-99b8-4c9d-9add-61427cd5d450": {
+      "type": "multi-column",
+      "blocks": {
+        "f7d94ffe-5284-458e-8541-0cab13be1f60": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Natalie_Joy_fa364ac6-b0b9-4803-bf4f-da9f1d26ed39.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Natalie Joy Trunk Show",
+            "content": "<em>July 9<\/em>\n<p>10 AM - 4 PM<\/p>\n<p>Natalie Joy says, “For as long as I can remember I've been a tangible person with a strong desire to create objects with my hands. That urge has never left me.\" She'll bring pieces from her newest collection along with several one-of-a-kind styles.<\/p>",
+            "extra_emphasis": true,
+            "link_text": "Browse the line",
+            "link_url": "shopify:\/\/collections\/natalie-joy",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "d1414e18-9af3-418b-aaa5-68fcd3f825a7": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bake_Clay_Studio.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Baked Clay Studio Trunk Show",
+            "content": "<em>July 22<\/em>\n<p>10 AM - 6 PM<\/p>\n<p>Designer Kristin Pruitt blends eye-catching colors with bold shapes to create her handcrafted line of polymer clay jewelry. Inspired by pop culture &amp; architecture, her work is a celebration of wearable art with its fun, modern aesthetic.<\/p>",
+            "extra_emphasis": true,
+            "link_text": "Browse in-store",
+            "link_url": "shopify:\/\/pages\/brick-and-mortar",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "677db15f-7761-4f90-bb27-cdfafef407cf": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vein_of_Gold.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Betsy at Vein of Gold",
+            "content": "<em>July 23<\/em>\n<p>11 AM - 3 PM \/\/ <a href=\"https:\/\/goo.gl\/maps\/ZGTYMu8mRMqF28YU6\">6517 N Interstate Ave. Portland, OR<\/a><\/p>\n<p>Ice Cream! Wine! Tropical Wear! Vintage! Jewelry! What's not to love? Browse our jewelry, chat it up with our <strong>Designer &amp; Founder<\/strong>, and shop tons more from <a href=\"https:\/\/www.instagram.com\/veinofgoldpdx\/\" target=\"_blank\">Vein of Gold<\/a> + <a href=\"https:\/\/www.instagram.com\/__chloe_cox__\/\" target=\"_blank\">Chloe Cox<\/a>, <a href=\"https:\/\/www.instagram.com\/brainfreezetreatsclub\/\" target=\"_blank\">Brain Freeze Treats Club<\/a>, <a href=\"https:\/\/www.instagram.com\/sortasummerhouse\/\" target=\"_blank\">Sorta Summer<\/a>, <a href=\"https:\/\/www.instagram.com\/aptherbals\/\" target=\"_blank\">Apt Herbals<\/a>, &amp; <a href=\"https:\/\/www.instagram.com\/scarletchamberlin\/\" target=\"_blank\">Scarlet Chamberlin<\/a>.\n<\/p>",
+            "extra_emphasis": true,
+            "link_text": "Get directions",
+            "link_url": "https:\/\/goo.gl\/maps\/ZGTYMu8mRMqF28YU6",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "b33c498f-c990-4475-b406-faf992606c9f": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kari_Phillips.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Kari Phillips Trunk Show",
+            "content": "<em>August 5<\/em>\n<p>10 AM - 6 PM<\/p>\n<p>Kari Phillips plays with texture and distinctive shapes in her line of limited and one of a kind jewelry. Pairing elements of pearl and stonework with metal fabrication, she imparts an elegant hand touched quality to every piece she creates.<\/p>",
+            "extra_emphasis": true,
+            "link_text": "Browse the line",
+            "link_url": "shopify:\/\/collections\/kari-phillips",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "4a24fc3e-524f-4191-8fa7-73e7528c63f8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bar_Norman_s_Dana_Frank_in_Betsy_Iya_jewelry.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Betsy & Iya at Bar Norman",
+            "content": "<em>August 19<\/em>\n<p>10 AM - 1 PM<\/p>\n<p>Meet Betsy and shop our jewelry on the east side at one of our favorite spots, Bar Norman. Owner Dana Frank (decked out in B&amp;I jewelry above) will be pouring spritzes, plus hand-dyed clothing by <a href=\"https:\/\/www.instagram.com\/__chloe_cox__\/\" target=\"_blank\">Chloe Cox<\/a>, custom chain stitching by <a href=\"https:\/\/www.instagram.com\/soothefolk\/\" target=\"_blank\">Soothe Folk<\/a>, and Latina-inflected bites by <a href=\"https:\/\/www.instagram.com\/comparta_\/\" target=\"_blank\">Comparta<\/a>.<\/p>",
+            "extra_emphasis": true,
+            "link_text": "Directions",
+            "link_url": "https:\/\/goo.gl\/maps\/2ESh1nfrSKdaauiRA",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "f7d94ffe-5284-458e-8541-0cab13be1f60",
+        "d1414e18-9af3-418b-aaa5-68fcd3f825a7",
+        "677db15f-7761-4f90-bb27-cdfafef407cf",
+        "b33c498f-c990-4475-b406-faf992606c9f",
+        "4a24fc3e-524f-4191-8fa7-73e7528c63f8"
+      ],
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": false,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "tight",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "All",
+        "show_bi": true,
+        "show_non_bi": true
+      }
+    },
+    "1e75acf4-5752-454e-a1f5-8e95ffb43b72": {
+      "type": "multi-column",
+      "blocks": {
+        "b1b27746-2e76-42c2-b2c6-c9cef3e8940a": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vein_of_Gold.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Vein of Gold Pop-Up",
+            "content": "<em>August 25<\/em>\n<p>10 AM - 4 PM<\/p>\n<p>Vein of Gold is a hidden gem in North Portland celebrating second-hand slow fashion, independent designers and long lasting vintage wear. They’ll be at our shop with a huge selection of unique consigned clothing treasures!<\/p>\n<p>ONLY AVAILABLE DURING POP-UP<\/p>",
+            "extra_emphasis": true,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "182cb77f-1cb3-4a3b-980b-3ff9b5453e00": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wolf_Ceramics.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Wolf Ceramics Pop-Up",
+            "content": "<em>September 16<\/em>\n<p>10 AM - 4 PM (or til sold out)<\/p>\n<p>Founder Sarah Wolf followed a winding path through geochemistry, farming, outdoor education and guiding, and nearly went to architecture school before landing on making her favorite hobby her small business. <strong>Browse seconds at this special pop-up.<\/strong><\/p>\n<p>ONLY AVAILABLE DURING POP-UP<\/p>",
+            "extra_emphasis": true,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "46dbbac8-2173-4f75-a041-8d0f969c3e16": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Exterior_theater_Alex_Har.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Betsy & Iya Movie Date",
+            "content": "<em>September 24<\/em>\n<p>2:30 PM<\/p>\n<p>Join us for at the Hollywood Theatre as we screen a nostalgic, fun, women-centered film to celebrate our 15th business anniversary and the amazing customers (you!) who've made that possible. You buy the popcorn; <strong>we'll cover the tickets.<\/strong><\/p>",
+            "extra_emphasis": true,
+            "link_text": "Reserve Your Free Seat",
+            "link_url": "shopify:\/\/pages\/keep-portland-weird-an-open-letter-from-betsy-iya",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "b1b27746-2e76-42c2-b2c6-c9cef3e8940a",
+        "182cb77f-1cb3-4a3b-980b-3ff9b5453e00",
+        "46dbbac8-2173-4f75-a041-8d0f969c3e16"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "tight",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "show_type": "All",
+        "show_bi": true,
+        "show_non_bi": true
+      }
+    },
+    "880a41c5-414a-4aa9-85be-1d9750297dc8": {
+      "type": "faq",
+      "blocks": {
+        "template--14578332991550__880a41c5-414a-4aa9-85be-1d9750297dc8-168608322006196868-0": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping"
+          }
+        },
+        "template--14578332991550__880a41c5-414a-4aa9-85be-1d9750297dc8-168608322006196868-1": {
+          "type": "question",
+          "settings": {
+            "title": "Amy Olsen - June 10th",
+            "article": "",
+            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals. Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+          }
+        },
+        "template--14578332991550__880a41c5-414a-4aa9-85be-1d9750297dc8-168608322006196868-2": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "How long will it take to get my order?",
+            "article": "",
+            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+          }
+        },
+        "template--14578332991550__880a41c5-414a-4aa9-85be-1d9750297dc8-168608322006196868-3": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "title": "Other"
+          }
+        },
+        "template--14578332991550__880a41c5-414a-4aa9-85be-1d9750297dc8-168608322006196868-4": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Any question?",
+            "article": "",
+            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14578332991550__880a41c5-414a-4aa9-85be-1d9750297dc8-168608322006196868-0",
+        "template--14578332991550__880a41c5-414a-4aa9-85be-1d9750297dc8-168608322006196868-1",
+        "template--14578332991550__880a41c5-414a-4aa9-85be-1d9750297dc8-168608322006196868-2",
+        "template--14578332991550__880a41c5-414a-4aa9-85be-1d9750297dc8-168608322006196868-3",
+        "template--14578332991550__880a41c5-414a-4aa9-85be-1d9750297dc8-168608322006196868-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_navigation": false,
+        "title": "",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7c7426eb-7610-44e1-aaf2-f97981e04aec",
+    "7cb85aa8-1c0e-4a52-81d8-de4f453ff1c4",
+    "bb3efbd8-b152-485e-8eee-e644ad9799f7",
+    "cd080a8e-ed35-4531-b511-8bd5629a62c1",
+    "39765e39-99b8-4c9d-9add-61427cd5d450",
+    "1e75acf4-5752-454e-a1f5-8e95ffb43b72",
+    "880a41c5-414a-4aa9-85be-1d9750297dc8"
+  ]
+}

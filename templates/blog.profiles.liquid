@@ -1,0 +1,98 @@
+
+  {% paginate blog.articles by 20 %}
+
+  <div class="container-fluid profiles mt-5">
+    <div class="row pb-5">
+      <div class="col text-center">
+        <h1 class="block--title lg featured--pink">{{ page_title | escape }}</h1>
+        <p class="blog--desc">{{ page_description | escape }}</p>
+      </div>
+    </div>
+    <div class="row">
+      {% for article in blog.articles %}
+
+        {% if article.tags contains 'profile-sticky' %}
+        <div class="col-md-12">
+          <figure class="profile--image large" style="background-image: url({{ article.image.src | img_url: 'master' }});">
+            <a href="{{ article.url }}" title="{{ article.title | escape }}">
+              <figcaption class="d-md-none">
+                {{ article.excerpt | truncatewords: 14 }}
+              </figcaption>
+              <figcaption class="d-none d-lg-block">
+                {{ article.excerpt }}
+              </figcaption>
+            </a>
+          </figure>
+        </div>
+
+        {% endif %}
+
+      {% endfor %}
+    </div>
+    <div class="row grid">
+      <div class="grid-sizer col-md-3"></div>
+
+      {% for article in blog.articles %}
+
+      {% unless article.tags contains 'profile-sticky' %}
+
+      {% if article.tags contains 'profile-med' %}
+      <div class="grid-item col-md-9">
+      {% elsif article.tags contains 'profile-half' %}
+      <div class="grid-item col-md-6">
+      {% else %}
+      <div class="grid-item col-md-3">
+      {% endif %}
+        <figure class="profile--image" style="background-image: url({{ article.image.src | img_url: 'master' }});">
+          <a href="{{ article.url }}" title="{{ article.title | escape }}">
+            <figcaption class="d-md-none">
+              {{ article.excerpt | truncatewords: 14 }}
+            </figcaption>
+            <figcaption class="d-none d-lg-block">
+              {{ article.excerpt }}
+            </figcaption>
+          </a>
+        </figure>
+      </div>
+
+      {% endunless %}
+
+      {% endfor %}
+    </div>
+
+    <div class="row py-5">
+      <div class="col-md-8 offset-md-2">
+        <div class="bc-newsletter">
+          <!-- KLAVIYO -->
+          <div class="klaviyo-form-Vbv9wC"></div>
+          <!-- /KLAVIYO -->
+        </div>
+      </div>
+    </div>
+
+    <div class="row py-5">
+      <div class="col text-center">
+        <img src="https://cdn.shopify.com/s/files/1/0060/6162/files/betsy-iya-watermark.svg?v=1600984925" />
+      </div>
+    </div>
+
+  </div>
+
+  <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+  <script>
+    // need a class to force page to 100% width
+    $('body').addClass('page--2020');
+
+    // masonry layout for grid
+    $(window).on('load', function() {
+      $('.grid').masonry({
+        itemSelector: '.grid-item',
+        columnWidth: '.grid-sizer',
+        percentPosition: true,
+      });
+    });
+  </script>
+
+  {% include 'pagination' %}
+
+  {% endpaginate %}

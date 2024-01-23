@@ -1,0 +1,725 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "8bd39f97-ba0a-408a-8af4-9bfe7f107c52": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Meet The Team",
+        "content": "",
+        "extra_emphasis": false,
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "57e745c1-54f5-47d9-b07b-a8129b8a63b4": {
+      "type": "team-member",
+      "blocks": {
+        "template--14450457837630__57e745c1-54f5-47d9-b07b-a8129b8a63b4-1665689523dc1a1cde-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BetsyNewHeadshot3_ba42efaa-c510-4a27-b917-491edc0e32b0.png",
+            "name": "Betsy",
+            "pronouns": "She\/Her",
+            "position": "Founder, Director of Product and Design, Boss-lady",
+            "content": "<p><strong>One day, I will go here:<\/strong> To Greece again with the people I love most.<\/p><p><strong>Best thing about my job:<\/strong> The love and life stories that people share with me during custom consultations moves me. That I have the opportunity to bring their beautiful rich stories to life through jewelry design baffles my mind every time. That and working with such a committed, motivated, and hard working team. Pinch me, is this real?<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Swimming in the river with my husband, daughter, and dogs (or dreaming up the next project for our house 😬).<\/p><p><strong>This will always be in my playlist:<\/strong> Starfish and Coffee by Prince.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457837630__57e745c1-54f5-47d9-b07b-a8129b8a63b4-1665689523dc1a1cde-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "76e7dac2-dec0-45cc-993c-c5e4e36bfba0": {
+      "type": "team-member",
+      "blocks": {
+        "template--14450457837630__76e7dac2-dec0-45cc-993c-c5e4e36bfba0-1665689523dc1a1cde-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Will_staff_photo.jpg",
+            "name": "Will",
+            "pronouns": "He\/Him",
+            "position": "General Manager",
+            "content": "<p><strong>One day, I will go here:<\/strong> A Michelin starred restaurant... Yummmmmmmm.<\/p><p><strong>Best thing about my job:<\/strong> Every day is <em>Bring Your Wife and Dogs to Work<\/em> day.<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Working on our house; spending time with our daughter, friends, and family; listening to music; swimming in the great outdoors.<\/p><p><strong>This will always be in my playlist:<\/strong> Oh man. Hardest question ever. Ok, there's a TON so I will request a judgment reprieve on this answer and just you know that it's only the tip of the iceberg: Whitney Houston's Star Spangled Banner. There is no more perfect rendition. Promise.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457837630__76e7dac2-dec0-45cc-993c-c5e4e36bfba0-1665689523dc1a1cde-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "53b61e0a-1977-483c-a7e5-22bcd0853d55": {
+      "type": "team-member",
+      "blocks": {
+        "template--14450457837630__53b61e0a-1977-483c-a7e5-22bcd0853d55-1665689523dc1a1cde-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Elya.jpg",
+            "name": "Elya",
+            "pronouns": "She\/Her",
+            "position": "Customer Advocate",
+            "content": "<p><strong>One day, I will go here:<\/strong> I would love to travel to Japan or Korea.<\/p><p><strong>Best thing about my job:<\/strong> I love getting to work with my awesome teammates and also seeing the workshop in action.<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> I'm either making beaded earrings, drawing or watching cute animal videos on YouTube.<\/p><p><strong>This will always be in my playlist:<\/strong> I’m loving everything by XG.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457837630__53b61e0a-1977-483c-a7e5-22bcd0853d55-1665689523dc1a1cde-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "4d7f9b33-80c5-4911-80ab-9fdbbf008b2b": {
+      "type": "team-member",
+      "blocks": {
+        "template--14450457837630__4d7f9b33-80c5-4911-80ab-9fdbbf008b2b-1665689523dc1a1cde-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7464.jpg",
+            "name": "Carly",
+            "pronouns": "She\/Her",
+            "position": "Customer Advocate",
+            "content": "<p><strong>One day, I will go here:<\/strong> Back to Portugal! There are so many places I’d love to visit, but Portugal holds a special place in my heart.<\/p><p><strong>Best thing about my job:<\/strong> The amazing people I work with! Everyone here is so kind and wonderful.<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> In the woods with my partner and our dog, spending time with friends who are like family, cooking, crafting, dreaming about travel.<\/p><p><strong>This will always be in my playlist:<\/strong> The Beatles and Paul Simon will always have a place on my playlist!<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457837630__4d7f9b33-80c5-4911-80ab-9fdbbf008b2b-1665689523dc1a1cde-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c96c77b4-40f1-4f51-9b3e-278048f12b9e": {
+      "type": "team-member",
+      "blocks": {
+        "template--14566991560766__c96c77b4-40f1-4f51-9b3e-278048f12b9e-1685376827c223e7c8-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Michaela.jpg",
+            "name": "Michaela",
+            "pronouns": "she\/her",
+            "position": "Customer Advocate",
+            "content": "<p><strong>One day, I will go here:<\/strong> (back to) Ireland.<\/p><p><strong>Best thing about my job:<\/strong> Getting to spend endless time discussing and helping folks find jewelry they love!<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Relaxing and reading.<\/p><p><strong>This will always be in my playlist:<\/strong> Grateful Dead. <\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14566991560766__c96c77b4-40f1-4f51-9b3e-278048f12b9e-1685376827c223e7c8-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1149b69f-942e-4dd4-87bc-784aa5c1468c": {
+      "type": "team-member",
+      "blocks": {
+        "14ec0d3a-2085-4139-97b6-5843d0c4253e": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barrie-staff-photo.jpg",
+            "name": "Barrie",
+            "pronouns": "She\/Her",
+            "position": "Design Manager",
+            "content": "<p><strong>One day, I will go here:<\/strong> Japan!<\/p><p><strong>Best thing about my job:<\/strong> Working with incredibly talented humans and learning from them. Also, working with clients who share their stories of love and connection with us. Those stories are powerful and I don't take them for granted.<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Playing with my dog and eating food with my human... and probably cycling through one of the latest hit shows on Netflix or Hulu.<\/p><p><strong>This will always be in my playlist:<\/strong> Disney never gets old for me. 😉<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "14ec0d3a-2085-4139-97b6-5843d0c4253e"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "a546b96b-ff55-41a8-8d1a-b6fa922b69d2": {
+      "type": "team-member",
+      "blocks": {
+        "template--14450457837630__a546b96b-ff55-41a8-8d1a-b6fa922b69d2-1665689523dc1a1cde-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ali_staff_photo.jpg",
+            "name": "Ali",
+            "pronouns": "She\/Her",
+            "position": "Shop Manager",
+            "content": "<p><strong>One day, I will go here:<\/strong> Norway.<\/p><p><strong>Best thing about my job:<\/strong> Meeting new people from all over the world.<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Adventuring with my friends near and far or having a cozy dinner party and playing games.<\/p><p><strong>This will always be in my playlist:<\/strong> Paul Simon (specifically Graceland).<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457837630__a546b96b-ff55-41a8-8d1a-b6fa922b69d2-1665689523dc1a1cde-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "3526e76d-dc4a-4cdd-aa65-a21aa6cc001a": {
+      "type": "team-member",
+      "blocks": {
+        "762f34cf-c1f0-4518-8f97-2faef091f4d6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3792.jpg",
+            "name": "Devan",
+            "pronouns": "She\/Her",
+            "position": "Customer Advocate",
+            "content": "<p><strong>One day, I will go here:<\/strong> Scotland. To touch some weird stones, travel back in time, and meet a kilt-wearing Lord that calls me an endearing name in Gaelic.<\/p><p><strong>Best thing about my job:<\/strong> The kind and supportive environment, the wonderful customers I meet, and learning about the fascinating world of fine jewelry.<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Trying new brunch restaurants with friends and listening to eerie podcasts. I love ghost stories!<\/p><p><strong>This will always be in my playlist:<\/strong> Fleetwood Mac, to an almost unreasonable degree. Stevie Nicks is amazing!<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "762f34cf-c1f0-4518-8f97-2faef091f4d6"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6ec90054-4a01-4e37-ac48-40428f768baa": {
+      "type": "team-member",
+      "blocks": {
+        "b81bbe61-c4af-4216-aa68-be42facf2052": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_67235329.jpg",
+            "name": "Brie",
+            "pronouns": "She\/Her",
+            "position": "Maker",
+            "content": "<p><strong>One day, I will go here:<\/strong> A trip through Northern Italy and then up to Switzerland. I want to see Lake Como, and experience an alpine cattle descent.<\/p><p><strong>Best thing about my job:<\/strong> Being around people who are as passionate about making jewelry as I am. I love discussing gems, tools, and metals everyday.<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Discovering a new coffee shop, knitting, taking my pups to a dog park, or watching college football (Go Ducks)!<\/p><p><strong>This will always be in my playlist:<\/strong> Hands down, it's Taylor Swift.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "b81bbe61-c4af-4216-aa68-be42facf2052"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c3ab6bc7-a62c-4172-b84c-6da3566752ab": {
+      "type": "team-member",
+      "blocks": {
+        "template--14566991560766__c3ab6bc7-a62c-4172-b84c-6da3566752ab-1685376827c223e7c8-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bi-MTT_Luis-2022-1.jpg",
+            "name": "Luis",
+            "pronouns": "he\/him",
+            "position": "Design Technician",
+            "content": "<p><strong>One day, I will go here:<\/strong> Japan.<\/p><p><strong>Best thing about my job:<\/strong> Getting to problem solve and learn new things every day!<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Making something with glass, metal, plaster, or pen.<\/p><p><strong>This will always be in my playlist:<\/strong> Can't Tell Me Nothing by Kanye West.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14566991560766__c3ab6bc7-a62c-4172-b84c-6da3566752ab-1685376827c223e7c8-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "89ccfe21-ec86-4faa-9d9f-1e94f9b6112e": {
+      "type": "team-member",
+      "blocks": {
+        "eef1860b-e1b5-4c50-9eef-0b7e5232fd1f": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_50776065.jpg",
+            "name": "RC",
+            "pronouns": "They\/them",
+            "position": "maker",
+            "content": "<p><strong>One day, I will go here:<\/strong> For some reason I dream of staying in a small house in the Scottish Highlands.<\/p><p><strong>Best thing about my job:<\/strong> Petting dogs and working with my hands!<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Playing video games, knitting, crocheting, or weaving.<\/p><p><strong>This will always be in my playlist:<\/strong> I like to toss a bit of yodeling in to keep things silly.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "eef1860b-e1b5-4c50-9eef-0b7e5232fd1f"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "fbf7d50c-e043-43cb-875f-d8d69bf90137": {
+      "type": "team-member",
+      "blocks": {
+        "template--14450457837630__fbf7d50c-e043-43cb-875f-d8d69bf90137-1665689523dc1a1cde-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_67213825.jpg",
+            "name": "Barrie Jo",
+            "pronouns": "She\/Her",
+            "position": "Maker",
+            "content": "<p><strong>One day, I will go here:<\/strong> England, to see the setting of some of my favorite novels.<\/p><p><strong>Best thing about my job:<\/strong> All the tools... and dogs.<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Reading, cooking, hanging out with my two dogs and making more jewelry.<\/p><p><strong>This will always be in my playlist:<\/strong> 90s grunge, and any pop songs that are fun to dance to.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457837630__fbf7d50c-e043-43cb-875f-d8d69bf90137-1665689523dc1a1cde-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ef600fbf-8f22-4371-9537-873d4c6306eb": {
+      "type": "team-member",
+      "blocks": {
+        "2778340f-7fff-415b-b785-8e9b808ba110": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BI-Meet_The_Team-Emily.jpg",
+            "name": "Emily",
+            "pronouns": "She\/Her",
+            "position": "Customer Advocate",
+            "content": "<p><strong>One day, I will go here:<\/strong> Cameroon to volunteer with Ape Action Africa.<\/p><p><strong>Best thing about my job:<\/strong> Feeling the love, support and loyalty of the customers and working with an energetic, creative team.<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Getting out with my 2 rescue dogs Atlas and Roo, exploring the city or hangin' with family.<\/p><p><strong>This will always be in my playlist:<\/strong> This is like asking me what my favorite B&I piece is- impossible! I'll always dance\/sing\/rap to 90s Hiphop.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "2778340f-7fff-415b-b785-8e9b808ba110"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ab99031c-f537-4a1d-8694-91b28be13975": {
+      "type": "team-member",
+      "blocks": {
+        "template--14450457837630__ab99031c-f537-4a1d-8694-91b28be13975-1665689523dc1a1cde-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Adrian_staff_photo_jpg.jpg",
+            "name": "Adrian",
+            "pronouns": "He\/Him",
+            "position": "Maker",
+            "content": "<p><strong>One day, I will go here:<\/strong> The Louvre.<\/p><p><strong>Best thing about my job:<\/strong> Getting to work with metal everyday.<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Making jewelry or playing D&D.<\/p><p><strong>This will always be in my playlist:<\/strong> Gloria by The Kinks.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457837630__ab99031c-f537-4a1d-8694-91b28be13975-1665689523dc1a1cde-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "89cbc974-1107-497a-8109-5ee0479977e5": {
+      "type": "team-member",
+      "blocks": {
+        "template--14450457837630__89cbc974-1107-497a-8109-5ee0479977e5-1665689523dc1a1cde-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BI-MTT_Heidi-2021.jpg",
+            "name": "Heidi",
+            "pronouns": "She\/Her",
+            "position": "Assistant Production Manager",
+            "content": "<p><strong>One day, I will go here:<\/strong> Vatican City.<\/p><p><strong>Best thing about my job:<\/strong> Working with beautiful people making beautiful things!<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Generally lazing about with my cat, tending to plants, hiking a trail, seeking out bodies of water, and finding adventure.<\/p><p><strong>This will always be in my playlist:<\/strong> I try to find a song by The Cure for every playlist I make.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457837630__89cbc974-1107-497a-8109-5ee0479977e5-1665689523dc1a1cde-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "226b8f11-4bc6-415f-bf6d-0972a09a9c9d": {
+      "type": "team-member",
+      "blocks": {
+        "template--14450457837630__226b8f11-4bc6-415f-bf6d-0972a09a9c9d-1665689523dc1a1cde-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Suzy_staff_photo.jpg",
+            "name": "Suzy",
+            "pronouns": "She\/Her",
+            "position": "Director of Retail & Buying",
+            "content": "<p><strong>One day, I will go here:<\/strong> Sardinia and Corsica.<\/p><p><strong>Best thing about my job:<\/strong> Vicariously shopping with awesome customers.<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Depending on the season: backpacking, mountain biking, or snowboarding.<\/p><p><strong>This will always be in my playlist:<\/strong> A perfect mix of new wave and nineties hip hop.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457837630__226b8f11-4bc6-415f-bf6d-0972a09a9c9d-1665689523dc1a1cde-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "d637e6b7-a3e0-4acb-a55e-dcbb3728a526": {
+      "type": "team-member",
+      "blocks": {
+        "template--14450457837630__d637e6b7-a3e0-4acb-a55e-dcbb3728a526-1665689523dc1a1cde-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BI-MTT-Kelly-2021-2.jpg",
+            "name": "Kelly",
+            "pronouns": "They\/Them",
+            "position": "Shop Manager",
+            "content": "<p><strong>One day, I will go here:<\/strong> The Catacombs! And basically all of Europe.<\/p><p><strong>Best thing about my job:<\/strong> Working with a wonderful group of creative and authentically cool people! Helping sweet customers from the neighborhood and beyond find beautiful things. And dog-spotting of course!<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Drawing, making jewelry, adding to my vinyl & vintage toy collections, or listening to music with my partner and our 2 cats.<\/p><p><strong>This will always be in my playlist:<\/strong> Beach House and The B-52’s.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457837630__d637e6b7-a3e0-4acb-a55e-dcbb3728a526-1665689523dc1a1cde-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "863aa81c-07e5-4846-8359-4942a189d8b4": {
+      "type": "team-member",
+      "blocks": {
+        "template--14450457837630__863aa81c-07e5-4846-8359-4942a189d8b4-1665689523dc1a1cde-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lane.jpg",
+            "name": "Lane",
+            "pronouns": "He\/They",
+            "position": "Maker",
+            "content": "<p><strong>One day, I will go here:<\/strong> I will go to the Basque Country in Spain to see the places that my family moved from and steep myself in that part of my cultural heritage.<\/p><p><strong>Best thing about my job:<\/strong> Having the opportunity to make beautiful things with beautiful people.  It’s impossible to pick between the work itself and the people I get to do it with.<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Sun bathing at Mt. Tabor, reading tarot, making my own beautiful things, or spending time with someone I love.<\/p><p><strong>This will always be in my playlist:<\/strong> Any sad Lana song. Thinking of The Grants specifically right now.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457837630__863aa81c-07e5-4846-8359-4942a189d8b4-1665689523dc1a1cde-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "44f20c1a-899d-4235-84b4-ea092ea4134a": {
+      "type": "team-member",
+      "blocks": {
+        "template--14450457837630__44f20c1a-899d-4235-84b4-ea092ea4134a-1665689523dc1a1cde-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_67538433_c611f2d4-3315-4bfe-8e03-695aa7af890f.jpg",
+            "name": "Vega",
+            "pronouns": "They\/he",
+            "position": "Maker",
+            "content": "<p><strong>One day, I will go here:<\/strong> Japan for an extended festival tour!<\/p><p><strong>Best thing about my job:<\/strong> Learning new techniques for jewelry making as new Betsy & Iya designs are released. <\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Messing around in my garden, tiring out my dog, out in nature searching for foraged foods and rockhounding, or cooking something delicious. <\/p><p><strong>This will always be in my playlist:<\/strong> The weekly new episode of The Poor Prole's Almanac. <\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457837630__44f20c1a-899d-4235-84b4-ea092ea4134a-1665689523dc1a1cde-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "99b5c4f6-7dcb-40b6-bb4c-b621df938c02": {
+      "type": "team-member",
+      "blocks": {
+        "6472fd6a-7313-46c3-a83e-67abc9f5eed2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BI-Meet_The_Team-Ella-2021-3.jpg",
+            "name": "Ella",
+            "pronouns": "she\/her",
+            "position": "Production Manager",
+            "content": "<p><strong>One day, I will go here:<\/strong> Uluru, in Australia.<\/p><p><strong>Best thing about my job:<\/strong> The best thing about my job is learning from my peers. B&I facilitates an inclusive, thoughtful and efficient learning\/working environment. It's incredibly rad here.<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Designing & creating art\/jewelry with my wife for our company, 'Om & Oi!' I also love playing my banjolele & practicing meditation.<\/p><p><strong>This will always be in my playlist:<\/strong> Dunes by Alabama Shakes.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "6472fd6a-7313-46c3-a83e-67abc9f5eed2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "bd6aa06b-e150-4a5e-b391-cbaa5f2ea593": {
+      "type": "team-member",
+      "blocks": {
+        "template--14450457837630__bd6aa06b-e150-4a5e-b391-cbaa5f2ea593-1665689523dc1a1cde-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jami_staff_photo.jpg",
+            "name": "Jami",
+            "pronouns": "she\/her",
+            "position": "Maker",
+            "content": "<p><strong>One day, I will go here:<\/strong> Bali for a meditation retreat.<\/p><p><strong>Best thing about my job:<\/strong> The people! Authentic and kind. Always working to create a space where all feel valued and appreciated.<\/p><p><strong>When I’m not working, I’m probably doing this:<\/strong> Traveling, walking my dog and spending time with my family.<\/p><p><strong>This will always be in my playlist:<\/strong> It really just depends on my mood! Anything Pearl Jam, Beyoncé, John Legend, Snoop Dog...<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457837630__bd6aa06b-e150-4a5e-b391-cbaa5f2ea593-1665689523dc1a1cde-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "d3b71aae-483d-4dfb-9f20-cfdb12cf59a6": {
+      "type": "team-member",
+      "blocks": {
+        "template--14450457837630__d3b71aae-483d-4dfb-9f20-cfdb12cf59a6-1665689523dc1a1cde-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gingham.webp",
+            "name": "Gingham",
+            "pronouns": "",
+            "position": "Senior Nap Coordinator",
+            "content": "<p><strong>Hometown:<\/strong> Portland, OR<\/p><p><strong>What is the longest word you know? <\/strong>Ginghammacphearsoncervarich. That's my actual full name, but you can call me Gingham, Ging, Gingy, Ponk, Ponk-a-doodle, Lady, or Lady Ham for short.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457837630__d3b71aae-483d-4dfb-9f20-cfdb12cf59a6-1665689523dc1a1cde-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "83ef0122-b498-49ef-bdf6-412088397d57": {
+      "type": "team-member",
+      "blocks": {
+        "template--14450457837630__83ef0122-b498-49ef-bdf6-412088397d57-1665689523dc1a1cde-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Maurice.webp",
+            "name": "Maurice",
+            "pronouns": "",
+            "position": "Chief Morale Officer",
+            "content": "<p><strong>Hometown:<\/strong> California<\/p><p><strong>If you could be in the movie of your choice, what movie would you choose and what character would you play? <\/strong>Wow, that's a great question. Probably Good Will Hunting. Not just because I got my Doctorate in Mathematics, but because whenever my dad (Will) leaves I'm always trying to figure out where he went. Also, Robin Williams and Matt Damon, what could be a better duo?<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14450457837630__83ef0122-b498-49ef-bdf6-412088397d57-1665689523dc1a1cde-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "cycle_speed": 8,
+        "accent_background": "#fbf7f1",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8bd39f97-ba0a-408a-8af4-9bfe7f107c52",
+    "57e745c1-54f5-47d9-b07b-a8129b8a63b4",
+    "76e7dac2-dec0-45cc-993c-c5e4e36bfba0",
+    "53b61e0a-1977-483c-a7e5-22bcd0853d55",
+    "4d7f9b33-80c5-4911-80ab-9fdbbf008b2b",
+    "c96c77b4-40f1-4f51-9b3e-278048f12b9e",
+    "1149b69f-942e-4dd4-87bc-784aa5c1468c",
+    "a546b96b-ff55-41a8-8d1a-b6fa922b69d2",
+    "3526e76d-dc4a-4cdd-aa65-a21aa6cc001a",
+    "6ec90054-4a01-4e37-ac48-40428f768baa",
+    "c3ab6bc7-a62c-4172-b84c-6da3566752ab",
+    "89ccfe21-ec86-4faa-9d9f-1e94f9b6112e",
+    "fbf7d50c-e043-43cb-875f-d8d69bf90137",
+    "ef600fbf-8f22-4371-9537-873d4c6306eb",
+    "ab99031c-f537-4a1d-8694-91b28be13975",
+    "89cbc974-1107-497a-8109-5ee0479977e5",
+    "226b8f11-4bc6-415f-bf6d-0972a09a9c9d",
+    "d637e6b7-a3e0-4acb-a55e-dcbb3728a526",
+    "863aa81c-07e5-4846-8359-4942a189d8b4",
+    "44f20c1a-899d-4235-84b4-ea092ea4134a",
+    "99b5c4f6-7dcb-40b6-bb4c-b621df938c02",
+    "bd6aa06b-e150-4a5e-b391-cbaa5f2ea593",
+    "d3b71aae-483d-4dfb-9f20-cfdb12cf59a6",
+    "83ef0122-b498-49ef-bdf6-412088397d57"
+  ]
+}

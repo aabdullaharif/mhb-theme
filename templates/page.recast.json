@@ -1,0 +1,367 @@
+{
+  "sections": {
+    "206fcde3-df08-45dc-9e4a-757d12e505b1": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14511631171646__206fcde3-df08-45dc-9e4a-757d12e505b1-1675289237cfbfc709-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BI-Web_Banner_Recast.jpg",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--14511631171646__206fcde3-df08-45dc-9e4a-757d12e505b1-1675289237cfbfc709-1"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "455b1fa2-0ccb-4977-974d-9932b850dc07": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14485602336830__455b1fa2-0ccb-4977-974d-9932b850dc07-16685369682ac3fc24-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/recast-hero.webp",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Give your jewelry a second story.",
+            "content": "<p>We buy back your Betsy & Iya jewelry, clean it up, fix it, and resell it at a discount.<\/p>",
+            "extra_emphasis": false,
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14485602336830__455b1fa2-0ccb-4977-974d-9932b850dc07-16685369682ac3fc24-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "large"
+      }
+    },
+    "8eec813e-7018-4684-b4af-3a452e3e9870": {
+      "type": "multi-column",
+      "blocks": {
+        "template--14485602336830__8eec813e-7018-4684-b4af-3a452e3e9870-16685369695fdb49cd-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-recast-send.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>Send your B&I jewelry to us with our free <a href=\"https:\/\/betsyandiya.com\/products\/buy-back-kit\">Buy Back kit<\/a>.<\/p><p>We'll issue you a store credit based on its value and condition. Use your credit for anything in our store, new or bought-back.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14485602336830__8eec813e-7018-4684-b4af-3a452e3e9870-16685369695fdb49cd-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-recast-clean.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>We inspect and clean every piece of jewelry we buy back and make it ready for its new owner.<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14485602336830__8eec813e-7018-4684-b4af-3a452e3e9870-16685369695fdb49cd-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-recast-sale.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>Once it passes our Quality Control checks, it's made available for sale. If it can't pass QC checks, we'll recycle it!<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--14485602336830__8eec813e-7018-4684-b4af-3a452e3e9870-16685369695fdb49cd-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-recast-happiness.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "",
+            "content": "<p>Someone else buys it and loves it and wears it all the time and gets tons and tons of compliments... and the cycle repeats itself!<\/p>",
+            "extra_emphasis": false,
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--14485602336830__8eec813e-7018-4684-b4af-3a452e3e9870-16685369695fdb49cd-0",
+        "template--14485602336830__8eec813e-7018-4684-b4af-3a452e3e9870-16685369695fdb49cd-1",
+        "template--14485602336830__8eec813e-7018-4684-b4af-3a452e3e9870-16685369695fdb49cd-2",
+        "template--14485602336830__8eec813e-7018-4684-b4af-3a452e3e9870-16685369695fdb49cd-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "",
+        "title": "<p>How does Recast™ work?<\/p>",
+        "content": "<p>Time passes and your style changes, you have too much jewelry, you're refreshing your wardrobe. For whatever reason, you decide it's time to part with your beloved piece of B&I jewelry.<strong>We've got you covered.<\/strong><\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#fbf7f1",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "80466276-6509-4801-86c2-ef910603045c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14485602336830__80466276-6509-4801-86c2-ef910603045c-16685369682ac3fc24-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BI-Recast-Product-2021-Revised-Square-1_1024x1024_2ca050d8-ffa3-4322-a98c-e536421ec456.webp",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Ready to send something in?",
+            "content": "<p>Keep our land filled with more beauty.<\/p>",
+            "extra_emphasis": false,
+            "button_text": "Get Your FREE Kit Now!",
+            "button_link": "shopify:\/\/products\/recast-buy-back-kit"
+          }
+        }
+      },
+      "block_order": [
+        "template--14485602336830__80466276-6509-4801-86c2-ef910603045c-16685369682ac3fc24-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "#ecaa1f",
+        "button_text_color": "#ffffff"
+      }
+    },
+    "bbf981bf-5d1f-4c48-9972-741559f65c02": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14511631171646__bbf981bf-5d1f-4c48-9972-741559f65c02-1675289362d6430b8e-0": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "dropdown",
+            "color_mode": "dropdown",
+            "size_chart_page": ""
+          }
+        },
+        "template--14511631171646__bbf981bf-5d1f-4c48-9972-741559f65c02-1675289362d6430b8e-1": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--14511631171646__bbf981bf-5d1f-4c48-9972-741559f65c02-1675289362d6430b8e-2": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "#ecaa1f",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--14511631171646__bbf981bf-5d1f-4c48-9972-741559f65c02-1675289362d6430b8e-0",
+        "template--14511631171646__bbf981bf-5d1f-4c48-9972-741559f65c02-1675289362d6430b8e-1",
+        "template--14511631171646__bbf981bf-5d1f-4c48-9972-741559f65c02-1675289362d6430b8e-2"
+      ],
+      "settings": {
+        "product": "recast-buy-back-kit",
+        "subheading": "",
+        "title": "",
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "enable_image_zoom": false,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c10d9f43-63f9-4284-ae21-d54ca476623d": {
+      "type": "faq",
+      "blocks": {
+        "template--14485602336830__c10d9f43-63f9-4284-ae21-d54ca476623d-166853695361f1150a-1": {
+          "type": "question",
+          "settings": {
+            "title": "What is my jewelry worth?",
+            "article": "faqs\/what-is-my-jewelry-worth",
+            "answer": ""
+          }
+        },
+        "template--14485602336830__c10d9f43-63f9-4284-ae21-d54ca476623d-166853695361f1150a-2": {
+          "type": "question",
+          "settings": {
+            "title": "What if my jewelry is in really bad shape?",
+            "article": "faqs\/what-if-my-jewelry-is-in-really-bad-shape",
+            "answer": ""
+          }
+        },
+        "template--14485602336830__c10d9f43-63f9-4284-ae21-d54ca476623d-166853695361f1150a-4": {
+          "type": "question",
+          "settings": {
+            "title": "How long does this usually take?",
+            "article": "faqs\/how-long-does-this-usually-take",
+            "answer": ""
+          }
+        },
+        "54b488f9-831b-412b-bbdd-39d9d6d697f0": {
+          "type": "question",
+          "settings": {
+            "title": "Do you buy back jewelry all the time or only during certain hours?",
+            "article": "faqs\/do-you-buy-back-jewelry-all-the-time-or-only-during-certain-hours",
+            "answer": ""
+          }
+        },
+        "125714d9-af92-454c-ae6a-e216b5620cd7": {
+          "type": "question",
+          "settings": {
+            "title": "Does store credit expire?",
+            "article": "faqs\/does-store-credit-expire",
+            "answer": ""
+          }
+        },
+        "ab953372-ce96-4c08-8dc2-801813871077": {
+          "type": "question",
+          "settings": {
+            "title": "Can you pay me cash instead of store credit?",
+            "article": "faqs\/can-you-pay-me-cash-instead-of-store-credit",
+            "answer": ""
+          }
+        },
+        "3df6505e-3d46-44d9-af75-b6c87aeb683b": {
+          "type": "question",
+          "settings": {
+            "title": "I can't remember–is this jewelry Betsy & Iya?",
+            "article": "faqs\/i-cant-remember-is-this-jewelry-betsy-iya",
+            "answer": ""
+          }
+        },
+        "7aca9691-60c0-4509-b6ea-e2851a15cc37": {
+          "type": "question",
+          "settings": {
+            "title": "Do you buy back other designers' jewelry?",
+            "article": "faqs\/do-you-buy-back-other-designers-jewelry",
+            "answer": ""
+          }
+        },
+        "49c1fe71-df3c-4e67-8d4c-bc7ed329a282": {
+          "type": "question",
+          "settings": {
+            "title": "What if I send you something that's not Betsy & Iya?",
+            "article": "faqs\/what-if-i-send-you-something-thats-not-betsy-iya",
+            "answer": ""
+          }
+        },
+        "cce76eb6-3f2a-4eda-90f3-986cb841c46b": {
+          "type": "question",
+          "settings": {
+            "title": "Is Recast jewelry melted down and cast again in the traditional jewelry sense of the word?",
+            "article": "faqs\/is-recast-jewelry-melted-down-and-cast-again-in-the-traditional-jewelry-sense-of-the-word",
+            "answer": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14485602336830__c10d9f43-63f9-4284-ae21-d54ca476623d-166853695361f1150a-1",
+        "template--14485602336830__c10d9f43-63f9-4284-ae21-d54ca476623d-166853695361f1150a-2",
+        "template--14485602336830__c10d9f43-63f9-4284-ae21-d54ca476623d-166853695361f1150a-4",
+        "54b488f9-831b-412b-bbdd-39d9d6d697f0",
+        "125714d9-af92-454c-ae6a-e216b5620cd7",
+        "ab953372-ce96-4c08-8dc2-801813871077",
+        "3df6505e-3d46-44d9-af75-b6c87aeb683b",
+        "7aca9691-60c0-4509-b6ea-e2851a15cc37",
+        "49c1fe71-df3c-4e67-8d4c-bc7ed329a282",
+        "cce76eb6-3f2a-4eda-90f3-986cb841c46b"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "FAQs",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "206fcde3-df08-45dc-9e4a-757d12e505b1",
+    "455b1fa2-0ccb-4977-974d-9932b850dc07",
+    "main",
+    "8eec813e-7018-4684-b4af-3a452e3e9870",
+    "80466276-6509-4801-86c2-ef910603045c",
+    "bbf981bf-5d1f-4c48-9972-741559f65c02",
+    "c10d9f43-63f9-4284-ae21-d54ca476623d"
+  ]
+}
